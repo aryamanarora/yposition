@@ -11,22 +11,28 @@ parens = re.compile(r'[\(\[].*?[\)\]]')
 
 fin = open('output.csv', 'w')
 writer = csv.writer(fin)
-writer.writerow(['Sentence', 'Scene Role', 'Function', 'Notes'])
+writer.writerow(['Sentence', 'Label', 'Notes'])
 
 def append_sentence(sentence, role, fxn):
-    [tag.decompose() for tag in sentence.find_all(class_='exref')]
+    number = [tag.extract().get_text() for tag in sentence.find_all(class_='exref')]
     bold = sentence.find(class_='usage')
     if bold:
         construal = bold.get('href')
         bold.string.replace_with(f'<{bold.text}><{construal.replace("/", "|")}>')
         bold.unwrap()
+    for sub in sentence.find_all('sub'):
+        try:
+            sub.string.replace_with(f'{{{sub.text}}}')
+        except:
+            pass
+    print(sentence)
     sentence = sentence.text.replace('/', '')
     notes = []
     for match in parens.findall(sentence):
         notes.append(match)
     sentence = parens.sub('', sentence).replace('|', '/')
     print(sentence)
-    writer.writerow([sentence, role, fxn, '|'.join(notes)])
+    writer.writerow([sentence, '|'.join(number), '|'.join(notes)])
 
 
 for role in supersenses:

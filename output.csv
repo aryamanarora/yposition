@@ -1,975 +1,975 @@
-Sentence,Scene Role,Function,Notes
-"<In></en/in/Circumstance--Circumstance> arguing for tax reform, the president claimed that loopholes allow   big corporations to profit from moving their headquarters overseas. ",Circumstance,Circumstance,
-You crossed the line <in></en/in/Circumstance--Circumstance> sharing confidential information.     ,Circumstance,Circumstance,"[but see  under Topic, which is syntactically parallel]"
-I found out <in></en/in/Circumstance--Circumstance> our conversation that she speaks 5 languages. ,Circumstance,Circumstance,
-Bipartisan compromise is unlikely <with></en/with/Circumstance--Circumstance> the election just around the corner. ,Circumstance,Circumstance,
-"<As></en/as/Circumstance--Circumstance> we watched, she transformed into a cat.    ",Circumstance,Circumstance,"[‘while’, ‘unfolding at the same time as’; not simply providing a ‘when’—contrast  under Time]"
-My tutor was helpful <in></en/in/Circumstance--Circumstance> giving concrete examples and exercises. ,Circumstance,Circumstance,
-You were correct <in></en/in/Circumstance--Circumstance> answering the question. ,Circumstance,Circumstance,
-You were correct <in></en/in/Circumstance--Circumstance> your answer. ,Circumstance,Circumstance,
-I was involved <in></en/in/Circumstance--Circumstance> a car accident.  ,Circumstance,Circumstance,(Circumstance)
-I bought her a bike <for></en/for/Circumstance--Circumstance> Christmas. ,Circumstance,Circumstance,
-I had peanut butter <for></en/for/Circumstance--Circumstance> lunch. ,Circumstance,Circumstance,
-Let’s discuss the matter <over></en/over/Circumstance--Circumstance> lunch.  ,Circumstance,Circumstance,[compare ]
-You can leave <as_long_as></en/as_long_as/Circumstance--Circumstance> your work is done. ,Circumstance,Circumstance,
-You can leave provided your work is done. ,Circumstance,Circumstance,
-Whether you can leave depends <on></en/on/Circumstance--Circumstance> whether your work is done. ,Circumstance,Circumstance,
-Whether you can leave is subject <to></en/to/Circumstance--Circumstance> whether your work is done. ,Circumstance,Circumstance,
-We ate there <for></en/for/Circumstance--Circumstance> dinner. ,Circumstance,Circumstance,
-I received a new bicycle <for></en/for/Circumstance--Circumstance> Christmas. ,Circumstance,Circumstance,
-I always drink eggnog <for></en/for/Circumstance--Circumstance> Christmas.  ,Circumstance,Circumstance,[at and in celebration of Christmastime]
-We were wearing costumes <for></en/for/Circumstance--Circumstance> Halloween. ,Circumstance,Circumstance,
-I haven’t seen them <in></en/in/Circumstance--Locus> that setting. ,Circumstance,Locus,
-"<In></en/in/Circumstance--Locus> that case, I wouldn’t worry about it. ",Circumstance,Locus,
-We are having fun <at></en/at/Circumstance--Locus> the party.  ,Circumstance,Locus,(Circumstance↝Locus)
-We are having fun <on></en/on/Circumstance--Locus> vacation.  ,Circumstance,Locus,(Circumstance↝Locus)
-We are <at></en/at/Circumstance--Locus> the party.  ,Circumstance,Locus,(Circumstance↝Locus)
-We are <on></en/on/Circumstance--Locus> vacation.  ,Circumstance,Locus,(Circumstance↝Locus)
-They are <on></en/on/Circumstance--Locus> a journey  ,Circumstance,Locus,(Circumstance↝Locus)
-They are <on></en/on/Circumstance--Locus>_ the _way  ,Circumstance,Locus,(Circumstance↝Locus)
-They are <on></en/on/Circumstance--Locus>_ their`$ _way  ,Circumstance,Locus,(Circumstance↝Locus)
-We have to keep going <through></en/through/Circumstance--Path> all these challenges.   ,Circumstance,Path,[metaphoric motion]|(Circumstance↝Path)
-I went outside <because_of></en/because_of/Explanation--Explanation> the smell. ,Explanation,Explanation,
-The rain is <due_to></en/due_to/Explanation--Explanation> a cold front. ,Explanation,Explanation,
-He thanked her <for></en/for/Explanation--Explanation> the cookies. ,Explanation,Explanation,
-Thank you <for></en/for/Explanation--Explanation> being so helpful. ,Explanation,Explanation,
-I will appoint him <since></en/since/Explanation--Explanation> he is most qualified for the job.  ,Explanation,Explanation,(Explanation)
-I will appoint him <as></en/as/Explanation--Explanation> he is most qualified for the job.  ,Explanation,Explanation,(Explanation)
-I will appoint him #after he is most qualified for the job.  ,Explanation,Explanation,(Explanation)
-I will appoint him #when he is most qualified for the job.  ,Explanation,Explanation,(Explanation)
- I’ll try not to whistle <since></en/since/Explanation--Explanation> I know that gets on your nerves.  ,Explanation,Explanation,[‘because’]|(Explanation)
-He reacted <out_of></en/out_of/Explanation--Source> anger.  ,Explanation,Source,(Explanation↝Source)
-I joined a protest <after></en/after/Explanation--Time> the shameful vote in Congress.  ,Explanation,Time,(Explanation↝Time)
-Her popularity has grown <since></en/since/Explanation--Time> she announced a bid for president.  ,Explanation,Time,(Explanation↝Time)
-We arrived <for></en/for/Purpose--Purpose> our  visit.  ,Purpose,Purpose,(third)|(Purpose)
-He rose <to></en/to/Purpose--Purpose> make a grand speech. ,Purpose,Purpose,
-He rose <for></en/for/Purpose--Purpose> a grand speech. ,Purpose,Purpose,
-surgery <to></en/to/Purpose--Purpose> treat a leg injury ,Purpose,Purpose,
-I went to the store <for></en/for/Purpose--Purpose> eggs.  ,Purpose,Purpose,[understood: ‘to acquirebuy eggs’]
-surgery <for></en/for/Purpose--Purpose> a leg injury  ,Purpose,Purpose,[understood: ‘to treat a leg injury’]
-We hired a caterer <for></en/for/Purpose--Purpose> the party. ,Purpose,Purpose,
-surgery <for></en/for/Purpose--Purpose> an ingrown toenail ,Purpose,Purpose,
-Call the doctor <for></en/for/Purpose--Purpose> an appointment. ,Purpose,Purpose,
-Go to the store <for></en/for/Purpose--Purpose> eggs. ,Purpose,Purpose,
-This place is great <for></en/for/Purpose--Purpose> ping-pong. ,Purpose,Purpose,
-This is a great place <for></en/for/Purpose--Purpose> ping-pong. ,Purpose,Purpose,
-This cleaner is good <for></en/for/Purpose--Purpose> hardwood floors. ,Purpose,Purpose,
-This restaurant is great <for></en/for/Purpose--Purpose> dinner. ,Purpose,Purpose,
-I need another course <in_order_to></en/in_order_to/Purpose--Purpose> graduate.  ,Purpose,Purpose,(Purpose)
-I need $20 <for></en/for/Purpose--Purpose> the show.  ,Purpose,Purpose,(Purpose)
-I need $20 <to></en/to/Purpose--Purpose> attend the show.  ,Purpose,Purpose,(Purpose)
-The dough takes an hour <to></en/to/Purpose--Purpose> rise.  ,Purpose,Purpose,(Purpose)
-I walked to this restaurant <for></en/for/Purpose--Purpose> dinner.  ,Purpose,Purpose,[walking is not a part of dinner]
-I bought food <for></en/for/Purpose--Purpose> dinner. ,Purpose,Purpose,
-We saved money <for></en/for/Purpose--Purpose> our annual vacation. ,Purpose,Purpose,
-The girl is standing <next_to></en/next_to/Locus--Locus> her mother. ,Locus,Locus,
-The girl is <by></en/by/Locus--Locus> the pigeon. ,Locus,Locus,
-I like to sing <at></en/at/Locus--Locus> the gym. ,Locus,Locus,
-I like to sing <on></en/on/Locus--Locus> Main St.. ,Locus,Locus,
-I like to sing <in></en/in/Locus--Locus> the shower. ,Locus,Locus,
-The cat is <on_top_of></en/on_top_of/Locus--Locus> the dog. ,Locus,Locus,
-The cat is <off></en/off/Locus--Locus> the dog. ,Locus,Locus,
-The cat is <beside></en/beside/Locus--Locus> the dog. ,Locus,Locus,
-The cat is <near></en/near/Locus--Locus> the dog. ,Locus,Locus,
-There are flowers <between></en/between/Locus--Locus> the trees. ,Locus,Locus,
-There are flowers <among></en/among/Locus--Locus> the trees. ,Locus,Locus,
-"When you drive north, the river is <on></en/on/Locus--Locus> the right. ",Locus,Locus,
-I read it <in></en/in/Locus--Locus> a book. ,Locus,Locus,
-I read it <on></en/on/Locus--Locus> a website. ,Locus,Locus,
-the data <in></en/in/Locus--Locus> the study ,Locus,Locus,
-The charge is <on></en/on/Locus--Locus> my credit card. ,Locus,Locus,
-We met <on></en/on/Locus--Locus> a trip to Paris. ,Locus,Locus,
-The Dow is <at></en/at/Locus--Locus> a new high. ,Locus,Locus,
-"The Dow is <at></en/at/Locus--Locus> 20,000. ",Locus,Locus,
-"That’s <in></en/in/Locus--Locus> my price range. , ",Locus,Locus,
-She was lying <on></en/on/Locus--Locus> her back. ,Locus,Locus,
-She kissed me <on></en/on/Locus--Locus> the cheek. ,Locus,Locus,
-I want to punch you <in></en/in/Locus--Locus> the face. ,Locus,Locus,
-The cat is <inside></en/inside/Locus--Locus> the house. ,Locus,Locus,
-The cat is <inside></en/inside/Locus--Locus>. ,Locus,Locus,
-All passengers are <aboard></en/aboard/Locus--Locus> the ship. ,Locus,Locus,
-All passengers are <aboard></en/aboard/Locus--Locus>. ,Locus,Locus,
-The doctor is <in></en/in/Locus--Locus> the office. ,Locus,Locus,
-The doctor is <out_of></en/out_of/Locus--Locus> the office. ,Locus,Locus,
-The doctor is <away_from></en/away_from/Locus--Locus> the office. ,Locus,Locus,
-The doctor is <in></en/in/Locus--Locus>. ,Locus,Locus,
-The doctor is <out></en/out/Locus--Locus>. ,Locus,Locus,
-The doctor is <away></en/away/Locus--Locus>. ,Locus,Locus,
-They are <out></en/out/Locus--Locus> to eat. ,Locus,Locus,
-Will you be <around></en/around/Locus--Locus> in the afternoon? ,Locus,Locus,
-She’s the best doctor <around></en/around/Locus--Locus>! ,Locus,Locus,
-The bird was flying <in></en/in/Locus--Locus> the house.  ,Locus,Locus,[The flying took place in the house.]
-They were running <on></en/on/Locus--Locus> the street.  ,Locus,Locus,[The running took place on the street.]
-Your heart rate is <at></en/at/Locus--Locus> 70 bpm. ,Locus,Locus,
-restaurants <within></en/within/Locus--Locus> 10 miles  ,Locus,Locus,[physical location]
-I will explain my argument <below></en/below/Locus--Locus>.  ,Locus,Locus,[discourse location]
-The cable is attached <to></en/to/Locus--Goal> the wall.  ,Locus,Goal,(Locus↝Goal)
-The cable connects <to></en/to/Locus--Goal> the wall.  ,Locus,Goal,(Locus↝Goal)
-The road extends <to></en/to/Locus--Goal> the river.  ,Locus,Goal,(Locus↝Goal)
-We are quite close <to></en/to/Locus--Goal> the river.  ,Locus,Goal,(Locus↝Goal)
-The river is <to></en/to/Locus--Goal> the north.   ,Locus,Goal,(Locus↝Goal)|[cf. ]
-Protesters were kept <from></en/from/Locus--Source> the area.   ,Locus,Source,(Locus↝Source)|[repeated: ]
-Protesters were missing <from></en/from/Locus--Source> the area.   ,Locus,Source,(Locus↝Source)|[repeated: ]
-I saw him <from></en/from/Locus--Source> the roof.  ,Locus,Source,(Locus↝Source)
-Protesters were kept <from></en/from/Locus--Source> the area.  ,Locus,Source,(Locus↝Source)
-Protesters were missing <from></en/from/Locus--Source> the area.  ,Locus,Source,(Locus↝Source)
-We live <across_from></en/across_from/Locus--Source> you.  ,Locus,Source,(Locus↝Source)
-We are quite far <from></en/from/Locus--Source> the river.  ,Locus,Source,(Locus↝Source)
-The river is north <of></en/of/Locus--Source> Paris.  ,Locus,Source,(Locus↝Source)
-A road runs <through></en/through/Locus--Path> my property.  ,Locus,Path,(Locus↝Path)
-John saw Mary <through></en/through/Locus--Path> the window.  ,Locus,Path,(Locus↝Path)
-John saw Mary <over></en/over/Locus--Path> the fence.  ,Locus,Path,(Locus↝Path)
-We’re just <across></en/across/Locus--Path> the street fromLocus↝Source you.  ,Locus,Path,(Locus↝Path)
-The kids ran <around></en/around/Locus--Path>. ,Locus,Path,
-The kids ran <around></en/around/Locus--Path> the kitchen. ,Locus,Path,
-The kids ran <throughout></en/throughout/Locus--Path> the kitchen. ,Locus,Path,
-The kids ran <around></en/around/Locus--Path> in the kitchen. ,Locus,Path,
-The mountains are 3 km <away></en/away/Locus--Direction>.  ,Locus,Direction,(Locus↝Direction)
-The mountains are 3 km <apart></en/apart/Locus--Direction>.  ,Locus,Direction,(Locus↝Direction)
-The mountains are 3 km <away_from></en/away_from/Locus--Direction> our house.  ,Locus,Direction,(Locus↝Direction)
-The mountains are an hour <away></en/away/Locus--Direction>.  ,Locus,Direction,(Locus↝Direction)
-The mountains are an hour <apart></en/apart/Locus--Direction>.  ,Locus,Direction,(Locus↝Direction)
-They live  <out></en/out/Locus--Direction> pastLocus↝Path the highway.  ,Locus,Direction,(way)|(Locus↝Direction)
-They live   <over></en/over/Locus--Direction> byLocus the school  ,Locus,Direction,(way)|(Locus↝Direction)
-The girl is standing <with></en/with/Locus--Ancillary> her mother. ,Locus,Ancillary,
-The girl is <with></en/with/Locus--Ancillary> the pigeon.  ,Locus,Ancillary,"(presumably, close to and interacting with it or paying special attention to it)"
-I brought my backpack <with></en/with/Locus--Ancillary> me.  ,Locus,Ancillary,[emphasizes that the backpackfriend is located with the speaker]
-I brought my friend <with></en/with/Locus--Ancillary> me.  ,Locus,Ancillary,[emphasizes that the backpackfriend is located with the speaker]
-the room<'s></en/'s/Locus--Gestalt> 2 beds  ,Locus,Gestalt,(Locus↝Gestalt)
-Links <between></en/between/Locus--Whole> science and industry are important.  ,Locus,Whole,(Locus↝Whole)
-Famous castles <of></en/of/Locus--Whole> the valley  ,Locus,Whole,(Locus↝Whole)
-The drugs put her <in></en/in/Goal--Locus> a coma.  ,Goal,Locus,(Goal↝Locus)
-I put the lamp <next_to></en/next_to/Goal--Locus> the chair. ,Goal,Locus,
-I’ll just hop <in></en/in/Goal--Locus> the shower. ,Goal,Locus,
-I put my CV <on></en/on/Goal--Locus> the internet. ,Goal,Locus,
-The cat jumped <on></en/on/Goal--Locus> my face. ,Goal,Locus,
-The box fell <on></en/on/Goal--Locus> its side. ,Goal,Locus,
-We arrived <at></en/at/Goal--Locus> the airport. ,Goal,Locus,
-the paint that was sprayed <on></en/on/Goal--Locus> the wall  ,Goal,Locus,(Goal↝Locus)
-The drugs put John <in></en/in/Goal--Locus> a coma.  ,Goal,Locus,(Goal↝Locus)
-They chopped the wood <in></en/in/Goal--Locus> pieces.  ,Goal,Locus,(Goal↝Locus)
-Add vanilla <to></en/to/Goal--Goal> the mixture. ,Goal,Goal,
-Stir vanilla <into></en/into/Goal--Goal> the mixture. ,Goal,Goal,
-I ran <to></en/to/Goal--Goal> the store. ,Goal,Goal,
-The cat jumped <onto></en/onto/Goal--Goal> the ledge. ,Goal,Goal,
-I touched my ear <to></en/to/Goal--Goal> the floor. ,Goal,Goal,
-She sank <to></en/to/Goal--Goal> her knees. ,Goal,Goal,
-Add vanilla extract <to></en/to/Goal--Goal> the mix. ,Goal,Goal,
-Everyone contributed <to></en/to/Goal--Goal> the meeting. ,Goal,Goal,
-The temperature is rising <to></en/to/Goal--Goal> a high of 40 degrees. ,Goal,Goal,
-We have access <to></en/to/Goal--Goal> the library’s extensive collections. ,Goal,Goal,
-She slipped <into></en/into/Goal--Goal> a coma. ,Goal,Goal,
-We arrived at the airport only <to></en/to/Goal--Goal> discover that our flight had been canceled. ,Goal,Goal,
-May you live <to></en/to/Goal--Goal> be 100! ,Goal,Goal,
-I headed <to></en/to/Goal--Goal> work. ,Goal,Goal,
-I went <to></en/to/Goal--Goal> UC Berkeley for the football game. ,Goal,Goal,
-I go <to></en/to/Goal--Goal> Dr. Smith for my allergies. ,Goal,Goal,
-the paint that was applied <to></en/to/Goal--Goal> the wall ,Goal,Goal,
-the paint that was sprayed <onto></en/onto/Goal--Goal> the wall ,Goal,Goal,
-John slipped <into></en/into/Goal--Goal> a coma. ,Goal,Goal,
-Put the fork <with></en/with/Goal--Ancillary> the knives. ,Goal,Ancillary,
-Detach the cable <from></en/from/Source--Source> the wall.  ,Source,Source,(Source)
-John came <out_of></en/out_of/Source--Source> a coma.  ,Source,Source,(Source)
-We learned a lot <from></en/from/Source--Source> that book.  ,Source,Source,(Source)
-We learned a lot <from></en/from/Source--Source> that experience.  ,Source,Source,(Source)
-The cat jumped <from></en/from/Source--Source> the box. ,Source,Source,
-The cat jumped <out_of></en/out_of/Source--Source> the box. ,Source,Source,
-The cat jumped <from></en/from/Source--Source> the ledge. ,Source,Source,
-The cat jumped <off_of></en/off_of/Source--Source> the ledge. ,Source,Source,
-The cat jumped <off></en/off/Source--Source> the ledge. ,Source,Source,
-I got it <from></en/from/Source--Source> the internet. ,Source,Source,
-I got it <off></en/off/Source--Source> the internet. ,Source,Source,
-people <from></en/from/Source--Source> France ,Source,Source,
-The temperature is rising <from></en/from/Source--Source> a low of 30 degrees. ,Source,Source,
-I have arrived <from></en/from/Source--Source> work. ,Source,Source,
-We discovered he was French <from></en/from/Source--Source> his attire.  ,Source,Source,[indication]
-I made it <out_of></en/out_of/Source--Source> clay.  ,Source,Source,[material]
-She awoke <from></en/from/Source--Source> a coma. ,Source,Source,
-She came <out_of></en/out_of/Source--Source> a coma. ,Source,Source,
-We are moving <off_of></en/off_of/Source--Source> that strategy. ,Source,Source,
-I took the cat <from></en/from/Source--Source> behindLocus the couch. ,Source,Source,
-"At the sound of the gun, the sprinters ran <away_from></en/away_from/Source--Source> the starting line.  ",Source,Source,(Source)
-"At the sound of the gun, the sprinters ran <from></en/from/Source--Source> the starting line.  ",Source,Source,(Source)
-"The cat was sitting on the ledge, then jumped <off></en/off/Source--Source>.  it’) ",Source,Source,(Source: implicit ‘(of)
-"He was offered the deal, but walked <away></en/away/Source--Source>.  ",Source,Source,(Source: implicit ‘from it’)
-I received great care <from></en/from/Source--Source> this doctor. ,Source,Source,
-I got a second chance <from></en/from/Source--Source> her. ,Source,Source,
-I need a favor <from></en/from/Source--Source> you. ,Source,Source,
-"She loves teaching, and it shows <in></en/in/Manner--Locus> her smile. ",Manner,Locus,
-He reacted <with></en/with/Manner--Manner> anger. ,Manner,Manner,
-He reacted <in></en/in/Manner--Manner> anger. ,Manner,Manner,
-He reacted angrily. ,Manner,Manner,
-He reacted <with></en/with/Manner--Manner> nervous laughter.  ,Manner,Manner,[contrast: Means]
-I made the decision <by></en/by/Manner--Manner> myself.  ,Manner,Manner,[see PP Idioms]
-I made the decision <without></en/without/Manner--Manner> anyone else.  ,Manner,Manner,[see PP Idioms]
-I made the decision <on></en/on/Manner--Manner>_ my _own.  ,Manner,Manner,[see PP Idioms]
-The legislation was passed <on></en/on/Manner--Manner>_a_ bipartisan _basis.  ,Manner,Manner,(Manner)
-I wrote the book <in></en/in/Manner--Manner> French. ,Manner,Manner,
-They chatted <in></en/in/Manner--Manner> French. ,Manner,Manner,
-We talked <in></en/in/Manner--Manner> person. ,Manner,Manner,
-Your father smells <of></en/of/Manner--Stuff> elderberries.   ,Manner,Stuff,(Manner↝Stuff)|[also ]
-The soup tastes <of></en/of/Manner--Stuff> elderberries.   ,Manner,Stuff,(Manner↝Stuff)|[also ]
-You eat <like></en/like/Manner--ComparisonRef> a pig . ,Manner,ComparisonRef,(eats)
-You smell <like></en/like/Manner--ComparisonRef> a pig. ,Manner,ComparisonRef,
-I know what_ Steve looks _<like></en/like/Manner--ComparisonRef>.  ,Manner,ComparisonRef,(I know how Steve looks.)
-What_ does her hair look _<like></en/like/Manner--ComparisonRef>?  ,Manner,ComparisonRef,(How does her hair look?)
-What_ is the party _<like></en/like/Manner--ComparisonRef>?  ,Manner,ComparisonRef,(How is the party?)
-You eat <like></en/like/Manner--ComparisonRef> a pig . ,Manner,ComparisonRef,(eats)
-You smell <like></en/like/Manner--ComparisonRef> a pig. ,Manner,ComparisonRef,
-Open the door <by></en/by/Means--Means> turning the knob. ,Means,Means,
-They retaliated <by></en/by/Means--Means> shooting. ,Means,Means,
-They retaliated <with></en/with/Means--Means> shootings. ,Means,Means,
-The owners destroyed the company <by></en/by/Means--Means> growing it too fast. ,Means,Means,
-Chlorophyll absorbs the light <by></en/by/Means--Means> transfer of electrons. ,Means,Means,
-He responded to my kick <with></en/with/Means--Means> a punch.  ,Means,Means,(Means)
-He responded to my accusation <with></en/with/Means--Means> a lawsuit.  ,Means,Means,(Means)
-The bird flew <in></en/in/Path--Locus> the window. ,Path,Locus,
-They dance <in></en/in/Path--Locus> a circle. ,Path,Locus,
-A cool breeze blew <into></en/into/Path--Goal> the window.  ,Path,Goal,(Path↝Goal)
-The bird flew <out></en/out/Path--Source> the window.  ,Path,Source,(Path↝Source)
-Escape <through></en/through/Path--Path> the tunnel.  ,Path,Path,(Path)
-The bird flew <over></en/over/Path--Path> the building. ,Path,Path,
-The sun traveled <across></en/across/Path--Path> the sky. ,Path,Path,
-Hot water is running <through></en/through/Path--Path> the pipes. ,Path,Path,
-We flew to Rome <via></en/via/Path--Path> Paris. ,Path,Path,
-I go <by></en/by/Path--Path> that coffee shop every morning. ,Path,Path,
-The earth has completed another orbit <around></en/around/Path--Path> the sun. ,Path,Path,
-Escape <by></en/by/Path--Instrument> tunnel.  ,Path,Instrument,(Path↝Instrument)
-The bird flew <up></en/up/Direction--Direction>. ,Direction,Direction,
-The bird flew <out></en/out/Direction--Direction>. ,Direction,Direction,
-The bird flew <away></en/away/Direction--Direction>. ,Direction,Direction,
-The bird flew <off></en/off/Direction--Direction>. ,Direction,Direction,
-I walked <over></en/over/Direction--Direction> to where they were sitting. ,Direction,Direction,
-The price shot <up></en/up/Direction--Direction>. ,Direction,Direction,
-The camera is aimed <at></en/at/Direction--Direction> the subject. ,Direction,Direction,
-The toddler kicked <at></en/at/Direction--Direction> the wall. ,Direction,Direction,
-I headed <towards></en/toward/Direction--Direction> work but never made it there.  ,Direction,Direction,(Direction)
-I headed <for></en/for/Direction--Direction> work but never made it there.  ,Direction,Direction,(Direction)
-I headed #to work but never made it there.  ,Direction,Direction,(Direction)
-"The bikers ride parallel to the river for several miles, then  head east, <away_from></en/away_from/Direction--Direction> the river.   ",Direction,Direction,(Direction: bikers are never at the river)
-"The bikers ride parallel to the river for several miles, then  head east, #from the river.   ",Direction,Direction,(Direction: bikers are never at the river)
-The bird flew <away></en/away/Direction--Direction>.  ,Direction,Direction,(Direction: vaguely away from the viewpoint)
-The bird flew <off></en/off/Direction--Direction>.  ,Direction,Direction,(Direction: vaguely away from the viewpoint)
-We ran <for></en/for/Extent--Extent> miles. ,Extent,Extent,
-The price shot up <by></en/by/Extent--Extent> 10%. ,Extent,Extent,
-I helped <as></en/as/Extent--Extent> much as I could.  ,Extent,Extent,(Extent)
-I’m not tired <at></en/at/Extent--Extent>_all. ,Extent,Extent,
-The food is mediocre <at></en/at/Extent--Extent>_best. ,Extent,Extent,
-You should <at></en/at/Extent--Extent>_least try. ,Extent,Extent,
-It is the worst <by></en/by/Extent--Extent>_far. ,Extent,Extent,
-We’ve finished <for></en/for/Extent--Extent>_the_most_part. ,Extent,Extent,
-It was a success <in></en/in/Extent--Extent>_every_respect. ,Extent,Extent,
-It was a success <on></en/on/Extent--Extent>_all_levels. ,Extent,Extent,
-I hate it when they repeat a song <to></en/to/Extent--Extent>_death. ,Extent,Extent,
-an increase <of></en/of/Extent--Identity> 10%  ,Extent,Identity,(Extent↝Identity)
-The plans are <in></en/in/Temporal--Locus> progress. ,Temporal,Locus,
-The plans are <on></en/on/Temporal--Locus> hold. ,Temporal,Locus,
-The plans are <in></en/in/Temporal--Locus> limbo. ,Temporal,Locus,
-The party tomorrow is <on></en/on/Temporal--Locus>.  ,Temporal,Locus,(= still scheduled to happen in the future)
-The party tomorrow is <off></en/off/Temporal--Locus>.  ,Temporal,Locus,(= canceled)
-The party is <over></en/over/Temporal--Temporal>.  ,Temporal,Temporal,(= complete)
-I stayed <as></en/as/Duration--Extent> long as I could.  ,Duration,Extent,(Duration↝Extent)
-I walked <for></en/for/Duration--Duration> 20 minutes. ,Duration,Duration,
-I walked #in 20 minutes. ,Duration,Duration,
-I walked toGoal the store <in></en/in/Duration--Duration> 20 minutes.  ,Duration,Duration,[see ]
-I walked toGoal the store <within></en/within/Duration--Duration> 20 minutes.  ,Duration,Duration,[see ]
-I walked toGoal the store #for 20 minutes.  ,Duration,Duration,[see ]
-I walked a mile <in></en/in/Duration--Duration> 20 minutes. ,Duration,Duration,
-I walked a mile <within></en/within/Duration--Duration> 20 minutes. ,Duration,Duration,
-I walked a mile #for 20 minutes. ,Duration,Duration,
-I mowed the lawn <for></en/for/Duration--Duration> an hour. ,Duration,Duration,
-I mowed the lawn <in></en/in/Duration--Duration> an hour. ,Duration,Duration,
-I mowed the lawn <within></en/within/Duration--Duration> an hour. ,Duration,Duration,
-I walked <for></en/for/Duration--Duration> the entire race.  ,Duration,Duration,[the entire time of the race]
-I walked <throughout></en/throughout/Duration--Duration> the night. ,Duration,Duration,
-I walked <through></en/through/Duration--Duration> the night. ,Duration,Duration,
-I walked well <into></en/into/Duration--Duration> the night. ,Duration,Duration,
-The deal was negotiated <over></en/over/Duration--Duration>  a year. ,Duration,Duration,(the course of)
-John went to the store <for></en/for/Duration--Duration> an hour.  ,Duration,Duration,"[he spent an hour at the store, not an hour going there]"
-John left the party <for></en/for/Duration--Duration> an hour.  ,Duration,Duration,[he spent an hour away from the party before returning]
-I lifted weights <for></en/for/Duration--Duration> an hour.  ,Duration,Duration,[many individual lifting acts collectively lasting an hour]
-I walked to the store <for></en/for/Duration--Duration> a year.  ,Duration,Duration,"[over the course of a year, habitually went to the store by walking]"
-I reached the summit <in></en/in/Duration--Duration> 3 days.  ,Duration,Duration,[it took not more than 3 days]
-I had climbed 1000 feet <in></en/in/Duration--Duration>  3 days. ,Duration,Duration,[a total of]
-I fixed the engine <in></en/in/Duration--Duration> 3 days.  ,Duration,Duration,[it took not more than 3 days]
-I haven’t eaten <in></en/in/Duration--Duration> hours.    ,Duration,Duration,[hours have passed since the last time I ate]|( haven’t you eaten?)
-I haven’t eaten <for></en/for/Duration--Duration> hours.    ,Duration,Duration,[hours have passed since the last time I ate]|( haven’t you eaten?)
-I haven’t eaten  hours.    ,Duration,Duration,[hours have passed since the last time I ate]|(#When haven’t you eaten?)
-The deal was negotiated <over></en/over/Duration--Duration>  a year.  ,Duration,Duration,(the course of)|(Duration)
-I see them <on></en/on/Frequency--Manner>_a_ daily _basis.   ,Frequency,Manner,(Frequency↝Manner)|[cf. ]
-I see them <on></en/on/Frequency--Manner>_a_ daily _basis.   ,Frequency,Manner,(Frequency↝Manner)|[also ]
-Guests were arriving <at></en/at/Frequency--Frequency> a steady clip. ,Frequency,Frequency,
-The risk becomes worse <by></en/by/Frequency--Frequency> the day. ,Frequency,Frequency,
-I see them <on></en/on/Frequency--Frequency>_occasion.  ,Frequency,Frequency,"[contrast on ... occasion, ]"
-I see them <from></en/from/Frequency--Frequency>_time_to_time.  ,Frequency,Frequency,"[contrast on ... occasion, ]"
-I keep getting the same message <over></en/over/Frequency--Frequency> and over again. ,Frequency,Frequency,
-The camcorder failed <for></en/for/Frequency--Frequency> the third time.  ,Frequency,Frequency,(Frequency)
-I skipped lunch <for></en/for/Frequency--Frequency> three days inCharacteristic↝Locus a row.  ,Frequency,Frequency,[see ]
-I skipped lunch <for></en/for/Frequency--Frequency> the third day inCharacteristic↝Locus a row.  ,Frequency,Frequency,[see ]
-I arrived <back></en/back/Interval--Interval> inTime June.  ,Interval,Interval,(Interval)
-The alarm rang at a quarter <to></en/to/Time--Goal> 8.  ,Time,Goal,(Time↝Goal)
-He arrived in town <over></en/over/Time--Duration> the weekend.  ,Time,Duration,(Time↝Duration)
-He arrived in town <over></en/over/Time--Duration> the weekend.  ,Time,Duration,(Time↝Duration)
-I arrived a year <ago></en/ago/Time--Interval>.     ,Time,Interval,(Time↝Interval)|[points backwards from the present: before now]
-I arrived a year <back></en/back/Time--Interval>.  ,Time,Interval,(Time↝Interval)
-"The game started at 7:00, but I arrived <after></en/after/Time--Interval> 20 minutes.  ",Time,Interval,(Time↝Interval)
-"The game started at 7:00, but I arrived <within></en/within/Time--Interval> 20 minutes.  ",Time,Interval,(Time↝Interval)
-I reached the summit <in></en/in/Time--Interval> 3 days.  ,Time,Interval,"[= 3 days later, I reached the summit.]"
-I was at the summit <within></en/within/Time--Interval> 3 days.  ,Time,Interval,"[= 3 days later, I was at the summit.]"
-I finished climbing <in></en/in/Time--Interval> 3 days.  ,Time,Interval,"[= 3 days later, I finished climbing.]"
-They had the engine fixed <in></en/in/Time--Interval> 3 days.  ,Time,Interval,"[= 3 days later, they had the engine fixed.]"
-We left the party <after></en/after/Time--Interval> an hour.   ,Time,Interval,[an hour after it started]|(Time↝Interval)
-We left the party an hour <ago></en/ago/Time--Interval>.   ,Time,Interval,[an hour before now]|(Time↝Interval)
-The show will end <at></en/at/Time--Time> 2 p.m. ,Time,Time,
-"To beat the crowds, I will arrive a while <before></en/before/Time--Time> . ",Time,Time,(it starts)
-"To beat the crowds, I will arrive a while <beforehand></en/beforehand/Time--Time>. ",Time,Time,
-"The game started at 7:00, but I arrived 20 minutes <after></en/after/Time--Time> . ",Time,Time,(it started)
-"The game started at 7:00, but I arrived 20 minutes <afterward></en/afterward/Time--Time>. ",Time,Time,
-The party is <in></en/in/Time--Time> January. → What month is the party in?  ,Time,Time,[Or: When is the party?]
-The show will start <at></en/at/Time--Time> 10 a.m. ,Time,Time,
-We ate <in></en/in/Time--Time> the afternoon. ,Time,Time,
-We ate <during></en/during/Time--Time> the afternoon. ,Time,Time,
-We ate <at></en/at/Time--Time> 2:00. ,Time,Time,
-We ate <on></en/on/Time--Time> Friday. ,Time,Time,
-Let’s talk <at></en/at/Time--Time> lunch.  ,Time,Time,[compare ]
-Let’s talk <during></en/during/Time--Time> lunch.  ,Time,Time,[compare ]
-They will greet us <on></en/on/Time--Time> our arrival. ,Time,Time,
-They will greet us <upon></en/upon/Time--Time> our arrival. ,Time,Time,
-I succeeded <on></en/on/Time--Time> the fourth attempt.  ,Time,Time,"[contrast on occasion, ]"
-I succeeded <on></en/on/Time--Time> several occasions.  ,Time,Time,"[contrast on occasion, ]"
-The lights went out <as></en/as/Time--Time> I opened the door. ,Time,Time,
-A bee stung me <as></en/as/Time--Time> I was eating lunch. ,Time,Time,
-I will finish <after></en/after/Time--Time> tomorrow. ,Time,Time,
-I will finish <after></en/after/Time--Time> lunch. ,Time,Time,
-I will finish <after></en/after/Time--Time> you . ,Time,Time,(do)
-I will finish <by></en/by/Time--Time> tomorrow. ,Time,Time,
-I will finish <by></en/by/Time--Time> lunch. ,Time,Time,
-I will contact you <as_soon_as></en/as_soon_as/Time--Time> it’s ready. ,Time,Time,
-I will contact you once it’s ready. ,Time,Time,
- I bought a new car—that was <since></en/since/Time--Time> the breakup. ,Time,Time,[‘after’]
-"We broke up last year, and I haven’t seen her <since></en/since/Time--Time>.  ",Time,Time,[since we broke up]
-The alarm rang at a quarter <after></en/after/Time--Time> 8. ,Time,Time,
-The alarm rang at half <past></en/past/Time--Time> 8. ,Time,Time,
-The alarm rang 15 minutes <before></en/before/Time--Time> 8.  ,Time,Time,[“15 minutes” modifies the PP]
-The guests will arrive <after></en/after/Time--Time> 6:00. ,Time,Time,
-the 15th <of></en/of/Time--Whole> March  ,Time,Whole,(Time↝Whole)
-the Ides <of></en/of/Time--Whole> March  ,Time,Whole,(Time↝Whole)
-March <of></en/of/Time--Whole> 44 BC  ,Time,Whole,(Time↝Whole)
-The show will run from 10 a.m. <to></en/to/EndTime--EndTime> 2 p.m. ,EndTime,EndTime,
-Add the cider and boil <until></en/until/EndTime--EndTime> the liquid has reduced by half. ,EndTime,EndTime,
-If we have survived <up_to></en/up_to/EndTime--EndTime> now what is stopping us from surviving in the future? ,EndTime,EndTime,
-They will be in London from March 24 <through></en/through/EndTime--EndTime> May 7. ,EndTime,EndTime,
-The show will run <from></en/from/StartTime--StartTime> 10 a.m. to 2 p.m. ,StartTime,StartTime,
-a document dating <from></en/from/StartTime--StartTime> the thirteenth century ,StartTime,StartTime,
- I have loved you <since></en/since/StartTime--StartTime> the party where we met.  ,StartTime,StartTime,[‘ever since’]|(StartTime)
-He is rude <to></en/to/Beneficiary--Goal> women.  ,Beneficiary,Goal,(Beneficiary↝Goal)
-He is condescending <to></en/to/Beneficiary--Goal> women.  ,Beneficiary,Goal,(Beneficiary↝Goal)
-We have a solemn responsibility <to></en/to/Beneficiary--Goal> our armed forces.  ,Beneficiary,Goal,(Beneficiary↝Goal)
-The strategy is helpful <to></en/to/Beneficiary--Goal> investors.  ,Beneficiary,Goal,(Beneficiary↝Goal)
-The strategy poses a risk <to></en/to/Beneficiary--Goal> investors.  ,Beneficiary,Goal,(Beneficiary↝Goal)
-The strategy is available <to></en/to/Beneficiary--Goal> investors.  ,Beneficiary,Goal,(Beneficiary↝Goal)
-She exhibits rudeness <towards></en/toward/Beneficiary--Direction> customers.  ,Beneficiary,Direction,(Beneficiary↝Direction)
-Vote <for></en/for/Beneficiary--Beneficiary> Pedro! ,Beneficiary,Beneficiary,
-Vote <against></en/against/Beneficiary--Beneficiary> Pedro! ,Beneficiary,Beneficiary,
-Junk food is bad <for></en/for/Beneficiary--Beneficiary> your health. ,Beneficiary,Beneficiary,
-My parrot died <on></en/on/Beneficiary--Beneficiary> me. ,Beneficiary,Beneficiary,
-These are clothes <for></en/for/Beneficiary--Beneficiary> children. ,Beneficiary,Beneficiary,
-"Fortunately <for></en/for/Beneficiary--Beneficiary> the turkey, he received a presidential pardon. ",Beneficiary,Beneficiary,(’s future)
- clothes <for></en/for/Beneficiary--Beneficiary> children ,Beneficiary,Beneficiary,(We sell)
-a gallows <for></en/for/Beneficiary--Beneficiary> criminals ,Beneficiary,Beneficiary,
-This is the car <for></en/for/Beneficiary--Beneficiary> you!  ,Beneficiary,Beneficiary,[advertising idiom]
-This place is great <for></en/for/Beneficiary--Beneficiary> young children. ,Beneficiary,Beneficiary,
-This is a great place <for></en/for/Beneficiary--Beneficiary> young children. ,Beneficiary,Beneficiary,
-The strategy is beneficial <for></en/for/Beneficiary--Beneficiary> investors.  ,Beneficiary,Beneficiary,(Beneficiary)
-The strategy is risky <for></en/for/Beneficiary--Beneficiary> investors.  ,Beneficiary,Beneficiary,(Beneficiary)
-The strategy is an option <for></en/for/Beneficiary--Beneficiary> investors.  ,Beneficiary,Beneficiary,(Beneficiary)
-John baked a cake <for></en/for/Beneficiary--Beneficiary> Mary.  ,Beneficiary,Beneficiary,"[to help Mary out, andor with the intention of giving her the cake]"
-He is gentle and compassionate <with></en/with/Beneficiary--Theme> animals.  ,Beneficiary,Theme,(Beneficiary↝Theme)
-These are children<'s></en/'s/Beneficiary--Possessor> clothes.  ,Beneficiary,Possessor,(Beneficiary↝Possessor)
-the devastation <from></en/from/Causer--Source> the fire ,Causer,Source,
-fatalities <from></en/from/Causer--Source> cancer ,Causer,Source,
-FDR suffered <from></en/from/Causer--Source> polio. ,Causer,Source,
-the devastation ofTheme the town wreaked <by></en/by/Causer--Causer> the fire ,Causer,Causer,
-the devastation <of></en/of/Causer--Gestalt> the fire onTheme the town ,Causer,Gestalt,
-the fire<'s></en/'s/Causer--Gestalt> devastation ofTheme the town ,Causer,Gestalt,
-The attention <from></en/from/Agent--Source> the staff made us feel welcome.  ,Agent,Source,(Agent↝Source)
-I fought in a war <against></en/against/Agent--Beneficiary> the Germans. ,Agent,Beneficiary,
-the decisive vote <by></en/by/Agent--Agent> the City Council ,Agent,Agent,
-The negotiations <by></en/by/Agent--Agent> the parties went well. ,Agent,Agent,
-At the restaurant we were seated <by></en/by/Agent--Agent> the host. ,Agent,Agent,
-My business was destroyed <by></en/by/Agent--Agent> Microsoft. ,Agent,Agent,
-Why don’t you talk  <with></en/with/Agent--Ancillary> your friend? ,Agent,Ancillary,(*together)
-I talked <with></en/with/Agent--Ancillary> my roommate about cleaning duties. ,Agent,Ancillary,
-I argued <with></en/with/Agent--Ancillary> my roommate about cleaning duties. ,Agent,Ancillary,
-She swapped stories <with></en/with/Agent--Ancillary> her friends. ,Agent,Ancillary,
-She chatted <with></en/with/Agent--Ancillary> her friends. ,Agent,Ancillary,
-I fought  <with></en/with/Agent--Ancillary> her for a week.  ,Agent,Ancillary,(*together)|(= we argued opposite sides)
-Please trade places  <with></en/with/Agent--Ancillary> John. ,Agent,Ancillary,(*together)
-I was working <with></en/with/Agent--Ancillary> Michael after lunch. ,Agent,Ancillary,
-the decisive vote <of></en/of/Agent--Gestalt> the City Council ,Agent,Gestalt,
-the City Council<'s></en/'s/Agent--Gestalt> decisive vote ,Agent,Gestalt,
-the president<'s></en/'s/Agent--Gestalt> achievements ,Agent,Gestalt,
-they needed Joan<'s></en/'s/Agent--Gestalt> help ,Agent,Gestalt,
-There was a war <between></en/between/Agent--Whole> France and Spain.  ,Agent,Whole,(Agent↝Whole)
-a discussion <among></en/among/Agent--Whole> the board members  ,Agent,Whole,(Agent↝Whole)
-The negotiations <between></en/between/Agent--Whole> the parties went well.  ,Agent,Whole,(Agent↝Whole)
-The negotiations <among></en/among/Agent--Whole> the parties went well.  ,Agent,Whole,(Agent↝Whole)
-"The book is priced <at></en/at/Cost--Locus> $10. , ",Cost,Locus,
-"The book is valued <at></en/at/Cost--Locus> $10. , ",Cost,Locus,
-The book is priced <below></en/below/Cost--Locus> $10. ,Cost,Locus,
-I bought it <at></en/at/Cost--Locus> a great pricerate. ,Cost,Locus,
-I bought the book <for></en/for/Cost--Cost> $10. ,Cost,Cost,
-I sold the book <for></en/for/Cost--Cost> $10. ,Cost,Cost,
-I got a refund <of></en/of/Cost--Cost> $10. ,Cost,Cost,
-You can ride the bus <for></en/for/Cost--Cost> free. ,Cost,Cost,
-You can ride the bus <for></en/for/Cost--Cost> $1. ,Cost,Cost,
-It feels hot <to></en/to/Experiencer--Goal> me  ,Experiencer,Goal,(Experiencer↝Goal)
-That was astounding <to></en/to/Experiencer--Goal> me  ,Experiencer,Goal,(Experiencer↝Goal)
-The answer is known <to></en/to/Experiencer--Goal> me  ,Experiencer,Goal,(Experiencer↝Goal)
-Running is enjoyable <for></en/for/Experiencer--Beneficiary> me  ,Experiencer,Beneficiary,(Experiencer↝Beneficiary)
-The pizza was  salty <for></en/for/Experiencer--Beneficiary> me  ,Experiencer,Beneficiary,(too)|(Experiencer↝Beneficiary)
-"<For></en/for/Experiencer--Beneficiary> John, the party was not fun at all.  ",Experiencer,Beneficiary,(Experiencer↝Beneficiary)
-"<For></en/for/Experiencer--Beneficiary> John, there was no reason to attend.  ",Experiencer,Beneficiary,(Experiencer↝Beneficiary)
-The answer is known <by></en/by/Experiencer--Agent> me  ,Experiencer,Agent,(Experiencer↝Agent)
-I agree  <with></en/with/Experiencer--Ancillary> John.  ,Experiencer,Ancillary,(*together)|(= we share the same opinion)
-The anger <of></en/of/Experiencer--Gestalt> the students ,Experiencer,Gestalt,
-The student<s'></en/'s/Experiencer--Gestalt> anger ,Experiencer,Gestalt,
-This is <my></en/'s/Experiencer--Gestalt> favorite movie ,Experiencer,Gestalt,
-That is <my></en/'s/Experiencer--Gestalt> opinion ,Experiencer,Gestalt,
-That was <my></en/'s/Experiencer--Gestalt> experience ,Experiencer,Gestalt,
-<my></en/'s/Experiencer--Gestalt> memories of childhood ,Experiencer,Gestalt,
-Talk <on></en/on/Instrument--Locus> the phone.  ,Instrument,Locus,(Instrument↝Locus)
-Escape <in></en/in/Instrument--Locus> the getaway car.  ,Instrument,Locus,(Instrument↝Locus)
-ride <on></en/on/Instrument--Locus> horseback  ,Instrument,Locus,(Instrument↝Locus)
-hold <at></en/at/Instrument--Locus> knifepoint  ,Instrument,Locus,(Instrument↝Locus)
-Send it <over></en/over/Instrument--Path> email.  ,Instrument,Path,(Instrument↝Path)
-Send it <via></en/via/Instrument--Path> email.  ,Instrument,Path,(Instrument↝Path)
-We flew to London <via></en/via/Instrument--Path> Paris.  ,Instrument,Path,(Instrument↝Path)
-I found out the news <via></en/via/Instrument--Path> Sharon.  ,Instrument,Path,(Instrument↝Path)
-The window was broken <by></en/by/Instrument--Causer> the hammer.  ,Instrument,Causer,(Instrument↝Causer)
-My headache was alleviated <by></en/by/Instrument--Causer> aspirin.  ,Instrument,Causer,(Instrument↝Causer)
-I broke the window <with></en/with/Instrument--Instrument> a hammer. ,Instrument,Instrument,
-I destroyed the argument <with></en/with/Instrument--Instrument> my words. ,Instrument,Instrument,
-I accidentally poked myself in the eye <with></en/with/Instrument--Instrument> a stick. ,Instrument,Instrument,
-Communicate <by></en/by/Instrument--Instrument> phone.  ,Instrument,Instrument,(Instrument)
-Communicate <by></en/by/Instrument--Instrument> email.  ,Instrument,Instrument,(Instrument)
-Travel <by></en/by/Instrument--Instrument> train.  ,Instrument,Instrument,(Instrument)
-Escape <with></en/with/Instrument--Instrument> a getaway car.  ,Instrument,Instrument,(Instrument)
-He responded to my accusation <with></en/with/Instrument--Instrument> dishonest emails.  ,Instrument,Instrument,(Instrument)
-works <of></en/of/Originator--Source> Shakespeare  ,Originator,Source,"[cf. , ]"
-The story was obtained <from></en/from/Originator--Source> an anonymous White House employee. ,Originator,Source,
-I bought it <from></en/from/Originator--Source> this company. ,Originator,Source,
-I heard the news <from></en/from/Originator--Source> Larry. ,Originator,Source,
-We learned a lot <from></en/from/Originator--Source> Miss Zarves.  ,Originator,Source,(Originator↝Source)
-works <by></en/by/Originator--Agent> Shakespeare  ,Originator,Agent,"[cf. , ]"
-The telephone was invented <by></en/by/Originator--Agent> Alexander Graham Bell. ,Originator,Agent,
-The story was given toRecipient↝Goal her <by></en/by/Originator--Agent> her editor. ,Originator,Agent,
-The story was told toRecipient↝Goal her <by></en/by/Originator--Agent> her editor. ,Originator,Agent,
-Shakespeare<'s></en/'s/Originator--Gestalt> works  ,Originator,Gestalt,"[cf. , ]"
-Rodin<'s></en/'s/Originator--Gestalt> sculptures ,Originator,Gestalt,
-the restaurant<'s></en/'s/Originator--Gestalt> food ,Originator,Gestalt,
-John<'s></en/'s/Originator--Gestalt> question ,Originator,Gestalt,
-John<'s></en/'s/Originator--Gestalt> speech ,Originator,Gestalt,
-That was <my></en/'s/Originator--Gestalt> gift toRecipient↝Goal John.  ,Originator,Gestalt,"[contrast , ]"
-She gave the story <to></en/to/Recipient--Goal> her editor.  ,Recipient,Goal,(Recipient↝Goal)
-She spoke <to></en/to/Recipient--Goal> her editor.  ,Recipient,Goal,(Recipient↝Goal)
-What title did you give <to></en/to/Recipient--Goal> your essay?   ,Recipient,Goal,[inanimate]|(Recipient↝Goal)
-a message <for></en/for/Recipient--Direction> my mother  ,Recipient,Direction,(Recipient↝Direction)
-a gift <for></en/for/Recipient--Direction> my mother  ,Recipient,Direction,(Recipient↝Direction)
-a package <for></en/for/Recipient--Direction> the front office  ,Recipient,Direction,(Recipient↝Direction)
-news <for></en/for/Recipient--Direction> our readers  ,Recipient,Direction,(Recipient↝Direction)
-The news was not well received <by></en/by/Recipient--Agent> the White House. ,Recipient,Agent,
-He is yelling <at></en/at/Recipient--Recipient> me to get ready!  ,Recipient,Recipient,(Recipient↝Direction)
-"I’ll have to check  <with></en/with/Recipient--Ancillary> my supervisor. , ",Recipient,Ancillary,(*together)
-Timmy<'s></en/'s/Recipient--Gestalt> piano lesson  ,Recipient,Gestalt,(Recipient↝Gestalt)
-That was <my></en/'s/Recipient--Gestalt> gift fromOriginator↝Source Mary.  ,Recipient,Gestalt,"[contrast , ]"
-I am thankful <for></en/for/Stimulus--Explanation> your help.  ,Stimulus,Explanation,(Stimulus↝Explanation)
-I am grateful <for></en/for/Stimulus--Explanation> your help.  ,Stimulus,Explanation,(Stimulus↝Explanation)
-You should listen <to></en/to/Stimulus--Goal> the music.  ,Stimulus,Goal,(Stimulus↝Goal)
-You should pay attention <to></en/to/Stimulus--Goal> the music.  ,Stimulus,Goal,(Stimulus↝Goal)
-We were looking <at></en/at/Stimulus--Direction> the photo. ,Stimulus,Direction,
-I was angry <at></en/at/Stimulus--Direction> him.  ,Stimulus,Direction,[cf. ]
-I startled <at></en/at/Stimulus--Direction> the noise. ,Stimulus,Direction,
-Her disdain <for></en/for/Stimulus--Beneficiary> customers was apparent.  ,Stimulus,Beneficiary,(Stimulus↝Beneficiary)
-He hasfeels compassion <towards></en/toward/Stimulus--Beneficiary> animals.  ,Stimulus,Beneficiary,(Stimulus↝Beneficiary)
-He hasfeels compassion <for></en/for/Stimulus--Beneficiary> animals.  ,Stimulus,Beneficiary,(Stimulus↝Beneficiary)
-My affection <for></en/for/Stimulus--Beneficiary> you  ,Stimulus,Beneficiary,(Stimulus↝Beneficiary)
-Her disdain <for></en/for/Stimulus--Beneficiary> customers was apparent. ,Stimulus,Beneficiary,
-He hasfeels compassion <towards></en/toward/Stimulus--Beneficiary> animals. ,Stimulus,Beneficiary,
-He hasfeels compassion <for></en/for/Stimulus--Beneficiary> animals. ,Stimulus,Beneficiary,
-Scared <by></en/by/Stimulus--Causer> the bear  ,Stimulus,Causer,(Stimulus↝Causer)
-I care <about></en/about/Stimulus--Topic> you. ,Stimulus,Topic,
-That’s what I love <about></en/about/Stimulus--Topic> the show. ,Stimulus,Topic,
-I took_pride <in></en/in/Stimulus--Topic> the results. ,Stimulus,Topic,
-I was proud <of></en/of/Stimulus--Topic> the results. ,Stimulus,Topic,
-I was happy <with></en/with/Stimulus--Topic> the results. ,Stimulus,Topic,
-I was angry <with></en/with/Stimulus--Topic> him.  ,Stimulus,Topic,[cf. ]
-I was inCharacteristic↝Locus love <with></en/with/Stimulus--Topic> him.  ,Stimulus,Topic,[cf. ]
-They bored me <with></en/with/Stimulus--Topic> their incessant talk about cats. ,Stimulus,Topic,
-They charged $500  the repairs. ,Theme,Purpose,
-They asked $500  the repairs. ,Theme,Purpose,
-They paid $500  the repairs. ,Theme,Purpose,
-They owed $500  the repairs. ,Theme,Purpose,
-They  $500 <for></en/for/Theme--Purpose> the repairs. ,Theme,Purpose,
-They  $500 <to></en/to/Theme--Purpose> make the repairs. ,Theme,Purpose,
-$500 <for></en/for/Theme--Purpose> the repairs was excessive. ,Theme,Purpose,
-$500 <to></en/to/Theme--Purpose> make the repairs was excessive. ,Theme,Purpose,
-The food was covered <in></en/in/Theme--Locus> grease. ,Theme,Locus,
-I’m covered <in></en/in/Theme--Locus> bees! ,Theme,Locus,
-I put a hole <in></en/in/Theme--Locus> the box.  ,Theme,Locus,(= punctured the box)
-The mechanic made a repair <to></en/to/Theme--Goal> the engine. ,Theme,Goal,
-"Due to my injury, I am limited <to></en/to/Theme--Goal> working from home. ",Theme,Goal,
-"Due to my injury, I am constrained <to></en/to/Theme--Goal> working from home. ",Theme,Goal,
-"Due to my injury, I am restricted <to></en/to/Theme--Goal> working from home. ",Theme,Goal,
-It is important to adhere <to></en/to/Theme--Goal> your convictions. ,Theme,Goal,
-It is important to keep <to></en/to/Theme--Goal> your convictions. ,Theme,Goal,
-It is important to stick <to></en/to/Theme--Goal> your convictions. ,Theme,Goal,
-The shin bone is connected <to></en/to/Theme--Goal> the knee bone. ,Theme,Goal,
-The training saved us <from></en/from/Theme--Source> almost certain death. ,Theme,Source,
-They prevented us <from></en/from/Theme--Source> boarding the plane. ,Theme,Source,
-The boys were separated <from></en/from/Theme--Source> the girls. ,Theme,Source,
-Keep the dogs <from></en/from/Theme--Source> the cats. ,Theme,Source,
-Fill the bowl <with></en/with/Theme--Instrument> water.  ,Theme,Instrument,(Theme↝Instrument)
-The food was covered <with></en/with/Theme--Instrument> grease.  ,Theme,Instrument,(Theme↝Instrument)
-Quit <with></en/with/Theme--Theme> the whining! ,Theme,Theme,
-She helped me <with></en/with/Theme--Theme> my taxes. ,Theme,Theme,
-Don’t bother <with></en/with/Theme--Theme> an extra trip. ,Theme,Theme,
-Don’t waste time <with></en/with/Theme--Theme> an extra trip. ,Theme,Theme,
-I managed to cope <with></en/with/Theme--Theme> the heavy load. ,Theme,Theme,
-I managed to cope <with></en/with/Theme--Theme> my fear of heights. ,Theme,Theme,
-There’s nothing wrong <with></en/with/Theme--Theme> the engine. ,Theme,Theme,
-They replaced my old tires <with></en/with/Theme--Theme> new ones.  ,Theme,Theme,[replacement]
-My hovercraft is full <of></en/of/Theme--Theme> eels. ,Theme,Theme,
-Sheldukher looked <for></en/for/Theme--Theme> his laser pistol.     ,Theme,Theme,[contrast with transitive verb plus Characteristic in ]
-Sheldukher searched <for></en/for/Theme--Theme> his laser pistol.     ,Theme,Theme,[contrast with transitive verb plus Characteristic in ]
-Sheldukher fumbled <for></en/for/Theme--Theme> his laser pistol.     ,Theme,Theme,[contrast with transitive verb plus Characteristic in ]
-Sheldukher asked <for></en/for/Theme--Theme> his laser pistol. ,Theme,Theme,
-Sheldukher made a request <for></en/for/Theme--Theme> his laser pistol. ,Theme,Theme,
-There is a significant demand <for></en/for/Theme--Theme> new housing. ,Theme,Theme,
-Let’s wait <for></en/for/Theme--Theme> Steve. ,Theme,Theme,
-Let’s wait <for></en/for/Theme--Theme> more information. ,Theme,Theme,
-Let’s wait <for></en/for/Theme--Theme> the end of the party. ,Theme,Theme,
-They substituted new tires <for></en/for/Theme--Theme> my old ones.  ,Theme,Theme,[replacee]
-We are ready <for></en/for/Theme--Theme> an upgrade. ,Theme,Theme,
-We are eligible <for></en/for/Theme--Theme> an upgrade. ,Theme,Theme,
-We are responsible <for></en/for/Theme--Theme> an upgrade. ,Theme,Theme,
-We are due <for></en/for/Theme--Theme> an upgrade. ,Theme,Theme,
-the approach <of></en/of/Theme--Theme> the waves ,Theme,Theme,
-the death <of></en/of/Theme--Theme> a salesman ,Theme,Theme,
-the murder <of></en/of/Theme--Theme> a salesman ,Theme,Theme,
-The mechanic worked <on></en/on/Theme--Theme> the engine. ,Theme,Theme,
-We noshed <on></en/on/Theme--Theme> snacks. ,Theme,Theme,
-Students spend a lot of money <on></en/on/Theme--Theme> textbooks. ,Theme,Theme,
-There was an increase <in></en/in/Theme--Theme> oil prices. ,Theme,Theme,
-They spent $500 <on></en/on/Theme--Theme> the repairs. ,Theme,Theme,
-a copy <of></en/of/Theme--Theme> the key ,Theme,Theme,
-What happened <to></en/to/Theme--Theme> you? ,Theme,Theme,
-This species is specific <to></en/to/Theme--Theme> North America. ,Theme,Theme,
-This species is native <to></en/to/Theme--Theme> North America. ,Theme,Theme,
-Balancing of risk and reward is inherent <to></en/to/Theme--Theme> the game. ,Theme,Theme,
-Bad weather may result <in></en/in/Theme--Theme> a delay. ,Theme,Theme,
-Why do people associate bats  <with></en/with/Theme--Ancillary> death? ,Theme,Ancillary,(*together)
-You shouldn’t confuse Mozart <with></en/with/Theme--Ancillary> Rossini. ,Theme,Ancillary,
-You shouldn’t associate Mozart <with></en/with/Theme--Ancillary> Rossini. ,Theme,Ancillary,
-His bicycle collided <with></en/with/Theme--Ancillary> hers. ,Theme,Ancillary,
-Combine butter <with></en/with/Theme--Ancillary> vanilla. ,Theme,Ancillary,
-the wave<s'></en/'s/Theme--Gestalt> approach ,Theme,Gestalt,
-the salesman<'s></en/'s/Theme--Gestalt> death ,Theme,Gestalt,
-the salesman<'s></en/'s/Theme--Gestalt> murder ,Theme,Gestalt,
-<my></en/'s/Theme--Gestalt> time in grad school ,Theme,Gestalt,
-I've never seen that in <my></en/'s/Theme--Gestalt> life ,Theme,Gestalt,
-<my></en/'s/Theme--Gestalt> destination ,Theme,Gestalt,
-<my></en/'s/Theme--Gestalt> journey ,Theme,Gestalt,
-<my></en/'s/Theme--Gestalt> travels ,Theme,Gestalt,
-There was a collision in mid-air <between></en/between/Theme--Whole> two light aircraft.  ,Theme,Whole,(Theme↝Whole)
-Let us agree <to></en/to/Topic--Goal> the deal.  ,Topic,Goal,(Topic↝Goal)
-the answer <to></en/to/Topic--Goal> the question ,Topic,Goal,
-my response <to></en/to/Topic--Goal> your question ,Topic,Goal,
-I gave a presentation <about></en/about/Topic--Topic>on politics. ,Topic,Topic,
-I spoke <about></en/about/Topic--Topic>on politics. ,Topic,Topic,
-They wouldn’t stop arguing <over></en/over/Topic--Topic> the plan. ,Topic,Topic,
-I was accused <of></en/of/Topic--Topic> treason. ,Topic,Topic,
-a picture <of></en/of/Topic--Topic> Whistler’s mother ,Topic,Topic,
-three copies <of></en/of/Topic--Topic> the test ,Topic,Topic,
-three versions <of></en/of/Topic--Topic> the test ,Topic,Topic,
-The ratings <for></en/for/Topic--Topic> this film are atrocious. ,Topic,Topic,
-The reviews <for></en/for/Topic--Topic> this film are atrocious. ,Topic,Topic,
-I did not hazard a guess <as_to></en/as_to/Topic--Topic> the cause. ,Topic,Topic,
-Try not to think <about></en/about/Topic--Topic> it. ,Topic,Topic,
-We took a minute to think <over></en/over/Topic--Topic> the situation. ,Topic,Topic,
-We took a minute to ponder <over></en/over/Topic--Topic> the situation. ,Topic,Topic,
-I plan <on></en/on/Topic--Topic> going again. ,Topic,Topic,
-I am focused <on></en/on/Topic--Topic> the task at hand. ,Topic,Topic,
-There is not enough research <on></en/on/Topic--Topic> the effects of global warming. ,Topic,Topic,
-She was dumbfounded <as_to></en/as_to/Topic--Topic> why the police had done that. ,Topic,Topic,
-Think <of></en/of/Topic--Topic> all the possibilities! ,Topic,Topic,
-I have no memory <of></en/of/Topic--Topic> the incident. ,Topic,Topic,
-I am aware <of></en/of/Topic--Topic> the problem. ,Topic,Topic,
-You can have your choice <of></en/of/Topic--Topic> chicken or fish. ,Topic,Topic,
-I disagree <with></en/with/Topic--Topic> that statement. ,Topic,Topic,
-I am familiar <with></en/with/Topic--Topic> this topic. ,Topic,Topic,
-Are you interested <in></en/in/Topic--Topic> politics? ,Topic,Topic,
-I’m confident <in></en/in/Topic--Topic> your abilities. ,Topic,Topic,
-My daughter excels <in></en/in/Topic--Topic> sports. ,Topic,Topic,
-My daughter excels <at></en/at/Topic--Topic> sports. ,Topic,Topic,
-I’m an expert <at></en/at/Topic--Topic> baking cookies. ,Topic,Topic,
-I’m talented <at></en/at/Topic--Topic> baking cookies. ,Topic,Topic,
-I’m good <at></en/at/Topic--Topic> baking cookies. ,Topic,Topic,
-I wouldn’t hestitate <in></en/in/Topic--Topic> seeing a doctor.     ,Topic,Topic,"[but see  under Circumstance, which is syntactically parallel]"
-Be reasonable <with></en/with/Topic--Topic> your expectations! ,Topic,Topic,
-They are transparent <with></en/with/Topic--Topic> their fee. ,Topic,Topic,
-The discount should apply <with></en/with/Topic--Topic> other restaurants too. ,Topic,Topic,
-I approached the manager <about></en/about/Topic--Topic> the poor service.  ,Topic,Topic,[implied communication]
-I am a big baby <about></en/about/Topic--Topic> needles.  ,Topic,Topic,[implied cognition]
-The owner wouldn’t budge <on></en/on/Topic--Topic> the price. ,Topic,Topic,
-They came through <on></en/on/Topic--Topic> all of their promises. ,Topic,Topic,
-She did not do the right thing <for></en/for/Topic--Topic> an item that was marked incorrectly. ,Topic,Topic,
-I’m fast <at></en/at/Topic--Topic> baking cookies.  ,Topic,Topic,[cf. ]
-They have almost anything you could want <when_it_comes_to></en/when_it_comes_to/Topic--Topic> spy and surveillance equipment . ,Topic,Topic,
-They have almost anything you could want <in_terms_of></en/in_terms_of/Topic--Topic> spy and surveillance equipment . ,Topic,Topic,
-Let us agree <on></en/on/Topic--Topic> the deal.  ,Topic,Topic,(Topic)
-He responded to my accusation <with></en/with/Topic--Topic> falsehoods.  ,Topic,Topic,(Topic)
-There was a problem <with></en/with/Topic--Topic> mice in the basement. ,Topic,Topic,
-We had a problem <with></en/with/Topic--Topic> mice in the basement. ,Topic,Topic,
-I have limited experience <with></en/with/Topic--Topic> numerical methods. ,Topic,Topic,
-I had a bad experience <with></en/with/Topic--Topic> a vampire. ,Topic,Topic,
-my bad experience <with></en/with/Topic--Topic> a vampire. ,Topic,Topic,
-the topicissuequestion <of></en/of/Topic--Identity> semantics ,Topic,Identity,
-the idea <of></en/of/Topic--Identity> raising money ,Topic,Identity,
-Could you walk <with></en/with/Ancillary--Ancillary> me to the store? 001,Ancillary,Ancillary,
-Could you walk <along_with></en/along_with/Ancillary--Ancillary> me to the store? 001,Ancillary,Ancillary,
-Could you walk <together_with></en/together_with/Ancillary--Ancillary> me to the store? 001,Ancillary,Ancillary,
-Can you go to the store <without></en/without/Ancillary--Ancillary> me? ,Ancillary,Ancillary,
-Can we go to the store <together></en/together/Ancillary--Ancillary>? ,Ancillary,Ancillary,
-I am admiring the paintings  <with></en/with/Ancillary--Ancillary> my friend ,Ancillary,Ancillary,"(together)|[we probably infer that “friend” is paired with “I”, and thus also admiring or at least viewing the paintings, but this requires pragmatics]"
-I am admiring the paintings  <with></en/with/Ancillary--Ancillary> the statues  ,Ancillary,Ancillary,"(together)|(= I am admiring the paintings, and the statues as well)|[we infer that “statues” is paired with “paintings”, and thus also being admired, but this requires pragmatics]"
-" <with></en/with/Ancillary--Ancillary> the president, the prime minister signed the declaration ",Ancillary,Ancillary,"(Together)|[explicit: president is together with somebody in the context of signing; inferred: president is together with the prime minister, and they probably both signed]"
-I was traveling  <with></en/with/Ancillary--Ancillary> my friendinfant ,Ancillary,Ancillary,(together)
-my travels  <with></en/with/Ancillary--Ancillary> my friend ,Ancillary,Ancillary,(together)
-I fought  <with></en/with/Ancillary--Ancillary> her to cure cancer.  ,Ancillary,Ancillary,(together)|(= we fought on the same side)
-We were sitting <together></en/together/Ancillary--Ancillary>. ,Ancillary,Ancillary,
-We were eating <together></en/together/Ancillary--Ancillary>. ,Ancillary,Ancillary,
-We were working <together></en/together/Ancillary--Ancillary>. ,Ancillary,Ancillary,
-The duck and the chick are <together></en/together/Locus--Ancillary>. ,Ancillary,Ancillary,
-a shoulder <to></en/to/Characteristic--Purpose> cry on ,Characteristic,Purpose,
-something <to></en/to/Characteristic--Purpose> eat ,Characteristic,Purpose,
-cleaner <for></en/for/Characteristic--Purpose> hardwood floors ,Characteristic,Purpose,
-The ribbon is  <in></en/in/Characteristic--Locus> a bow. ,Characteristic,Locus,(tied)
-The sand is <in></en/in/Characteristic--Locus> a pyramid shape. ,Characteristic,Locus,
-I skipped lunch forFrequency three days <in></en/in/Characteristic--Locus> a row.  ,Characteristic,Locus,[see ]
-I skipped lunch forFrequency the third day <in></en/in/Characteristic--Locus> a row.  ,Characteristic,Locus,[see ]
-The book is <in></en/in/Characteristic--Locus> French. ,Characteristic,Locus,
-music <in></en/in/Characteristic--Locus> C major ,Characteristic,Locus,
-the desk's height  <in></en/in/Characteristic--Locus> inches ,Characteristic,Locus,(measured)
-She entered the room <in></en/in/Characteristic--Locus> a stupor.  ,Characteristic,Locus,(= she was in a stupor when she entered)
-She entered the room drunk.  ,Characteristic,Locus,(= she was in a stupor when she entered)
-The chairs are <in></en/in/Characteristic--Locus> excellent shape. ,Characteristic,Locus,
-I’m <in></en/in/Characteristic--Locus> no condition to go outside. ,Characteristic,Locus,
-John is <on></en/on/Characteristic--Locus> his back. ,Characteristic,Locus,
-John is <on></en/on/Characteristic--Locus> antibiotics. ,Characteristic,Locus,
-John is <on></en/on/Characteristic--Locus> the ventilator. ,Characteristic,Locus,
-John is <in></en/in/Characteristic--Locus> pain. ,Characteristic,Locus,
-John is <in></en/in/Characteristic--Locus> a coma. ,Characteristic,Locus,
-"<on></en/on/Characteristic--Locus> fire ,    on time ,    in trouble, in love, in tune, in a hurry,    at odds, out_of business, out_of control ",Characteristic,Locus,(contrast in the fire)|(contrast at the time)
-The lights are <on></en/on/Characteristic--Locus>. ,Characteristic,Locus,
-The lights are <off></en/off/Characteristic--Locus>. ,Characteristic,Locus,
-The lights are <out></en/out/Characteristic--Locus>. ,Characteristic,Locus,
-Political TV shows are <in></en/in/Characteristic--Locus>.  ,Characteristic,Locus,[in fashion]
-John is <on></en/on/Characteristic--Locus> aspirin. → What medication is John on? ,Characteristic,Locus,
-John is <in></en/in/Characteristic--Locus> a hurry. ↛ What _ is John in? ,Characteristic,Locus,
-John is <in></en/in/Characteristic--Locus> a coma. ↛ What _ is John in? ,Characteristic,Locus,
-John is <on></en/on/Characteristic--Locus> fire. ↛ What _ is John on? ,Characteristic,Locus,
-John is <in></en/in/Characteristic--Locus> love .  ,Characteristic,Locus,(withStimulus↝Topic Mary)|[cf. ]
-That is <at></en/at/Characteristic--Locus> odds withComparisonRef↝Topic our agreement. ,Characteristic,Locus,
-I am <off></en/off/Characteristic--Locus> medications. ,Characteristic,Locus,
-I am <off></en/off/Characteristic--Locus> work. ,Characteristic,Locus,
-Stay <out_of></en/out_of/Characteristic--Locus> trouble. ,Characteristic,Locus,
-John is <into></en/into/Characteristic--Goal> sports.  ,Characteristic,Goal,[hobbiesinterests]
-Your face is <as></en/as/Characteristic--Extent> red as a rose.  ,Characteristic,Extent,(Characteristic↝Extent)
-John is <for></en/for/Characteristic--Beneficiary> the war.  ,Characteristic,Beneficiary,[opinion]
-John is <against></en/against/Characteristic--Beneficiary> the war.  ,Characteristic,Beneficiary,[opinion]
-the restaurant <with></en/with/Characteristic--Characteristic> a convenient location ,Characteristic,Characteristic,
-the restaurant <with></en/with/Characteristic--Characteristic> an extensive menu ,Characteristic,Characteristic,
-a party <with></en/with/Characteristic--Characteristic> great music ,Characteristic,Characteristic,
-a room <with></en/with/Characteristic--Characteristic> 2 beds  ,Characteristic,Characteristic,[beds are among the things in the room]
-He examined the vase <for></en/for/Characteristic--Characteristic> damage. ,Characteristic,Characteristic,
-He searched the room <for></en/for/Characteristic--Characteristic> his laser pistol.  ,Characteristic,Characteristic,"[contrast intransitive Theme, ]"
-He was tested <for></en/for/Characteristic--Characteristic> low blood sugar. ,Characteristic,Characteristic,
-The children are sorted <by></en/by/Characteristic--Characteristic> height ,Characteristic,Characteristic,
-The children are screened <by></en/by/Characteristic--Characteristic> height ,Characteristic,Characteristic,
-She exceeds him <in></en/in/Characteristic--Characteristic> height ,Characteristic,Characteristic,
-There is no difference <in></en/in/Characteristic--Characteristic> height ,Characteristic,Characteristic,
-a business <of></en/of/Characteristic--Characteristic> that sort  ,Characteristic,Characteristic,(Characteristic)
-a shelf <of></en/of/Characteristic--Stuff> rare books ,Characteristic,Stuff,
-a cardboard box <of></en/of/Characteristic--Stuff> snacks ,Characteristic,Stuff,
-This bottle is <of></en/of/Characteristic--Stuff> beer .   ,Characteristic,Stuff,(and that one is of wine)|(Characteristic↝Stuff)|[but see ]
-a car <of></en/of/Characteristic--Identity> high quality ,Characteristic,Identity,
-a man <of></en/of/Characteristic--Identity> honor ,Characteristic,Identity,
-a business <of></en/of/Characteristic--Identity> that sort  ,Characteristic,Identity,"[contrast with Species, Species]"
-She described him <as></en/as/Characteristic--Identity> sad. ,Characteristic,Identity,
-He strikes me <as></en/as/Characteristic--Identity> sad. ,Characteristic,Identity,
-a car <of></en/of/Characteristic--Identity> high quality ,Characteristic,Identity,
-a man <of></en/of/Characteristic--Identity> honor ,Characteristic,Identity,
-a business <of></en/of/Characteristic--Identity> that sort  ,Characteristic,Identity,"[contrast with Species, Species]"
-She described him <as></en/as/Characteristic--Identity> sad. ,Characteristic,Identity,
-He strikes me <as></en/as/Characteristic--Identity> sad. ,Characteristic,Identity,
-Everyone <from></en/from/PartPortion--Source>PartPortion↝Source the peasants  toPartPortion↝Goal the lord and lady gathered for the feast. ,PartPortion,Source,
-My teacher started the lesson <with></en/with/PartPortion--Means> a quiz. ,PartPortion,Means,
-The lesson started <with></en/with/PartPortion--Means> a quiz. ,PartPortion,Means,
-The meal started <with></en/with/PartPortion--Instrument> an appetizer.  ,PartPortion,Instrument,(PartPortion↝Instrument)
-a car <with></en/with/PartPortion--PartPortion> a new engine ,PartPortion,PartPortion,
-a strategy <with></en/with/PartPortion--PartPortion> 3 prongs ,PartPortion,PartPortion,
-the girl <with></en/with/PartPortion--PartPortion> flaxen hair ,PartPortion,PartPortion,
-a man <with></en/with/PartPortion--PartPortion> a wooden leg named Smith ,PartPortion,PartPortion,
-a valley <with></en/with/PartPortion--PartPortion> a castle ,PartPortion,PartPortion,
-a quintet <with></en/with/PartPortion--PartPortion> 2 cellos ,PartPortion,PartPortion,
-a performance <with></en/with/PartPortion--PartPortion> a guitar solo ,PartPortion,PartPortion,
-a cake <with></en/with/PartPortion--PartPortion> 3 layers ,PartPortion,PartPortion,
-a sandwich <with></en/with/PartPortion--PartPortion> wheat bread ,PartPortion,PartPortion,
-soup <with></en/with/PartPortion--PartPortion> carrots  ,PartPortion,PartPortion,(in it)
-a chicken sandwich <with></en/with/PartPortion--PartPortion> ketchup  ,PartPortion,PartPortion,(on it)
-Bread <without></en/without/PartPortion--PartPortion> gluten ,PartPortion,PartPortion,
-strategies <such_as></en/such_as/PartPortion--PartPortion> divide-and-conquer ,PartPortion,PartPortion,
-Everyone <except></en/except/PartPortion--PartPortion>but Bob plays trombone. ,PartPortion,PartPortion,
-strategies <like></en/like/PartPortion--ComparisonRef> divide-and-conquer   ,PartPortion,ComparisonRef,[same reading as ]|(PartPortion↝ComparisonRef)
-A clump <of></en/of/Stuff--Stuff> sand ,Stuff,Stuff,
-A piece <of></en/of/Stuff--Stuff> wood ,Stuff,Stuff,
-An evening <of></en/of/Stuff--Stuff> Brahms ,Stuff,Stuff,
-A meal <of></en/of/Stuff--Stuff> salmon ,Stuff,Stuff,
-A salad <of></en/of/Stuff--Stuff> mixed greens ,Stuff,Stuff,
-A salad <with></en/with/Stuff--Stuff> mixed greens ,Stuff,Stuff,
-the kid <in></en/in/Possession--Locus> a vest  ,Possession,Locus,(Possession↝Locus)
-They robbed her <of></en/of/Possession--Theme> her life savings. ,Possession,Theme,
-They spent $500 <on></en/on/Possession--Theme> the bicycle. ,Possession,Theme,
-They charged $500 <for></en/for/Possession--Theme> the bicycle. ,Possession,Theme,
-They asked $500 <for></en/for/Possession--Theme> the bicycle. ,Possession,Theme,
-They paid $500 <for></en/for/Possession--Theme> the bicycle. ,Possession,Theme,
-They owed $500 <for></en/for/Possession--Theme> the bicycle. ,Possession,Theme,
-$500 <for></en/for/Possession--Theme> the bicycle was excessive. ,Possession,Theme,
-I walked in <with></en/with/Possession--Ancillary> an umbrella. ,Possession,Ancillary,
-Hagrid exited the shop <with></en/with/Possession--Ancillary>  a snowy owl. ,Possession,Ancillary,(= carrying)
-People <with></en/with/Possession--Possession> money ,Possession,Possession,
-the kid <with></en/with/Possession--Possession> a vest  ,Possession,Possession,(on)
-the kid <with></en/with/Possession--Possession> makeup  ,Possession,Possession,(on)
-We are <out_of></en/out_of/Possession--Possession> toilet paper. ,Possession,Possession,
-Toilet paper? We are <out></en/out/Possession--Possession>. ,Possession,Possession,
-We are <out_of></en/out_of/Possession--Possession> toilet paper.  ,Possession,Possession,(Possession)
-I bestowed the winner <with></en/with/Possession--Possession> a bicycle. ,Possession,Possession,
-I bestowed the winner <with></en/with/Possession--Possession> $100. ,Possession,Possession,
-The deaths numbered <in></en/in/QuantityValue--Locus> the thousands. ,QuantityValue,Locus,
-We have <about></en/about/Approximator--Approximator> a dozen eggs left. ,Approximator,Approximator,
-We have <in_the_vicinity_of></en/in_the_vicinity_of/Approximator--Approximator> a dozen eggs left. ,Approximator,Approximator,
-We have <over></en/over/Approximator--Approximator> a dozen eggs left. ,Approximator,Approximator,
-We have <between></en/between/Approximator--Approximator> 3 and 6 eggs left. ,Approximator,Approximator,
-The lake is <around></en/around/Approximator--Approximator> a mile wide. ,Approximator,Approximator,
-The lake is <at_least></en/at_least/Approximator--Approximator> a mile wide. ,Approximator,Approximator,
-He is too short  basketball. ,ComparisonRef,Purpose,
-He is not tall enough  basketball. ,ComparisonRef,Purpose,
-He is  <for></en/for/ComparisonRef--Purpose> basketball. ,ComparisonRef,Purpose,
-He is  <to></en/to/ComparisonRef--Purpose> play basketball. ,ComparisonRef,Purpose,
-His height is insufficient <for></en/for/ComparisonRef--Purpose> basketball. ,ComparisonRef,Purpose,
-Your heart rate is <above></en/above/ComparisonRef--Locus> 100 bpm. ,ComparisonRef,Locus,
-Your heart rate is <above></en/above/ComparisonRef--Locus> normal. ,ComparisonRef,Locus,
-Your heart rate is <above></en/above/ComparisonRef--Locus> mine. ,ComparisonRef,Locus,
-The price is <within></en/within/ComparisonRef--Locus> my budget. ,ComparisonRef,Locus,
-My team is <ahead_of></en/ahead_of/ComparisonRef--Locus> your team in the tournament. ,ComparisonRef,Locus,
-I prefer this restaurant <over></en/over/ComparisonRef--Locus> that one.   ,ComparisonRef,Locus,[paraphrase: I like this restaurant better than that one.]
-expenses <under></en/under/Approximator--Approximator> $100 ,ComparisonRef,Locus,
-Your score is <under></en/under/Approximator--Approximator> 100. ,ComparisonRef,Locus,
-Your score is <over></en/over/Approximator--Approximator> 100. ,ComparisonRef,Locus,
-Your score is <at_least></en/at_least/Approximator--Approximator> 100. ,ComparisonRef,Locus,
-Shall I compare thee <to></en/to/ComparisonRef--Goal> a summer’s day? ,ComparisonRef,Goal,
-Her height is equal <to></en/to/ComparisonRef--Goal> mine. ,ComparisonRef,Goal,
-Her height is close <to></en/to/ComparisonRef--Goal> mine. ,ComparisonRef,Goal,
-We need to distinguish what is achievable <from></en/from/ComparisonRef--Source> what is desirable. ,ComparisonRef,Source,
-Her height is different <from></en/from/ComparisonRef--Source> mine. ,ComparisonRef,Source,
-"Don’t compare me  <with></en/with/ComparisonRef--Ancillary> my sister! , ",ComparisonRef,Ancillary,(*together)
-She is taller <than></en/than/ComparisonRef--ComparisonRef> me. ,ComparisonRef,ComparisonRef,
-She is taller <than></en/than/ComparisonRef--ComparisonRef> I am. ,ComparisonRef,ComparisonRef,
-She is taller <than></en/than/ComparisonRef--ComparisonRef> she is wide. ,ComparisonRef,ComparisonRef,
-She is better at math <than></en/than/ComparisonRef--ComparisonRef> at drawing. ,ComparisonRef,ComparisonRef,
-The shirt is more gray <than></en/than/ComparisonRef--ComparisonRef> black. ,ComparisonRef,ComparisonRef,
-She is as tall <as></en/as/ComparisonRef--ComparisonRef> I am. ,ComparisonRef,ComparisonRef,
-Your face is  red <as></en/as/ComparisonRef--ComparisonRef> a rose.  ,ComparisonRef,ComparisonRef,(asCharacteristic↝Extent)|(more on as—as comparatives: Comparatives and Superlatives)
-Your surname is the_same <as></en/as/ComparisonRef--ComparisonRef> mine. ,ComparisonRef,ComparisonRef,
-Harry had never met anyone quite <like></en/like/ComparisonRef--ComparisonRef> Luna. ,ComparisonRef,ComparisonRef,
-It was <as_if></en/as_if/ComparisonRef--ComparisonRef> he had insulted my mother. ,ComparisonRef,ComparisonRef,
-It was <like></en/like/ComparisonRef--ComparisonRef> he had insulted my mother. ,ComparisonRef,ComparisonRef,
-He is short <for></en/for/ComparisonRef--ComparisonRef> a basketball player. ,ComparisonRef,ComparisonRef,
-I don’t know anyone else <like></en/like/ComparisonRef--ComparisonRef> her.  ,ComparisonRef,ComparisonRef,[anyone else similar to her]
-I ordered soup <instead_of></en/instead_of/ComparisonRef--ComparisonRef> salad. ,ComparisonRef,ComparisonRef,
-I ordered soup <rather_than></en/rather_than/ComparisonRef--ComparisonRef> salad. ,ComparisonRef,ComparisonRef,
-"<Instead_of></en/instead_of/ComparisonRef--ComparisonRef> ordering salad, I ordered soup. ",ComparisonRef,ComparisonRef,
-The new shirts were gray <instead_of></en/instead_of/ComparisonRef--ComparisonRef> black. ,ComparisonRef,ComparisonRef,
-rice <with></en/with/Ensemble--Ancillary> beans  ,Ensemble,Ancillary,(= served or mixed together)
-rice <without></en/without/Ensemble--Ensemble> beans  ,Ensemble,Ancillary,(= served or mixed together)
-A smile <with></en/with/Ensemble--Ancillary> a nod was his answer. ,Ensemble,Ancillary,
-the foodservice <at></en/at/Gestalt--Locus> this restaurant  ,Gestalt,Locus,(Gestalt↝Locus)
-the blueness <of></en/of/Gestalt--Gestalt> the sky ,Gestalt,Gestalt,
-the sky<'s></en/'s/Gestalt--Gestalt> blueness ,Gestalt,Gestalt,
-the size <of></en/of/Gestalt--Gestalt> the crowd ,Gestalt,Gestalt,
-the crowd<'s></en/'s/Gestalt--Gestalt> size ,Gestalt,Gestalt,
-the price <of></en/of/Gestalt--Gestalt> the tea ,Gestalt,Gestalt,
-the tea<'s></en/'s/Gestalt--Gestalt> price ,Gestalt,Gestalt,
-the start time <of></en/of/Gestalt--Gestalt> the party ,Gestalt,Gestalt,
-the party<'s></en/'s/Gestalt--Gestalt> start time ,Gestalt,Gestalt,
-the power <of></en/of/Gestalt--Gestalt> the president ,Gestalt,Gestalt,
-the president<'s></en/'s/Gestalt--Gestalt> power ,Gestalt,Gestalt,
-a new way <of></en/of/Gestalt--Gestalt> thinking ,Gestalt,Gestalt,
-the amount <of></en/of/Gestalt--Gestalt> time allowed  ,Gestalt,Gestalt,[but see ]
-<my></en/'s/Gestalt--Gestalt> address; my price range; my home team; my career; my record of accomplishments ,Gestalt,Gestalt,
-Sam<'s></en/'s/Gestalt--Gestalt> dog  ,Gestalt,Gestalt,(= the dog that Sam mentioned seeing earlier in the conversation)
-<my></en/'s/Gestalt--Gestalt> odometer number   ,Gestalt,Gestalt,(= my car's odometer's number)|[contrast ]
-the restaurant<'s></en/'s/Gestalt--Gestalt> extensive menu  ,Gestalt,Gestalt,[cf. ]
-It was the chairman<'s></en/'s/Gestalt--Gestalt> fault. ,Gestalt,Gestalt,
-It was the chairman<'s></en/'s/Gestalt--Gestalt> responsibility. ,Gestalt,Gestalt,
-It was the chairman<'s></en/'s/Gestalt--Gestalt> right. ,Gestalt,Gestalt,
-<my></en/'s/Gestalt--Gestalt> hometown ,Gestalt,Gestalt,
-<my></en/'s/Gestalt--Gestalt> birthplace ,Gestalt,Gestalt,
-I am <with></en/with/Org--Ancillary> Grunnings. ,Org,Ancillary,
-people <with></en/with/Org--Ancillary> Grunnings  ,Org,Ancillary,(= Grunnings employees)
-Mr. Dursley is <with></en/with/Org--Ancillary> Grunnings. ,Org,Ancillary,
-I always do business <with></en/with/Org--Ancillary> this company. ,Org,Ancillary,
-I bank <with></en/with/Org--Ancillary> TSB. ,Org,Ancillary,
-my phone service <with></en/with/Org--Ancillary> Verizon ,Org,Ancillary,
-the cloak <on></en/on/Possessor--Locus> He-Who-Must-Not-Be-Named  ,Possessor,Locus,(Possessor↝Locus)
-He was not ready to share a house  <with></en/with/Possessor--Ancillary> her. ,Possessor,Ancillary,(*together)
-the house <of></en/of/Possessor--Possessor> the Smith family ,Possessor,Possessor,
-the Smith family<'s></en/'s/Possessor--Possessor> house ,Possessor,Possessor,
-the corgis <of></en/of/Possessor--Possessor> Queen Elizabeth ,Possessor,Possessor,
-Queen Elizabeth<'s></en/'s/Possessor--Possessor> corgis ,Possessor,Possessor,
-John<'s></en/'s/Possessor--Possessor> hotel room  ,Possessor,Possessor,[the room John is staying in as a guest]
-Mary<'s></en/'s/Possessor--Possessor> delivery truck  ,Possessor,Possessor,[the company truck that Mary drives as an employee]
-the cloak <of></en/of/Possessor--Possessor> He-Who-Must-Not-Be-Named ,Possessor,Possessor,
-He-Who-Must-Not-Be-Named<'s></en/'s/Possessor--Possessor> cloak ,Possessor,Possessor,
-<my></en/'s/Possessor--Possessor> shares of stock ,Possessor,Possessor,
-<my></en/'s/Possessor--Possessor> insurance  ,Possessor,Possessor,(= insurance that I “own”)
-<my></en/'s/Possessor--Possessor> computer file ,Possessor,Possessor,
-<my></en/'s/Possessor--Possessor> website ,Possessor,Possessor,
-the campaign<'s></en/'s/Possessor--Possessor> email list ,Possessor,Possessor,
-<my></en/'s/Possessor--Possessor> contract ,Possessor,Possessor,
-The shopkeeper<'s></en/'s/Possessor--Possessor> merchandise is fantastic.  ,Possessor,Possessor,[item to be sold]
-The store<'s></en/'s/Possessor--Possessor> merchandise is fantastic.  ,Possessor,Possessor,[item to be sold]
-"Waiter, is <my></en/'s/Possessor--Possessor> food ready?  ",Possessor,Possessor,[item identified or ordered for purchase]
-Use <my></en/'s/Possessor--Possessor> money  wisely!  ,Possessor,Possessor,(the money that I gave you)|[item that was transferred]
-<My></en/'s/Possessor--Possessor> windshield  is foggy.  ,Possessor,Possessor,(= the windshield of my vehicle)|[contrast ]
-That was <my></en/'s/Possessor--Possessor> gift.  ,Possessor,Possessor,"[contrast , ]"
-Can you outrun a herd <of></en/of/QuantityItem--Stuff> wildebeest? ,QuantityItem,Stuff,
-Put 3 bales <of></en/of/QuantityItem--Stuff> hay on the truck. ,QuantityItem,Stuff,
-A group <of></en/of/QuantityItem--Stuff> vacationers just arrived. ,QuantityItem,Stuff,
-2 groups <of></en/of/QuantityItem--Stuff> vacationers just arrived. ,QuantityItem,Stuff,
-A throng <of></en/of/QuantityItem--Stuff> vacationers just arrived. ,QuantityItem,Stuff,
-A groupthrong <of></en/of/QuantityItem--Stuff> vacationers   ,QuantityItem,Stuff,(QuantityItem↝Stuff)|[governor is collective noun not denoting an organization; more at QuantityItem]
-A generous amount <of></en/of/QuantityItem--Gestalt> time ,QuantityItem,Gestalt,
-A large number <of></en/of/QuantityItem--Gestalt> students ,QuantityItem,Gestalt,
-Pour me a bottle <of></en/of/QuantityItem--QuantityItem> beer.  ,QuantityItem,QuantityItem,(’s worth)|[but see ]
-I have 2 years <of></en/of/QuantityItem--QuantityItem> training. ,QuantityItem,QuantityItem,
-I ate 6 ounces <of></en/of/QuantityItem--QuantityItem> cake. ,QuantityItem,QuantityItem,
-I ate a piece <of></en/of/QuantityItem--QuantityItem> cake. ,QuantityItem,QuantityItem,
-An ounce <of></en/of/QuantityItem--QuantityItem> compassion ,QuantityItem,QuantityItem,
-There’s a dearth <of></en/of/QuantityItem--QuantityItem> cake in the house. ,QuantityItem,QuantityItem,
-This cake has thousands <of></en/of/QuantityItem--QuantityItem> sprinkles. ,QuantityItem,QuantityItem,
-There were thousands <of></en/of/QuantityItem--QuantityItem> deaths. ,QuantityItem,QuantityItem,
-They number in the tens <of></en/of/QuantityItem--QuantityItem> thousands. ,QuantityItem,QuantityItem,
-I have a number <of></en/of/QuantityItem--QuantityItem> students. ,QuantityItem,QuantityItem,
-I have a handful <of></en/of/QuantityItem--QuantityItem> students. ,QuantityItem,QuantityItem,
-I have a lot <of></en/of/QuantityItem--QuantityItem> students. ,QuantityItem,QuantityItem,
-We did a lot <of></en/of/QuantityItem--QuantityItem> traveling. ,QuantityItem,QuantityItem,
-There is a lot <of></en/of/QuantityItem--QuantityItem> wet sand on the beach. ,QuantityItem,QuantityItem,
-A pair <of></en/of/QuantityItem--QuantityItem> shoes ,QuantityItem,QuantityItem,
-I ate 6 ounces <of></en/of/QuantityItem--Whole> the cake in the refrigerator. ,QuantityItem,Whole,
-I ate half <of></en/of/QuantityItem--Whole> the cake. ,QuantityItem,Whole,
-I ate 50% <of></en/of/QuantityItem--Whole> the cake. ,QuantityItem,Whole,
-All <of></en/of/QuantityItem--Whole> the town’s residents   are students. ,QuantityItem,Whole,
-many <of></en/of/QuantityItem--Whole> the town’s residents   are students. ,QuantityItem,Whole,
-lots <of></en/of/QuantityItem--Whole> the town’s residents   are students. ,QuantityItem,Whole,
-a lot <of></en/of/QuantityItem--Whole> the town’s residents   are students. ,QuantityItem,Whole,
-some <of></en/of/QuantityItem--Whole> the town’s residents   are students. ,QuantityItem,Whole,
-few <of></en/of/QuantityItem--Whole> the town’s residents   are students. ,QuantityItem,Whole,
-both <of></en/of/QuantityItem--Whole> the town’s residents   are students. ,QuantityItem,Whole,
-none <of></en/of/QuantityItem--Whole> the town’s residents   are students. ,QuantityItem,Whole,
-I have seen all <of></en/of/QuantityItem--Whole> the city.  ,QuantityItem,Whole,(= the whole city)
-A lot <of></en/of/QuantityItem--Whole> the sand on the beach is wet. ,QuantityItem,Whole,
-2 <of></en/of/QuantityItem--Whole> the children are redheads. ,QuantityItem,Whole,
-2 <of></en/of/QuantityItem--Whole> the 10 children in the class are redheads. ,QuantityItem,Whole,
-Many steps are involved <in></en/in/Whole--Circumstance> the process of buying a home. \ ,Whole,Circumstance,(Whole↝Circumstance)
-the 14 episodes <in></en/in/Whole--Locus> a TV series ,Whole,Locus,
-the new engine <in></en/in/Whole--Locus> the car ,Whole,Locus,
-the escape key <on></en/on/Whole--Locus> the keyboard ,Whole,Locus,
-the flaxen hair <on></en/on/Whole--Locus> the girl ,Whole,Locus,
-the clothes <in></en/in/Whole--Locus> that pile are dirty ,Whole,Locus,
-2 <in></en/in/Whole--Locus> 10 American children are redheads.  ,Whole,Locus,(Whole↝Locus)
-There are several options to choose <from></en/from/Whole--Source>.  ,Whole,Source,(Whole↝Source)
-2 <out_of></en/out_of/Whole--Source> 10 American children are redheads.  ,Whole,Source,(Whole↝Source)
-"<Out_of></en/out_of/Whole--Source> the 10 children in the class, only Mary is a redhead.  ",Whole,Source,(Whole↝Source)
-the car<'s></en/'s/Whole--Gestalt> new engine ,Whole,Gestalt,
-the girl<'s></en/'s/Whole--Gestalt> flaxen hair ,Whole,Gestalt,
-the cake<'s></en/'s/Whole--Gestalt> 3 layers ,Whole,Gestalt,
-the strategy<'s></en/'s/Whole--Gestalt> 3 prongs ,Whole,Gestalt,
-the cake<'s></en/'s/Whole--Gestalt> tastiest bit ,Whole,Gestalt,
-the island<'s></en/'s/Whole--Gestalt> southern tip ,Whole,Gestalt,
-the shopping bag<'s></en/'s/Whole--Gestalt> interior ,Whole,Gestalt,
-the journey<'s></en/'s/Whole--Gestalt> end ,Whole,Gestalt,
-a TV series<'s></en/'s/Whole--Gestalt> 14 episodes ,Whole,Gestalt,
-the Principals Committee <of></en/of/Whole--Whole> the National Security Council ,Whole,Whole,
-Microsoft<'s></en/'s/Whole--Whole> cloud services division ,Whole,Whole,
-the new engine <of></en/of/Whole--Whole> the car ,Whole,Whole,
-the flaxen hair <of></en/of/Whole--Whole> the girl ,Whole,Whole,
-the 3 layers <of></en/of/Whole--Whole> the cake ,Whole,Whole,
-the 3 prongs <of></en/of/Whole--Whole> the strategy ,Whole,Whole,
-the tastiest bit <of></en/of/Whole--Whole> the cake ,Whole,Whole,
-the southern tip <of></en/of/Whole--Whole> the island ,Whole,Whole,
-the interior <of></en/of/Whole--Whole> the shopping bag ,Whole,Whole,
-the end <of></en/of/Whole--Whole> the journey ,Whole,Whole,
-the 14 episodes <of></en/of/Whole--Whole> a TV series ,Whole,Whole,
-the south <of></en/of/Whole--Whole> France ,Whole,Whole,
-The remainder <of></en/of/Whole--Whole> the cake ,Whole,Whole,
-The rest <of></en/of/Whole--Whole> the cake ,Whole,Whole,
-This is one <of></en/of/Whole--Whole> the worst retaurants in town. ,Whole,Whole,
-This is one <of></en/of/Whole--Whole> the better retaurants in town. ,Whole,Whole,
-"<Among></en/among/Whole--Whole> the 10 children in the class, only Mary is a redhead. ",Whole,Whole,
-It must be great to have a wonderful doctor <like></en/like/Identity--ComparisonRef> her.        ,Identity,ComparisonRef,[It must be great to have her because she is a wonderful doctor]|(Identity↝ComparisonRef)
-It must be great to have a wonderful doctor <like></en/like/Identity--ComparisonRef> she is.        ,Identity,ComparisonRef,[It must be great to have her because she is a wonderful doctor]|(Identity↝ComparisonRef)
-the state <of></en/of/Identity--Identity> Washington  ,Identity,Identity,[as opposed to the city]
-The liberal state <of></en/of/Identity--Identity> Washington has not been receptive to Trump’s message. ,Identity,Identity,
-"<As></en/as/Identity--Identity> a liberal state, Washington has not been receptive to Trump’s message. ",Identity,Identity,
-I like Bob <as></en/as/Identity--Identity> a colleague.  ,Identity,Identity,[but not as a friend]
-What a gem <of></en/of/Identity--Identity> a restaurant!  ,Identity,Identity,[exclamative idiom: both NPs are indefinite]
-the problemtaskhassle <of></en/of/Identity--Identity> raising money ,Identity,Identity,
-the age <of></en/of/Identity--Identity> eight ,Identity,Identity,
-They did a great job <of></en/of/Identity--Identity> cleaning my windows. ,Identity,Identity,
-the topicissuequestion <of></en/of/Identity--Identity> semantics ,Identity,Identity,
-the idea <of></en/of/Identity--Identity> raising money ,Identity,Identity,
-She appears <as></en/as/Identity--Identity> Ophelia in Hamlet. ,Identity,Identity,
-"He is usually a bartender, but today he is working <as></en/as/Identity--Identity> a waiter. ",Identity,Identity,
-The cost is $10 <per></en/per/RateUnit--RateUnit> item. ,RateUnit,RateUnit,
-A fuel efficiency of 40 miles <per></en/per/RateUnit--RateUnit> gallon  ,RateUnit,RateUnit,(of gas)
-Pizza is sold <by></en/by/RateUnit--RateUnit> the slice. ,RateUnit,RateUnit,
-They charge <by></en/by/RateUnit--RateUnit> the hour. ,RateUnit,RateUnit,
-Joan is studying <under></en/under/SocialRel--Locus> Prof. Smith.  ,SocialRel,Locus,(SocialRel↝Locus)
-Joan is married <to></en/to/SocialRel--Goal> John. ,SocialRel,Goal,
-Joan is divorced <from></en/from/SocialRel--Source> John. ,SocialRel,Source,
-Joan bought her house <through></en/through/SocialRel--Instrument> a real estate agent.  ,SocialRel,Instrument,(SocialRel↝Instrument)
-Joan bought her house <through></en/through/SocialRel--Instrument> a real estate agent.   ,SocialRel,Instrument,[intermediary]|(SocialRel↝Instrument)
-I work <with></en/with/SocialRel--Ancillary> Steve. ,SocialRel,Ancillary,
-I work <with></en/with/SocialRel--Ancillary> Michael. ,SocialRel,Ancillary,
-John and Mary are <together></en/together/SocialRel--Ancillary> . ,SocialRel,Ancillary,(= a couple)
-Joan has a class <with></en/with/SocialRel--Ancillary> Miss Zarves. ,SocialRel,Ancillary,
-people <with></en/with/SocialRel--Characteristic> children  ,SocialRel,Characteristic,(SocialRel↝Characteristic)
-Joan is the sister <of></en/of/SocialRel--Gestalt> John. ,SocialRel,Gestalt,
-Joan is the wife <of></en/of/SocialRel--Gestalt> John. ,SocialRel,Gestalt,
-Joan is John<'s></en/'s/SocialRel--Gestalt> sister. ,SocialRel,Gestalt,
-Joan is John<'s></en/'s/SocialRel--Gestalt> wife. ,SocialRel,Gestalt,
-Joan is a student <of></en/of/SocialRel--Gestalt> Miss Zarves. ,SocialRel,Gestalt,
-Joan is Miss Zarves<'s></en/'s/SocialRel--Gestalt> student. ,SocialRel,Gestalt,
-the rivalry <of></en/of/SocialRel--Gestalt> the teams ,SocialRel,Gestalt,
-the team<s'></en/'s/SocialRel--Gestalt> rivalry ,SocialRel,Gestalt,
-the rivalry <between></en/between/SocialRel--Whole> the teams  ,SocialRel,Whole,[see ]
-that sort <of></en/of/Species--Species> business ,Species,Species,
-A good type <of></en/of/Species--Species> ant to keep is the red ant . ,Species,Species,
-certain strains <of></en/of/Species--Species> Escherichia coli ,Species,Species,
-Modern breeds <of></en/of/Species--Species> these homing pigeons return reliably ,Species,Species,
-Some poor sap applied the wrong brand <of></en/of/Species--Species> paint ,Species,Species,
-This store offers a wide selection <of></en/of/Species--Species> footstools ,Species,Species,
-an example <of></en/of/Species--Species> Italian Renaissance architecture ,Species,Species,
-the epitome <of></en/of/Species--Species> Italian Renaissance architecture ,Species,Species,
+Sentence,Label,Notes
+"<In></en/in/Circumstance--Circumstance> arguing for tax reform, the president claimed that loopholes allow   big corporations to profit from moving their headquarters overseas. ",Circumstance#001,
+You crossed the line <in></en/in/Circumstance--Circumstance> sharing confidential information.     ,Topic#026|Circumstance#002,"[but see  under Topic, which is syntactically parallel]"
+I found out <in></en/in/Circumstance--Circumstance> our conversation that she speaks 5 languages. ,Circumstance#003,
+Bipartisan compromise is unlikely <with></en/with/Circumstance--Circumstance> the election just around the corner. ,Circumstance#007,
+"<As></en/as/Circumstance--Circumstance> we watched, she transformed into a cat.    ",Time#005|Circumstance#008,"[‘while’, ‘unfolding at the same time as’; not simply providing a ‘when’—contrast  under Time]"
+My tutor was helpful <in></en/in/Circumstance--Circumstance> giving concrete examples and exercises. ,Circumstance#009,
+You were correct <in></en/in/Circumstance--Circumstance> answering the question. ,Circumstance#010,
+You were correct <in></en/in/Circumstance--Circumstance> your answer. ,Circumstance#010,
+I was involved <in></en/in/Circumstance--Circumstance> a car accident.  ,Circumstance#011,(Circumstance)
+I bought her a bike <for></en/for/Circumstance--Circumstance> Christmas. ,Circumstance#015,
+I had peanut butter <for></en/for/Circumstance--Circumstance> lunch. ,Circumstance#016,
+Let’s discuss the matter <over></en/over/Circumstance--Circumstance> lunch.  ,Time#002|Circumstance#017,[compare ]
+You can leave <as_long_as></en/as_long_as/Circumstance--Circumstance> your work is done. ,Circumstance#018,
+You can leave provided your work is done. ,Circumstance#018,
+Whether you can leave depends <on></en/on/Circumstance--Circumstance> whether your work is done. ,Circumstance#019,
+Whether you can leave is subject <to></en/to/Circumstance--Circumstance> whether your work is done. ,Circumstance#019,
+We ate there <for></en/for/Circumstance--Circumstance> dinner. ,Purpose#023,
+I received a new bicycle <for></en/for/Circumstance--Circumstance> Christmas. ,Purpose#024,
+I always drink eggnog <for></en/for/Circumstance--Circumstance> Christmas.  ,Purpose#025,[at and in celebration of Christmastime]
+We were wearing costumes <for></en/for/Circumstance--Circumstance> Halloween. ,Purpose#026,
+I haven’t seen them <in></en/in/Circumstance--Locus> that setting. ,Circumstance#004,
+"<In></en/in/Circumstance--Locus> that case, I wouldn’t worry about it. ",Circumstance#005,
+We are having fun <at></en/at/Circumstance--Locus> the party.  ,Circumstance#013,(Circumstance↝Locus)
+We are having fun <on></en/on/Circumstance--Locus> vacation.  ,Circumstance#013,(Circumstance↝Locus)
+We are <at></en/at/Circumstance--Locus> the party.  ,Circumstance#014,(Circumstance↝Locus)
+We are <on></en/on/Circumstance--Locus> vacation.  ,Circumstance#014,(Circumstance↝Locus)
+They are <on></en/on/Circumstance--Locus> a journey  ,Circumstance#020,(Circumstance↝Locus)
+They are <on></en/on/Circumstance--Locus>_ the _way  ,Circumstance#020,(Circumstance↝Locus)
+They are <on></en/on/Circumstance--Locus>_ their{`$} _way  ,Circumstance#020,(Circumstance↝Locus)
+We have to keep going <through></en/through/Circumstance--Path> all these challenges.   ,Circumstance#006,[metaphoric motion]|(Circumstance↝Path)
+I went outside <because_of></en/because_of/Explanation--Explanation> the smell. ,Explanation#001,
+The rain is <due_to></en/due_to/Explanation--Explanation> a cold front. ,Explanation#002,
+He thanked her <for></en/for/Explanation--Explanation> the cookies. ,Explanation#004,
+Thank you <for></en/for/Explanation--Explanation> being so helpful. ,Explanation#005,
+I will appoint him <since></en/since/Explanation--Explanation> he is most qualified for the job.  ,Explanation#008,(Explanation)
+I will appoint him <as></en/as/Explanation--Explanation> he is most qualified for the job.  ,Explanation#008,(Explanation)
+I will appoint him #after he is most qualified for the job.  ,Explanation#008,(Explanation)
+I will appoint him #when he is most qualified for the job.  ,Explanation#008,(Explanation)
+ I’ll try not to whistle <since></en/since/Explanation--Explanation> I know that gets on your nerves.  ,Time#012,[‘because’]|(Explanation)
+He reacted <out_of></en/out_of/Explanation--Source> anger.  ,Explanation#003,(Explanation↝Source)
+I joined a protest <after></en/after/Explanation--Time> the shameful vote in Congress.  ,Explanation#006,(Explanation↝Time)
+Her popularity has grown <since></en/since/Explanation--Time> she announced a bid for president.  ,Explanation#007,(Explanation↝Time)
+We arrived <for></en/for/Purpose--Purpose> our  visit.  ,Frequency#008,(third)|(Purpose)
+He rose <to></en/to/Purpose--Purpose> make a grand speech. ,Purpose#001,
+He rose <for></en/for/Purpose--Purpose> a grand speech. ,Purpose#002,
+surgery <to></en/to/Purpose--Purpose> treat a leg injury ,Purpose#003,
+I went to the store <for></en/for/Purpose--Purpose> eggs.  ,Purpose#004,[understood: ‘to acquirebuy eggs’]
+surgery <for></en/for/Purpose--Purpose> a leg injury  ,Purpose#005,[understood: ‘to treat a leg injury’]
+We hired a caterer <for></en/for/Purpose--Purpose> the party. ,Purpose#006,
+surgery <for></en/for/Purpose--Purpose> an ingrown toenail ,Purpose#007,
+Call the doctor <for></en/for/Purpose--Purpose> an appointment. ,Purpose#008,
+Go to the store <for></en/for/Purpose--Purpose> eggs. ,Purpose#009,
+This place is great <for></en/for/Purpose--Purpose> ping-pong. ,Purpose#010,
+This is a great place <for></en/for/Purpose--Purpose> ping-pong. ,Purpose#011,
+This cleaner is good <for></en/for/Purpose--Purpose> hardwood floors. ,Purpose#012,
+This restaurant is great <for></en/for/Purpose--Purpose> dinner. ,Purpose#013,
+I need another course <in_order_to></en/in_order_to/Purpose--Purpose> graduate.  ,Purpose#017,(Purpose)
+I need $20 <for></en/for/Purpose--Purpose> the show.  ,Purpose#018,(Purpose)
+I need $20 <to></en/to/Purpose--Purpose> attend the show.  ,Purpose#018,(Purpose)
+The dough takes an hour <to></en/to/Purpose--Purpose> rise.  ,Purpose#019,(Purpose)
+I walked to this restaurant <for></en/for/Purpose--Purpose> dinner.  ,Purpose#020,[walking is not a part of dinner]
+I bought food <for></en/for/Purpose--Purpose> dinner. ,Purpose#021,
+We saved money <for></en/for/Purpose--Purpose> our annual vacation. ,Purpose#022,
+The girl is standing <next_to></en/next_to/Locus--Locus> her mother. ,Ancillary#004,
+The girl is <by></en/by/Locus--Locus> the pigeon. ,Ancillary#006,
+I like to sing <at></en/at/Locus--Locus> the gym. ,Locus#001,
+I like to sing <on></en/on/Locus--Locus> Main St.. ,Locus#001,
+I like to sing <in></en/in/Locus--Locus> the shower. ,Locus#001,
+The cat is <on_top_of></en/on_top_of/Locus--Locus> the dog. ,Locus#002,
+The cat is <off></en/off/Locus--Locus> the dog. ,Locus#002,
+The cat is <beside></en/beside/Locus--Locus> the dog. ,Locus#002,
+The cat is <near></en/near/Locus--Locus> the dog. ,Locus#002,
+There are flowers <between></en/between/Locus--Locus> the trees. ,Locus#003,
+There are flowers <among></en/among/Locus--Locus> the trees. ,Locus#003,
+"When you drive north, the river is <on></en/on/Locus--Locus> the right. ",Locus#004,
+I read it <in></en/in/Locus--Locus> a book. ,Locus#005,
+I read it <on></en/on/Locus--Locus> a website. ,Locus#005,
+the data <in></en/in/Locus--Locus> the study ,Locus#033,
+The charge is <on></en/on/Locus--Locus> my credit card. ,Locus#006,
+We met <on></en/on/Locus--Locus> a trip to Paris. ,Locus#007,
+The Dow is <at></en/at/Locus--Locus> a new high. ,Locus#008,
+"The Dow is <at></en/at/Locus--Locus> 20,000. ",Locus#008,
+"That’s <in></en/in/Locus--Locus> my price range. , ",Locus#009|ComparisonRef#041,
+She was lying <on></en/on/Locus--Locus> her back. ,Locus#010,
+She kissed me <on></en/on/Locus--Locus> the cheek. ,Locus#011,
+I want to punch you <in></en/in/Locus--Locus> the face. ,Locus#012,
+The cat is <inside></en/inside/Locus--Locus> the house. ,Locus#013,
+The cat is <inside></en/inside/Locus--Locus>. ,Locus#014,
+All passengers are <aboard></en/aboard/Locus--Locus> the ship. ,Locus#015,
+All passengers are <aboard></en/aboard/Locus--Locus>. ,Locus#016,
+The doctor is <in></en/in/Locus--Locus> the office. ,Locus#017,
+The doctor is <out_of></en/out_of/Locus--Locus> the office. ,Locus#017,
+The doctor is <away_from></en/away_from/Locus--Locus> the office. ,Locus#017,
+The doctor is <in></en/in/Locus--Locus>. ,Locus#018,
+The doctor is <out></en/out/Locus--Locus>. ,Locus#018,
+The doctor is <away></en/away/Locus--Locus>. ,Locus#018,
+They are <out></en/out/Locus--Locus> to eat. ,Locus#019,
+Will you be <around></en/around/Locus--Locus> in the afternoon? ,Locus#020,
+She’s the best doctor <around></en/around/Locus--Locus>! ,Locus#021,
+The bird was flying <in></en/in/Locus--Locus> the house.  ,Path#013,[The flying took place in the house.]
+They were running <on></en/on/Locus--Locus> the street.  ,Path#014,[The running took place on the street.]
+Your heart rate is <at></en/at/Locus--Locus> 70 bpm. ,ComparisonRef#040,
+restaurants <within></en/within/Locus--Locus> 10 miles  ,ComparisonRef#043,[physical location]
+I will explain my argument <below></en/below/Locus--Locus>.  ,ComparisonRef#044,[discourse location]
+The cable is attached <to></en/to/Locus--Goal> the wall.  ,Theme#051,(Locus↝Goal)
+The cable connects <to></en/to/Locus--Goal> the wall.  ,Theme#051,(Locus↝Goal)
+The road extends <to></en/to/Locus--Goal> the river.  ,Locus#024,(Locus↝Goal)
+We are quite close <to></en/to/Locus--Goal> the river.  ,Locus#029,(Locus↝Goal)
+The river is <to></en/to/Locus--Goal> the north.   ,Locus#004|Locus#031,(Locus↝Goal)|[cf. ]
+Protesters were kept <from></en/from/Locus--Source> the area.   ,Locus#026|Theme#052,(Locus↝Source)|[repeated: ]
+Protesters were missing <from></en/from/Locus--Source> the area.   ,Locus#026|Theme#052,(Locus↝Source)|[repeated: ]
+I saw him <from></en/from/Locus--Source> the roof.  ,Locus#025,(Locus↝Source)
+Protesters were kept <from></en/from/Locus--Source> the area.  ,Locus#026,(Locus↝Source)
+Protesters were missing <from></en/from/Locus--Source> the area.  ,Locus#026,(Locus↝Source)
+We live <across_from></en/across_from/Locus--Source> you.  ,Locus#027,(Locus↝Source)
+We are quite far <from></en/from/Locus--Source> the river.  ,Locus#030,(Locus↝Source)
+The river is north <of></en/of/Locus--Source> Paris.  ,Locus#032,(Locus↝Source)
+A road runs <through></en/through/Locus--Path> my property.  ,Locus#022,(Locus↝Path)
+John saw Mary <through></en/through/Locus--Path> the window.  ,Locus#023,(Locus↝Path)
+John saw Mary <over></en/over/Locus--Path> the fence.  ,Locus#023,(Locus↝Path)
+We’re just <across></en/across/Locus--Path> the street fromLocus↝Source you.  ,Locus#028,(Locus↝Path)
+The kids ran <around></en/around/Locus--Path>. ,Path#010,
+The kids ran <around></en/around/Locus--Path> the kitchen. ,Path#011,
+The kids ran <throughout></en/throughout/Locus--Path> the kitchen. ,Path#011,
+The kids ran <around></en/around/Locus--Path> in the kitchen. ,Path#012,
+The mountains are 3 km <away></en/away/Locus--Direction>.  ,Direction#006,(Locus↝Direction)
+The mountains are 3 km <apart></en/apart/Locus--Direction>.  ,Direction#006,(Locus↝Direction)
+The mountains are 3 km <away_from></en/away_from/Locus--Direction> our house.  ,Direction#007,(Locus↝Direction)
+The mountains are an hour <away></en/away/Locus--Direction>.  ,Direction#008,(Locus↝Direction)
+The mountains are an hour <apart></en/apart/Locus--Direction>.  ,Direction#008,(Locus↝Direction)
+They live  <out></en/out/Locus--Direction> pastLocus↝Path the highway.  ,Direction#009,(way)|(Locus↝Direction)
+They live   <over></en/over/Locus--Direction> by{Locus} the school  ,Direction#009,(way)|(Locus↝Direction)
+The girl is standing <with></en/with/Locus--Ancillary> her mother. ,Ancillary#005,
+The girl is <with></en/with/Locus--Ancillary> the pigeon.  ,Ancillary#007,"(presumably, close to and interacting with it or paying special attention to it)"
+I brought my backpack <with></en/with/Locus--Ancillary> me.  ,Ancillary#027,[emphasizes that the backpackfriend is located with the speaker]
+I brought my friend <with></en/with/Locus--Ancillary> me.  ,Ancillary#027,[emphasizes that the backpackfriend is located with the speaker]
+the room<'s></en/'s/Locus--Gestalt> 2 beds  ,Gestalt#011,(Locus↝Gestalt)
+Links <between></en/between/Locus--Whole> science and industry are important.  ,Theme#032,(Locus↝Whole)
+Famous castles <of></en/of/Locus--Whole> the valley  ,Whole#032,(Locus↝Whole)
+The drugs put her <in></en/in/Goal--Locus> a coma.  ,Goal#010,(Goal↝Locus)
+I put the lamp <next_to></en/next_to/Goal--Locus> the chair. ,Goal#018,
+I’ll just hop <in></en/in/Goal--Locus> the shower. ,Goal#019,
+I put my CV <on></en/on/Goal--Locus> the internet. ,Goal#020,
+The cat jumped <on></en/on/Goal--Locus> my face. ,Goal#021,
+The box fell <on></en/on/Goal--Locus> its side. ,Goal#022,
+We arrived <at></en/at/Goal--Locus> the airport. ,Goal#023,
+the paint that was sprayed <on></en/on/Goal--Locus> the wall  ,Goal#026,(Goal↝Locus)
+The drugs put John <in></en/in/Goal--Locus> a coma.  ,Characteristic#041,(Goal↝Locus)
+They chopped the wood <in></en/in/Goal--Locus> pieces.  ,Characteristic#042,(Goal↝Locus)
+Add vanilla <to></en/to/Goal--Goal> the mixture. ,Theme#048,
+Stir vanilla <into></en/into/Goal--Goal> the mixture. ,Theme#049,
+I ran <to></en/to/Goal--Goal> the store. ,Goal#001,
+The cat jumped <onto></en/onto/Goal--Goal> the ledge. ,Goal#002,
+I touched my ear <to></en/to/Goal--Goal> the floor. ,Goal#003,
+She sank <to></en/to/Goal--Goal> her knees. ,Goal#004,
+Add vanilla extract <to></en/to/Goal--Goal> the mix. ,Goal#005,
+Everyone contributed <to></en/to/Goal--Goal> the meeting. ,Goal#006,
+The temperature is rising <to></en/to/Goal--Goal> a high of 40 degrees. ,Goal#007,
+We have access <to></en/to/Goal--Goal> the library’s extensive collections. ,Goal#008,
+She slipped <into></en/into/Goal--Goal> a coma. ,Goal#009,
+We arrived at the airport only <to></en/to/Goal--Goal> discover that our flight had been canceled. ,Goal#011,
+May you live <to></en/to/Goal--Goal> be 100! ,Goal#012,
+I headed <to></en/to/Goal--Goal> work. ,Goal#013,
+I went <to></en/to/Goal--Goal> UC Berkeley for the football game. ,Goal#016,
+I go <to></en/to/Goal--Goal> Dr. Smith for my allergies. ,Goal#017,
+the paint that was applied <to></en/to/Goal--Goal> the wall ,Goal#024,
+the paint that was sprayed <onto></en/onto/Goal--Goal> the wall ,Goal#025,
+John slipped <into></en/into/Goal--Goal> a coma. ,Characteristic#040,
+Put the fork <with></en/with/Goal--Ancillary> the knives. ,Ancillary#008,
+Detach the cable <from></en/from/Source--Source> the wall.  ,Theme#050,(Source)
+John came <out_of></en/out_of/Source--Source> a coma.  ,Characteristic#039,(Source)
+We learned a lot <from></en/from/Source--Source> that book.  ,Originator#014,(Source)
+We learned a lot <from></en/from/Source--Source> that experience.  ,Originator#014,(Source)
+The cat jumped <from></en/from/Source--Source> the box. ,Source#001,
+The cat jumped <out_of></en/out_of/Source--Source> the box. ,Source#001,
+The cat jumped <from></en/from/Source--Source> the ledge. ,Source#002,
+The cat jumped <off_of></en/off_of/Source--Source> the ledge. ,Source#002,
+The cat jumped <off></en/off/Source--Source> the ledge. ,Source#002,
+I got it <from></en/from/Source--Source> the internet. ,Source#003,
+I got it <off></en/off/Source--Source> the internet. ,Source#003,
+people <from></en/from/Source--Source> France ,Source#004,
+The temperature is rising <from></en/from/Source--Source> a low of 30 degrees. ,Source#005,
+I have arrived <from></en/from/Source--Source> work. ,Source#006,
+We discovered he was French <from></en/from/Source--Source> his attire.  ,Source#007,[indication]
+I made it <out_of></en/out_of/Source--Source> clay.  ,Source#008,[material]
+She awoke <from></en/from/Source--Source> a coma. ,Source#009,
+She came <out_of></en/out_of/Source--Source> a coma. ,Source#009,
+We are moving <off_of></en/off_of/Source--Source> that strategy. ,Source#010,
+I took the cat <from></en/from/Source--Source> behind{Locus} the couch. ,Source#011,
+"At the sound of the gun, the sprinters ran <away_from></en/away_from/Source--Source> the starting line.  ",Source#012,(Source)
+"At the sound of the gun, the sprinters ran <from></en/from/Source--Source> the starting line.  ",Source#012,(Source)
+"The cat was sitting on the ledge, then jumped <off></en/off/Source--Source>.  it’) ",Source#018,(Source: implicit ‘(of)
+"He was offered the deal, but walked <away></en/away/Source--Source>.  ",Source#019,(Source: implicit ‘from it’)
+I received great care <from></en/from/Source--Source> this doctor. ,Source#022,
+I got a second chance <from></en/from/Source--Source> her. ,Source#023,
+I need a favor <from></en/from/Source--Source> you. ,Source#024,
+"She loves teaching, and it shows <in></en/in/Manner--Locus> her smile. ",Manner#015,
+He reacted <with></en/with/Manner--Manner> anger. ,Manner#001,
+He reacted <in></en/in/Manner--Manner> anger. ,Manner#001,
+He reacted angrily. ,Manner#001,
+He reacted <with></en/with/Manner--Manner> nervous laughter.  ,Manner#002,[contrast: Means]
+I made the decision <by></en/by/Manner--Manner> myself.  ,Manner#003,[see PP Idioms]
+I made the decision <without></en/without/Manner--Manner> anyone else.  ,Manner#003,[see PP Idioms]
+I made the decision <on></en/on/Manner--Manner>_ my _own.  ,Manner#003,[see PP Idioms]
+The legislation was passed <on></en/on/Manner--Manner>_a_ bipartisan _basis.  ,Manner#032,(Manner)
+I wrote the book <in></en/in/Manner--Manner> French. ,Manner#012,
+They chatted <in></en/in/Manner--Manner> French. ,Manner#012,
+We talked <in></en/in/Manner--Manner> person. ,Manner#013,
+Your father smells <of></en/of/Manner--Stuff> elderberries.   ,ComparisonRef#028|Manner#006,(Manner↝Stuff)|[also ]
+The soup tastes <of></en/of/Manner--Stuff> elderberries.   ,ComparisonRef#028|Manner#006,(Manner↝Stuff)|[also ]
+You eat <like></en/like/Manner--ComparisonRef> a pig . ,ComparisonRef#020,(eats)
+You smell <like></en/like/Manner--ComparisonRef> a pig. ,ComparisonRef#021,
+I know what_ Steve looks _<like></en/like/Manner--ComparisonRef>.  ,ComparisonRef#025,(I know how Steve looks.)
+What_ does her hair look _<like></en/like/Manner--ComparisonRef>?  ,ComparisonRef#026,(How does her hair look?)
+What_ is the party _<like></en/like/Manner--ComparisonRef>?  ,ComparisonRef#027,(How is the party?)
+You eat <like></en/like/Manner--ComparisonRef> a pig . ,Manner#004,(eats)
+You smell <like></en/like/Manner--ComparisonRef> a pig. ,Manner#005,
+Open the door <by></en/by/Means--Means> turning the knob. ,Means#001,
+They retaliated <by></en/by/Means--Means> shooting. ,Means#002,
+They retaliated <with></en/with/Means--Means> shootings. ,Means#002,
+The owners destroyed the company <by></en/by/Means--Means> growing it too fast. ,Means#003,
+Chlorophyll absorbs the light <by></en/by/Means--Means> transfer of electrons. ,Means#004,
+He responded to my kick <with></en/with/Means--Means> a punch.  ,Topic#041,(Means)
+He responded to my accusation <with></en/with/Means--Means> a lawsuit.  ,Topic#042,(Means)
+The bird flew <in></en/in/Path--Locus> the window. ,Path#007,
+They dance <in></en/in/Path--Locus> a circle. ,Path#015,
+A cool breeze blew <into></en/into/Path--Goal> the window.  ,Path#009,(Path↝Goal)
+The bird flew <out></en/out/Path--Source> the window.  ,Path#008,(Path↝Source)
+Escape <through></en/through/Path--Path> the tunnel.  ,Instrument#018,(Path)
+The bird flew <over></en/over/Path--Path> the building. ,Path#001,
+The sun traveled <across></en/across/Path--Path> the sky. ,Path#002,
+Hot water is running <through></en/through/Path--Path> the pipes. ,Path#003,
+We flew to Rome <via></en/via/Path--Path> Paris. ,Path#004,
+I go <by></en/by/Path--Path> that coffee shop every morning. ,Path#005,
+The earth has completed another orbit <around></en/around/Path--Path> the sun. ,Path#006,
+Escape <by></en/by/Path--Instrument> tunnel.  ,Instrument#019,(Path↝Instrument)
+The bird flew <up></en/up/Direction--Direction>. ,Direction#001,
+The bird flew <out></en/out/Direction--Direction>. ,Direction#001,
+The bird flew <away></en/away/Direction--Direction>. ,Direction#001,
+The bird flew <off></en/off/Direction--Direction>. ,Direction#001,
+I walked <over></en/over/Direction--Direction> to where they were sitting. ,Direction#002,
+The price shot <up></en/up/Direction--Direction>. ,Direction#003,
+The camera is aimed <at></en/at/Direction--Direction> the subject. ,Direction#004,
+The toddler kicked <at></en/at/Direction--Direction> the wall. ,Direction#005,
+I headed <towards></en/toward/Direction--Direction> work but never made it there.  ,Goal#014,(Direction)
+I headed <for></en/for/Direction--Direction> work but never made it there.  ,Goal#014,(Direction)
+I headed #to work but never made it there.  ,Goal#014,(Direction)
+"The bikers ride parallel to the river for several miles, then  head east, <away_from></en/away_from/Direction--Direction> the river.   ",Source#013,(Direction: bikers are never at the river)
+"The bikers ride parallel to the river for several miles, then  head east, #from the river.   ",Source#013,(Direction: bikers are never at the river)
+The bird flew <away></en/away/Direction--Direction>.  ,Source#020,(Direction: vaguely away from the viewpoint)
+The bird flew <off></en/off/Direction--Direction>.  ,Source#020,(Direction: vaguely away from the viewpoint)
+We ran <for></en/for/Extent--Extent> miles. ,Extent#001,
+The price shot up <by></en/by/Extent--Extent> 10%. ,Extent#002,
+I helped <as></en/as/Extent--Extent> much as I could.  ,Extent#004,(Extent)
+I’m not tired <at></en/at/Extent--Extent>_all. ,Extent#007,
+The food is mediocre <at></en/at/Extent--Extent>_best. ,Extent#008,
+You should <at></en/at/Extent--Extent>_least try. ,Extent#009,
+It is the worst <by></en/by/Extent--Extent>_far. ,Extent#010,
+We’ve finished <for></en/for/Extent--Extent>_the_most_part. ,Extent#011,
+It was a success <in></en/in/Extent--Extent>_every_respect. ,Extent#012,
+It was a success <on></en/on/Extent--Extent>_all_levels. ,Extent#012,
+I hate it when they repeat a song <to></en/to/Extent--Extent>_death. ,Extent#013,
+an increase <of></en/of/Extent--Identity> 10%  ,Extent#003,(Extent↝Identity)
+The plans are <in></en/in/Temporal--Locus> progress. ,Temporal#002,
+The plans are <on></en/on/Temporal--Locus> hold. ,Temporal#002,
+The plans are <in></en/in/Temporal--Locus> limbo. ,Temporal#002,
+The party tomorrow is <on></en/on/Temporal--Locus>.  ,Temporal#003,(= still scheduled to happen in the future)
+The party tomorrow is <off></en/off/Temporal--Locus>.  ,Temporal#004,(= canceled)
+The party is <over></en/over/Temporal--Temporal>.  ,Temporal#001,(= complete)
+I stayed <as></en/as/Duration--Extent> long as I could.  ,Extent#006,(Duration↝Extent)
+I walked <for></en/for/Duration--Duration> 20 minutes. ,Duration#001,
+I walked #in 20 minutes. ,Duration#001,
+I walked to{Goal} the store <in></en/in/Duration--Duration> 20 minutes.  ,Interval#005|Duration#002,[see ]
+I walked to{Goal} the store <within></en/within/Duration--Duration> 20 minutes.  ,Interval#005|Duration#002,[see ]
+I walked to{Goal} the store #for 20 minutes.  ,Interval#005|Duration#002,[see ]
+I walked a mile <in></en/in/Duration--Duration> 20 minutes. ,Duration#003,
+I walked a mile <within></en/within/Duration--Duration> 20 minutes. ,Duration#003,
+I walked a mile #for 20 minutes. ,Duration#003,
+I mowed the lawn <for></en/for/Duration--Duration> an hour. ,Duration#004,
+I mowed the lawn <in></en/in/Duration--Duration> an hour. ,Duration#004,
+I mowed the lawn <within></en/within/Duration--Duration> an hour. ,Duration#004,
+I walked <for></en/for/Duration--Duration> the entire race.  ,Duration#005,[the entire time of the race]
+I walked <throughout></en/throughout/Duration--Duration> the night. ,Duration#006,
+I walked <through></en/through/Duration--Duration> the night. ,Duration#006,
+I walked well <into></en/into/Duration--Duration> the night. ,Duration#006,
+The deal was negotiated <over></en/over/Duration--Duration>  a year. ,Duration#007,(the course of)
+John went to the store <for></en/for/Duration--Duration> an hour.  ,Duration#009,"[he spent an hour at the store, not an hour going there]"
+John left the party <for></en/for/Duration--Duration> an hour.  ,Duration#010,[he spent an hour away from the party before returning]
+I lifted weights <for></en/for/Duration--Duration> an hour.  ,Duration#011,[many individual lifting acts collectively lasting an hour]
+I walked to the store <for></en/for/Duration--Duration> a year.  ,Duration#012,"[over the course of a year, habitually went to the store by walking]"
+I reached the summit <in></en/in/Duration--Duration> 3 days.  ,Interval#012,[it took not more than 3 days]
+I had climbed 1000 feet <in></en/in/Duration--Duration>  3 days. ,Interval#013,[a total of]
+I fixed the engine <in></en/in/Duration--Duration> 3 days.  ,Interval#014,[it took not more than 3 days]
+I haven’t eaten <in></en/in/Duration--Duration> hours.    ,Interval#015,[hours have passed since the last time I ate]|( haven’t you eaten?)
+I haven’t eaten <for></en/for/Duration--Duration> hours.    ,Interval#015,[hours have passed since the last time I ate]|( haven’t you eaten?)
+I haven’t eaten  hours.    ,Interval#015,[hours have passed since the last time I ate]|(#When haven’t you eaten?)
+The deal was negotiated <over></en/over/Duration--Duration>  a year.  ,Time#016,(the course of)|(Duration)
+I see them <on></en/on/Frequency--Manner>_a_ daily _basis.   ,Manner#032|Frequency#004,(Frequency↝Manner)|[cf. ]
+I see them <on></en/on/Frequency--Manner>_a_ daily _basis.   ,Frequency#004|Manner#033,(Frequency↝Manner)|[also ]
+Guests were arriving <at></en/at/Frequency--Frequency> a steady clip. ,Frequency#001,
+The risk becomes worse <by></en/by/Frequency--Frequency> the day. ,Frequency#002,
+I see them <on></en/on/Frequency--Frequency>_occasion.  ,Time#004|Frequency#003,"[contrast on ... occasion, ]"
+I see them <from></en/from/Frequency--Frequency>_time_to_time.  ,Time#004|Frequency#003,"[contrast on ... occasion, ]"
+I keep getting the same message <over></en/over/Frequency--Frequency> and over again. ,Frequency#005,
+The camcorder failed <for></en/for/Frequency--Frequency> the third time.  ,Frequency#006,(Frequency)
+I skipped lunch <for></en/for/Frequency--Frequency> three days inCharacteristic↝Locus a row.  ,Characteristic#021|Frequency#007,[see ]
+I skipped lunch <for></en/for/Frequency--Frequency> the third day inCharacteristic↝Locus a row.  ,Characteristic#021|Frequency#007,[see ]
+I arrived <back></en/back/Interval--Interval> in{Time} June.  ,Interval#003,(Interval)
+The alarm rang at a quarter <to></en/to/Time--Goal> 8.  ,Time#019,(Time↝Goal)
+He arrived in town <over></en/over/Time--Duration> the weekend.  ,Duration#008,(Time↝Duration)
+He arrived in town <over></en/over/Time--Duration> the weekend.  ,Time#017,(Time↝Duration)
+I arrived a year <ago></en/ago/Time--Interval>.     ,Interval#001,(Time↝Interval)|[points backwards from the present: before now]
+I arrived a year <back></en/back/Time--Interval>.  ,Interval#002,(Time↝Interval)
+"The game started at 7:00, but I arrived <after></en/after/Time--Interval> 20 minutes.  ",Interval#005,(Time↝Interval)
+"The game started at 7:00, but I arrived <within></en/within/Time--Interval> 20 minutes.  ",Interval#005,(Time↝Interval)
+I reached the summit <in></en/in/Time--Interval> 3 days.  ,Interval#008,"[= 3 days later, I reached the summit.]"
+I was at the summit <within></en/within/Time--Interval> 3 days.  ,Interval#009,"[= 3 days later, I was at the summit.]"
+I finished climbing <in></en/in/Time--Interval> 3 days.  ,Interval#010,"[= 3 days later, I finished climbing.]"
+They had the engine fixed <in></en/in/Time--Interval> 3 days.  ,Interval#011,"[= 3 days later, they had the engine fixed.]"
+We left the party <after></en/after/Time--Interval> an hour.   ,Time#014,[an hour after it started]|(Time↝Interval)
+We left the party an hour <ago></en/ago/Time--Interval>.   ,Time#015,[an hour before now]|(Time↝Interval)
+The show will end <at></en/at/Time--Time> 2 p.m. ,EndTime#005,
+"To beat the crowds, I will arrive a while <before></en/before/Time--Time> . ",Interval#006,(it starts)
+"To beat the crowds, I will arrive a while <beforehand></en/beforehand/Time--Time>. ",Interval#006,
+"The game started at 7:00, but I arrived 20 minutes <after></en/after/Time--Time> . ",Interval#007,(it started)
+"The game started at 7:00, but I arrived 20 minutes <afterward></en/afterward/Time--Time>. ",Interval#007,
+The party is <in></en/in/Time--Time> January. → What month is the party in?  ,Characteristic#033,[Or: When is the party?]
+The show will start <at></en/at/Time--Time> 10 a.m. ,StartTime#003,
+We ate <in></en/in/Time--Time> the afternoon. ,Time#001,
+We ate <during></en/during/Time--Time> the afternoon. ,Time#001,
+We ate <at></en/at/Time--Time> 2:00. ,Time#001,
+We ate <on></en/on/Time--Time> Friday. ,Time#001,
+Let’s talk <at></en/at/Time--Time> lunch.  ,Circumstance#017|Time#002,[compare ]
+Let’s talk <during></en/during/Time--Time> lunch.  ,Circumstance#017|Time#002,[compare ]
+They will greet us <on></en/on/Time--Time> our arrival. ,Time#003,
+They will greet us <upon></en/upon/Time--Time> our arrival. ,Time#003,
+I succeeded <on></en/on/Time--Time> the fourth attempt.  ,Frequency#003|Time#004,"[contrast on occasion, ]"
+I succeeded <on></en/on/Time--Time> several occasions.  ,Frequency#003|Time#004,"[contrast on occasion, ]"
+The lights went out <as></en/as/Time--Time> I opened the door. ,Time#005,
+A bee stung me <as></en/as/Time--Time> I was eating lunch. ,Time#006,
+I will finish <after></en/after/Time--Time> tomorrow. ,Time#007,
+I will finish <after></en/after/Time--Time> lunch. ,Time#007,
+I will finish <after></en/after/Time--Time> you . ,Time#007,(do)
+I will finish <by></en/by/Time--Time> tomorrow. ,Time#008,
+I will finish <by></en/by/Time--Time> lunch. ,Time#008,
+I will contact you <as_soon_as></en/as_soon_as/Time--Time> it’s ready. ,Time#009,
+I will contact you once it’s ready. ,Time#009,
+ I bought a new car—that was <since></en/since/Time--Time> the breakup. ,Time#010,[‘after’]
+"We broke up last year, and I haven’t seen her <since></en/since/Time--Time>.  ",Time#013,[since we broke up]
+The alarm rang at a quarter <after></en/after/Time--Time> 8. ,Time#018,
+The alarm rang at half <past></en/past/Time--Time> 8. ,Time#018,
+The alarm rang 15 minutes <before></en/before/Time--Time> 8.  ,Time#021,[“15 minutes” modifies the PP]
+The guests will arrive <after></en/after/Time--Time> 6:00. ,ComparisonRef#045,
+the 15th <of></en/of/Time--Whole> March  ,Whole#033,(Time↝Whole)
+the Ides <of></en/of/Time--Whole> March  ,Whole#033,(Time↝Whole)
+March <of></en/of/Time--Whole> 44 BC  ,Whole#034,(Time↝Whole)
+The show will run from 10 a.m. <to></en/to/EndTime--EndTime> 2 p.m. ,EndTime#001,
+Add the cider and boil <until></en/until/EndTime--EndTime> the liquid has reduced by half. ,EndTime#002,
+If we have survived <up_to></en/up_to/EndTime--EndTime> now what is stopping us from surviving in the future? ,EndTime#003,
+They will be in London from March 24 <through></en/through/EndTime--EndTime> May 7. ,EndTime#004,
+The show will run <from></en/from/StartTime--StartTime> 10 a.m. to 2 p.m. ,StartTime#001,
+a document dating <from></en/from/StartTime--StartTime> the thirteenth century ,StartTime#002,
+ I have loved you <since></en/since/StartTime--StartTime> the party where we met.  ,Time#011,[‘ever since’]|(StartTime)
+He is rude <to></en/to/Beneficiary--Goal> women.  ,Beneficiary#013,(Beneficiary↝Goal)
+He is condescending <to></en/to/Beneficiary--Goal> women.  ,Beneficiary#013,(Beneficiary↝Goal)
+We have a solemn responsibility <to></en/to/Beneficiary--Goal> our armed forces.  ,Beneficiary#017,(Beneficiary↝Goal)
+The strategy is helpful <to></en/to/Beneficiary--Goal> investors.  ,Beneficiary#019,(Beneficiary↝Goal)
+The strategy poses a risk <to></en/to/Beneficiary--Goal> investors.  ,Beneficiary#019,(Beneficiary↝Goal)
+The strategy is available <to></en/to/Beneficiary--Goal> investors.  ,Beneficiary#019,(Beneficiary↝Goal)
+She exhibits rudeness <towards></en/toward/Beneficiary--Direction> customers.  ,Beneficiary#012,(Beneficiary↝Direction)
+Vote <for></en/for/Beneficiary--Beneficiary> Pedro! ,Beneficiary#001,
+Vote <against></en/against/Beneficiary--Beneficiary> Pedro! ,Beneficiary#001,
+Junk food is bad <for></en/for/Beneficiary--Beneficiary> your health. ,Beneficiary#002,
+My parrot died <on></en/on/Beneficiary--Beneficiary> me. ,Beneficiary#003,
+These are clothes <for></en/for/Beneficiary--Beneficiary> children. ,Beneficiary#004,
+"Fortunately <for></en/for/Beneficiary--Beneficiary> the turkey, he received a presidential pardon. ",Beneficiary#006,(’s future)
+ clothes <for></en/for/Beneficiary--Beneficiary> children ,Beneficiary#007,(We sell)
+a gallows <for></en/for/Beneficiary--Beneficiary> criminals ,Beneficiary#008,
+This is the car <for></en/for/Beneficiary--Beneficiary> you!  ,Beneficiary#009,[advertising idiom]
+This place is great <for></en/for/Beneficiary--Beneficiary> young children. ,Beneficiary#010,
+This is a great place <for></en/for/Beneficiary--Beneficiary> young children. ,Beneficiary#011,
+The strategy is beneficial <for></en/for/Beneficiary--Beneficiary> investors.  ,Beneficiary#018,(Beneficiary)
+The strategy is risky <for></en/for/Beneficiary--Beneficiary> investors.  ,Beneficiary#018,(Beneficiary)
+The strategy is an option <for></en/for/Beneficiary--Beneficiary> investors.  ,Beneficiary#018,(Beneficiary)
+John baked a cake <for></en/for/Beneficiary--Beneficiary> Mary.  ,Beneficiary#020,"[to help Mary out, andor with the intention of giving her the cake]"
+He is gentle and compassionate <with></en/with/Beneficiary--Theme> animals.  ,Beneficiary#014,(Beneficiary↝Theme)
+These are children<'s></en/'s/Beneficiary--Possessor> clothes.  ,Beneficiary#005,(Beneficiary↝Possessor)
+the devastation <from></en/from/Causer--Source> the fire ,Causer#004,
+fatalities <from></en/from/Causer--Source> cancer ,Causer#005,
+FDR suffered <from></en/from/Causer--Source> polio. ,Causer#006,
+the devastation of{Theme} the town wreaked <by></en/by/Causer--Causer> the fire ,Causer#001,
+the devastation <of></en/of/Causer--Gestalt> the fire on{Theme} the town ,Causer#002,
+the fire<'s></en/'s/Causer--Gestalt> devastation of{Theme} the town ,Causer#003,
+The attention <from></en/from/Agent--Source> the staff made us feel welcome.  ,Source#021,(Agent↝Source)
+I fought in a war <against></en/against/Agent--Beneficiary> the Germans. ,Agent#009,
+the decisive vote <by></en/by/Agent--Agent> the City Council ,Agent#001,
+The negotiations <by></en/by/Agent--Agent> the parties went well. ,Whole#036,
+At the restaurant we were seated <by></en/by/Agent--Agent> the host. ,OrgMember#011,
+My business was destroyed <by></en/by/Agent--Agent> Microsoft. ,Org#005,
+Why don’t you talk  <with></en/with/Agent--Ancillary> your friend? ,Ancillary#018,(*together)
+I talked <with></en/with/Agent--Ancillary> my roommate about cleaning duties. ,Agent#010,
+I argued <with></en/with/Agent--Ancillary> my roommate about cleaning duties. ,Agent#010,
+She swapped stories <with></en/with/Agent--Ancillary> her friends. ,Recipient#008,
+She chatted <with></en/with/Agent--Ancillary> her friends. ,Recipient#008,
+I fought  <with></en/with/Agent--Ancillary> her for a week.  ,Ancillary#019,(*together)|(= we argued opposite sides)
+Please trade places  <with></en/with/Agent--Ancillary> John. ,Ancillary#020,(*together)
+I was working <with></en/with/Agent--Ancillary> Michael after lunch. ,SocialRel#013,
+the decisive vote <of></en/of/Agent--Gestalt> the City Council ,Agent#002,
+the City Council<'s></en/'s/Agent--Gestalt> decisive vote ,Agent#003,
+the president<'s></en/'s/Agent--Gestalt> achievements ,Agent#008,
+they needed Joan<'s></en/'s/Agent--Gestalt> help ,Agent#004,
+There was a war <between></en/between/Agent--Whole> France and Spain.  ,Agent#006,(Agent↝Whole)
+a discussion <among></en/among/Agent--Whole> the board members  ,Agent#007,(Agent↝Whole)
+The negotiations <between></en/between/Agent--Whole> the parties went well.  ,Whole#035,(Agent↝Whole)
+The negotiations <among></en/among/Agent--Whole> the parties went well.  ,Whole#035,(Agent↝Whole)
+"The book is priced <at></en/at/Cost--Locus> $10. , ",Cost#003|ComparisonRef#042,
+"The book is valued <at></en/at/Cost--Locus> $10. , ",Cost#003|ComparisonRef#042,
+The book is priced <below></en/below/Cost--Locus> $10. ,ComparisonRef#046,
+I bought it <at></en/at/Cost--Locus> a great pricerate. ,Cost#004,
+I bought the book <for></en/for/Cost--Cost> $10. ,Cost#001,
+I sold the book <for></en/for/Cost--Cost> $10. ,Cost#001,
+I got a refund <of></en/of/Cost--Cost> $10. ,Cost#002,
+You can ride the bus <for></en/for/Cost--Cost> free. ,Cost#005,
+You can ride the bus <for></en/for/Cost--Cost> $1. ,Cost#005,
+It feels hot <to></en/to/Experiencer--Goal> me  ,Experiencer#005,(Experiencer↝Goal)
+That was astounding <to></en/to/Experiencer--Goal> me  ,Experiencer#006,(Experiencer↝Goal)
+The answer is known <to></en/to/Experiencer--Goal> me  ,Experiencer#011,(Experiencer↝Goal)
+Running is enjoyable <for></en/for/Experiencer--Beneficiary> me  ,Experiencer#003,(Experiencer↝Beneficiary)
+The pizza was  salty <for></en/for/Experiencer--Beneficiary> me  ,Experiencer#004,(too)|(Experiencer↝Beneficiary)
+"<For></en/for/Experiencer--Beneficiary> John, the party was not fun at all.  ",Experiencer#007,(Experiencer↝Beneficiary)
+"<For></en/for/Experiencer--Beneficiary> John, there was no reason to attend.  ",Experiencer#008,(Experiencer↝Beneficiary)
+The answer is known <by></en/by/Experiencer--Agent> me  ,Experiencer#010,(Experiencer↝Agent)
+I agree  <with></en/with/Experiencer--Ancillary> John.  ,Ancillary#023,(*together)|(= we share the same opinion)
+The anger <of></en/of/Experiencer--Gestalt> the students ,Experiencer#001,
+The student<s'></en/'s/Experiencer--Gestalt> anger ,Experiencer#002,
+This is <my></en/'s/Experiencer--Gestalt> favorite movie ,Experiencer#009,
+That is <my></en/'s/Experiencer--Gestalt> opinion ,Experiencer#012,
+That was <my></en/'s/Experiencer--Gestalt> experience ,Experiencer#013,
+<my></en/'s/Experiencer--Gestalt> memories of childhood ,Possessor#017,
+Talk <on></en/on/Instrument--Locus> the phone.  ,Instrument#007,(Instrument↝Locus)
+Escape <in></en/in/Instrument--Locus> the getaway car.  ,Instrument#011,(Instrument↝Locus)
+ride <on></en/on/Instrument--Locus> horseback  ,Instrument#012,(Instrument↝Locus)
+hold <at></en/at/Instrument--Locus> knifepoint  ,Instrument#013,(Instrument↝Locus)
+Send it <over></en/over/Instrument--Path> email.  ,Instrument#008,(Instrument↝Path)
+Send it <via></en/via/Instrument--Path> email.  ,Instrument#008,(Instrument↝Path)
+We flew to London <via></en/via/Instrument--Path> Paris.  ,Instrument#014,(Instrument↝Path)
+I found out the news <via></en/via/Instrument--Path> Sharon.  ,Instrument#015,(Instrument↝Path)
+The window was broken <by></en/by/Instrument--Causer> the hammer.  ,Instrument#004,(Instrument↝Causer)
+My headache was alleviated <by></en/by/Instrument--Causer> aspirin.  ,Instrument#005,(Instrument↝Causer)
+I broke the window <with></en/with/Instrument--Instrument> a hammer. ,Instrument#001,
+I destroyed the argument <with></en/with/Instrument--Instrument> my words. ,Instrument#002,
+I accidentally poked myself in the eye <with></en/with/Instrument--Instrument> a stick. ,Instrument#003,
+Communicate <by></en/by/Instrument--Instrument> phone.  ,Instrument#006,(Instrument)
+Communicate <by></en/by/Instrument--Instrument> email.  ,Instrument#006,(Instrument)
+Travel <by></en/by/Instrument--Instrument> train.  ,Instrument#009,(Instrument)
+Escape <with></en/with/Instrument--Instrument> a getaway car.  ,Instrument#010,(Instrument)
+He responded to my accusation <with></en/with/Instrument--Instrument> dishonest emails.  ,Topic#043,(Instrument)
+works <of></en/of/Originator--Source> Shakespeare  ,Originator#001|Originator#008|Originator#004,"[cf. , ]"
+The story was obtained <from></en/from/Originator--Source> an anonymous White House employee. ,Originator#005,
+I bought it <from></en/from/Originator--Source> this company. ,Originator#006,
+I heard the news <from></en/from/Originator--Source> Larry. ,Originator#007,
+We learned a lot <from></en/from/Originator--Source> Miss Zarves.  ,Originator#013,(Originator↝Source)
+works <by></en/by/Originator--Agent> Shakespeare  ,Originator#004|Originator#008|Originator#001,"[cf. , ]"
+The telephone was invented <by></en/by/Originator--Agent> Alexander Graham Bell. ,Originator#002,
+The story was given toRecipient↝Goal her <by></en/by/Originator--Agent> her editor. ,Originator#003,
+The story was told toRecipient↝Goal her <by></en/by/Originator--Agent> her editor. ,Originator#003,
+Shakespeare<'s></en/'s/Originator--Gestalt> works  ,Originator#004|Originator#001|Originator#008,"[cf. , ]"
+Rodin<'s></en/'s/Originator--Gestalt> sculptures ,Originator#009,
+the restaurant<'s></en/'s/Originator--Gestalt> food ,Originator#011,
+John<'s></en/'s/Originator--Gestalt> question ,Originator#012,
+John<'s></en/'s/Originator--Gestalt> speech ,Originator#012,
+That was <my></en/'s/Originator--Gestalt> gift toRecipient↝Goal John.  ,Possessor#025|Possessor#027|Possessor#026,"[contrast , ]"
+She gave the story <to></en/to/Recipient--Goal> her editor.  ,Recipient#001,(Recipient↝Goal)
+She spoke <to></en/to/Recipient--Goal> her editor.  ,Recipient#001,(Recipient↝Goal)
+What title did you give <to></en/to/Recipient--Goal> your essay?   ,Recipient#002,[inanimate]|(Recipient↝Goal)
+a message <for></en/for/Recipient--Direction> my mother  ,Beneficiary#021,(Recipient↝Direction)
+a gift <for></en/for/Recipient--Direction> my mother  ,Beneficiary#021,(Recipient↝Direction)
+a package <for></en/for/Recipient--Direction> the front office  ,Beneficiary#022,(Recipient↝Direction)
+news <for></en/for/Recipient--Direction> our readers  ,Recipient#003,(Recipient↝Direction)
+The news was not well received <by></en/by/Recipient--Agent> the White House. ,Recipient#005,
+He is yelling <at></en/at/Recipient--Recipient> me to get ready!  ,Recipient#004,(Recipient↝Direction)
+"I’ll have to check  <with></en/with/Recipient--Ancillary> my supervisor. , ",Ancillary#021|Recipient#007,(*together)
+Timmy<'s></en/'s/Recipient--Gestalt> piano lesson  ,Recipient#006,(Recipient↝Gestalt)
+That was <my></en/'s/Recipient--Gestalt> gift fromOriginator↝Source Mary.  ,Possessor#025|Possessor#026|Possessor#027,"[contrast , ]"
+I am thankful <for></en/for/Stimulus--Explanation> your help.  ,Stimulus#016,(Stimulus↝Explanation)
+I am grateful <for></en/for/Stimulus--Explanation> your help.  ,Stimulus#016,(Stimulus↝Explanation)
+You should listen <to></en/to/Stimulus--Goal> the music.  ,Stimulus#003,(Stimulus↝Goal)
+You should pay attention <to></en/to/Stimulus--Goal> the music.  ,Stimulus#003,(Stimulus↝Goal)
+We were looking <at></en/at/Stimulus--Direction> the photo. ,Stimulus#004,
+I was angry <at></en/at/Stimulus--Direction> him.  ,Stimulus#011|Stimulus#005,[cf. ]
+I startled <at></en/at/Stimulus--Direction> the noise. ,Stimulus#006,
+Her disdain <for></en/for/Stimulus--Beneficiary> customers was apparent.  ,Beneficiary#015,(Stimulus↝Beneficiary)
+He hasfeels compassion <towards></en/toward/Stimulus--Beneficiary> animals.  ,Beneficiary#016,(Stimulus↝Beneficiary)
+He hasfeels compassion <for></en/for/Stimulus--Beneficiary> animals.  ,Beneficiary#016,(Stimulus↝Beneficiary)
+My affection <for></en/for/Stimulus--Beneficiary> you  ,Stimulus#001,(Stimulus↝Beneficiary)
+Her disdain <for></en/for/Stimulus--Beneficiary> customers was apparent. ,Stimulus#014,
+He hasfeels compassion <towards></en/toward/Stimulus--Beneficiary> animals. ,Stimulus#015,
+He hasfeels compassion <for></en/for/Stimulus--Beneficiary> animals. ,Stimulus#015,
+Scared <by></en/by/Stimulus--Causer> the bear  ,Stimulus#002,(Stimulus↝Causer)
+I care <about></en/about/Stimulus--Topic> you. ,Stimulus#007,
+That’s what I love <about></en/about/Stimulus--Topic> the show. ,Stimulus#008,
+I took_pride <in></en/in/Stimulus--Topic> the results. ,Stimulus#009,
+I was proud <of></en/of/Stimulus--Topic> the results. ,Stimulus#010,
+I was happy <with></en/with/Stimulus--Topic> the results. ,Stimulus#010,
+I was angry <with></en/with/Stimulus--Topic> him.  ,Stimulus#005|Stimulus#011,[cf. ]
+I was inCharacteristic↝Locus love <with></en/with/Stimulus--Topic> him.  ,Characteristic#037|Stimulus#012,[cf. ]
+They bored me <with></en/with/Stimulus--Topic> their incessant talk about cats. ,Stimulus#013,
+They charged $500  the repairs. ,Theme#028,
+They asked $500  the repairs. ,Theme#028,
+They paid $500  the repairs. ,Theme#028,
+They owed $500  the repairs. ,Theme#028,
+They  $500 <for></en/for/Theme--Purpose> the repairs. ,Theme#028,
+They  $500 <to></en/to/Theme--Purpose> make the repairs. ,Theme#028,
+$500 <for></en/for/Theme--Purpose> the repairs was excessive. ,Theme#030,
+$500 <to></en/to/Theme--Purpose> make the repairs was excessive. ,Theme#030,
+The food was covered <in></en/in/Theme--Locus> grease. ,Theme#008,
+I’m covered <in></en/in/Theme--Locus> bees! ,Theme#023,
+I put a hole <in></en/in/Theme--Locus> the box.  ,Theme#042,(= punctured the box)
+The mechanic made a repair <to></en/to/Theme--Goal> the engine. ,Theme#014,
+"Due to my injury, I am limited <to></en/to/Theme--Goal> working from home. ",Theme#039,
+"Due to my injury, I am constrained <to></en/to/Theme--Goal> working from home. ",Theme#039,
+"Due to my injury, I am restricted <to></en/to/Theme--Goal> working from home. ",Theme#039,
+It is important to adhere <to></en/to/Theme--Goal> your convictions. ,Theme#040,
+It is important to keep <to></en/to/Theme--Goal> your convictions. ,Theme#040,
+It is important to stick <to></en/to/Theme--Goal> your convictions. ,Theme#040,
+The shin bone is connected <to></en/to/Theme--Goal> the knee bone. ,Theme#047,
+The training saved us <from></en/from/Theme--Source> almost certain death. ,Theme#024,
+They prevented us <from></en/from/Theme--Source> boarding the plane. ,Theme#025,
+The boys were separated <from></en/from/Theme--Source> the girls. ,Theme#045,
+Keep the dogs <from></en/from/Theme--Source> the cats. ,Theme#046,
+Fill the bowl <with></en/with/Theme--Instrument> water.  ,Theme#006,(Theme↝Instrument)
+The food was covered <with></en/with/Theme--Instrument> grease.  ,Theme#007,(Theme↝Instrument)
+Quit <with></en/with/Theme--Theme> the whining! ,Theme#001,
+She helped me <with></en/with/Theme--Theme> my taxes. ,Theme#002,
+Don’t bother <with></en/with/Theme--Theme> an extra trip. ,Theme#003,
+Don’t waste time <with></en/with/Theme--Theme> an extra trip. ,Theme#003,
+I managed to cope <with></en/with/Theme--Theme> the heavy load. ,Theme#004,
+I managed to cope <with></en/with/Theme--Theme> my fear of heights. ,Theme#004,
+There’s nothing wrong <with></en/with/Theme--Theme> the engine. ,Theme#005,
+They replaced my old tires <with></en/with/Theme--Theme> new ones.  ,Theme#003,[replacement]
+My hovercraft is full <of></en/of/Theme--Theme> eels. ,Theme#009,
+Sheldukher looked <for></en/for/Theme--Theme> his laser pistol.     ,Characteristic#013|Theme#010,[contrast with transitive verb plus Characteristic in ]
+Sheldukher searched <for></en/for/Theme--Theme> his laser pistol.     ,Characteristic#013|Theme#010,[contrast with transitive verb plus Characteristic in ]
+Sheldukher fumbled <for></en/for/Theme--Theme> his laser pistol.     ,Characteristic#013|Theme#010,[contrast with transitive verb plus Characteristic in ]
+Sheldukher asked <for></en/for/Theme--Theme> his laser pistol. ,Theme#011,
+Sheldukher made a request <for></en/for/Theme--Theme> his laser pistol. ,Theme#011,
+There is a significant demand <for></en/for/Theme--Theme> new housing. ,Theme#012,
+Let’s wait <for></en/for/Theme--Theme> Steve. ,Theme#013,
+Let’s wait <for></en/for/Theme--Theme> more information. ,Theme#013,
+Let’s wait <for></en/for/Theme--Theme> the end of the party. ,Theme#013,
+They substituted new tires <for></en/for/Theme--Theme> my old ones.  ,Theme#015,[replacee]
+We are ready <for></en/for/Theme--Theme> an upgrade. ,Theme#054,
+We are eligible <for></en/for/Theme--Theme> an upgrade. ,Theme#054,
+We are responsible <for></en/for/Theme--Theme> an upgrade. ,Theme#054,
+We are due <for></en/for/Theme--Theme> an upgrade. ,Theme#054,
+the approach <of></en/of/Theme--Theme> the waves ,Theme#015,
+the death <of></en/of/Theme--Theme> a salesman ,Theme#017,
+the murder <of></en/of/Theme--Theme> a salesman ,Theme#017,
+The mechanic worked <on></en/on/Theme--Theme> the engine. ,Theme#019,
+We noshed <on></en/on/Theme--Theme> snacks. ,Theme#020,
+Students spend a lot of money <on></en/on/Theme--Theme> textbooks. ,Theme#021,
+There was an increase <in></en/in/Theme--Theme> oil prices. ,Theme#022,
+They spent $500 <on></en/on/Theme--Theme> the repairs. ,Theme#026,
+a copy <of></en/of/Theme--Theme> the key ,Theme#035,
+What happened <to></en/to/Theme--Theme> you? ,Theme#036,
+This species is specific <to></en/to/Theme--Theme> North America. ,Theme#037,
+This species is native <to></en/to/Theme--Theme> North America. ,Theme#037,
+Balancing of risk and reward is inherent <to></en/to/Theme--Theme> the game. ,Theme#038,
+Bad weather may result <in></en/in/Theme--Theme> a delay. ,Theme#041,
+Why do people associate bats  <with></en/with/Theme--Ancillary> death? ,Ancillary#025,(*together)
+You shouldn’t confuse Mozart <with></en/with/Theme--Ancillary> Rossini. ,Theme#053,
+You shouldn’t associate Mozart <with></en/with/Theme--Ancillary> Rossini. ,Theme#053,
+His bicycle collided <with></en/with/Theme--Ancillary> hers. ,Theme#043,
+Combine butter <with></en/with/Theme--Ancillary> vanilla. ,Theme#044,
+the wave<s'></en/'s/Theme--Gestalt> approach ,Theme#016,
+the salesman<'s></en/'s/Theme--Gestalt> death ,Theme#018,
+the salesman<'s></en/'s/Theme--Gestalt> murder ,Theme#018,
+<my></en/'s/Theme--Gestalt> time in grad school ,Theme#033,
+I've never seen that in <my></en/'s/Theme--Gestalt> life ,Theme#034,
+<my></en/'s/Theme--Gestalt> destination ,en/genitivespossessives#015,
+<my></en/'s/Theme--Gestalt> journey ,en/genitivespossessives#015,
+<my></en/'s/Theme--Gestalt> travels ,en/genitivespossessives#015,
+There was a collision in mid-air <between></en/between/Theme--Whole> two light aircraft.  ,Theme#031,(Theme↝Whole)
+Let us agree <to></en/to/Topic--Goal> the deal.  ,Topic#038,(Topic↝Goal)
+the answer <to></en/to/Topic--Goal> the question ,Topic#039,
+my response <to></en/to/Topic--Goal> your question ,Topic#040,
+I gave a presentation <about></en/about/Topic--Topic>on politics. ,Topic#001,
+I spoke <about></en/about/Topic--Topic>on politics. ,Topic#001,
+They wouldn’t stop arguing <over></en/over/Topic--Topic> the plan. ,Topic#002,
+I was accused <of></en/of/Topic--Topic> treason. ,Topic#003,
+a picture <of></en/of/Topic--Topic> Whistler’s mother ,Topic#004,
+three copies <of></en/of/Topic--Topic> the test ,Topic#005,
+three versions <of></en/of/Topic--Topic> the test ,Topic#005,
+The ratings <for></en/for/Topic--Topic> this film are atrocious. ,Topic#008,
+The reviews <for></en/for/Topic--Topic> this film are atrocious. ,Topic#008,
+I did not hazard a guess <as_to></en/as_to/Topic--Topic> the cause. ,Topic#009,
+Try not to think <about></en/about/Topic--Topic> it. ,Topic#010,
+We took a minute to think <over></en/over/Topic--Topic> the situation. ,Topic#011,
+We took a minute to ponder <over></en/over/Topic--Topic> the situation. ,Topic#011,
+I plan <on></en/on/Topic--Topic> going again. ,Topic#012,
+I am focused <on></en/on/Topic--Topic> the task at hand. ,Topic#013,
+There is not enough research <on></en/on/Topic--Topic> the effects of global warming. ,Topic#014,
+She was dumbfounded <as_to></en/as_to/Topic--Topic> why the police had done that. ,Topic#015,
+Think <of></en/of/Topic--Topic> all the possibilities! ,Topic#016,
+I have no memory <of></en/of/Topic--Topic> the incident. ,Topic#017,
+I am aware <of></en/of/Topic--Topic> the problem. ,Topic#018,
+You can have your choice <of></en/of/Topic--Topic> chicken or fish. ,Topic#019,
+I disagree <with></en/with/Topic--Topic> that statement. ,Topic#020,
+I am familiar <with></en/with/Topic--Topic> this topic. ,Topic#021,
+Are you interested <in></en/in/Topic--Topic> politics? ,Topic#022,
+I’m confident <in></en/in/Topic--Topic> your abilities. ,Topic#023,
+My daughter excels <in></en/in/Topic--Topic> sports. ,Topic#024,
+My daughter excels <at></en/at/Topic--Topic> sports. ,Topic#024,
+I’m an expert <at></en/at/Topic--Topic> baking cookies. ,Topic#025,
+I’m talented <at></en/at/Topic--Topic> baking cookies. ,Topic#025,
+I’m good <at></en/at/Topic--Topic> baking cookies. ,Topic#025,
+I wouldn’t hestitate <in></en/in/Topic--Topic> seeing a doctor.     ,Circumstance#002|Topic#026,"[but see  under Circumstance, which is syntactically parallel]"
+Be reasonable <with></en/with/Topic--Topic> your expectations! ,Topic#027,
+They are transparent <with></en/with/Topic--Topic> their fee. ,Topic#028,
+The discount should apply <with></en/with/Topic--Topic> other restaurants too. ,Topic#029,
+I approached the manager <about></en/about/Topic--Topic> the poor service.  ,Topic#030,[implied communication]
+I am a big baby <about></en/about/Topic--Topic> needles.  ,Topic#031,[implied cognition]
+The owner wouldn’t budge <on></en/on/Topic--Topic> the price. ,Topic#032,
+They came through <on></en/on/Topic--Topic> all of their promises. ,Topic#033,
+She did not do the right thing <for></en/for/Topic--Topic> an item that was marked incorrectly. ,Topic#034,
+I’m fast <at></en/at/Topic--Topic> baking cookies.  ,Topic#025|Topic#035,[cf. ]
+They have almost anything you could want <when_it_comes_to></en/when_it_comes_to/Topic--Topic> spy and surveillance equipment . ,Topic#036,
+They have almost anything you could want <in_terms_of></en/in_terms_of/Topic--Topic> spy and surveillance equipment . ,Topic#036,
+Let us agree <on></en/on/Topic--Topic> the deal.  ,Topic#037,(Topic)
+He responded to my accusation <with></en/with/Topic--Topic> falsehoods.  ,Topic#044,(Topic)
+There was a problem <with></en/with/Topic--Topic> mice in the basement. ,Topic#045,
+We had a problem <with></en/with/Topic--Topic> mice in the basement. ,Topic#045,
+I have limited experience <with></en/with/Topic--Topic> numerical methods. ,Topic#046,
+I had a bad experience <with></en/with/Topic--Topic> a vampire. ,Topic#047,
+my bad experience <with></en/with/Topic--Topic> a vampire. ,Topic#047,
+the topicissuequestion <of></en/of/Topic--Identity> semantics ,Topic#006,
+the idea <of></en/of/Topic--Identity> raising money ,Topic#007,
+Could you walk <with></en/with/Ancillary--Ancillary> me to the store? 001,,
+Could you walk <along_with></en/along_with/Ancillary--Ancillary> me to the store? 001,,
+Could you walk <together_with></en/together_with/Ancillary--Ancillary> me to the store? 001,,
+Can you go to the store <without></en/without/Ancillary--Ancillary> me? ,Ancillary#002,
+Can we go to the store <together></en/together/Ancillary--Ancillary>? ,Ancillary#003,
+I am admiring the paintings  <with></en/with/Ancillary--Ancillary> my friend ,Ancillary#012,"(together)|[we probably infer that “friend” is paired with “I”, and thus also admiring or at least viewing the paintings, but this requires pragmatics]"
+I am admiring the paintings  <with></en/with/Ancillary--Ancillary> the statues  ,Ancillary#013,"(together)|(= I am admiring the paintings, and the statues as well)|[we infer that “statues” is paired with “paintings”, and thus also being admired, but this requires pragmatics]"
+" <with></en/with/Ancillary--Ancillary> the president, the prime minister signed the declaration ",Ancillary#014,"(Together)|[explicit: president is together with somebody in the context of signing; inferred: president is together with the prime minister, and they probably both signed]"
+I was traveling  <with></en/with/Ancillary--Ancillary> my friendinfant ,Ancillary#015,(together)
+my travels  <with></en/with/Ancillary--Ancillary> my friend ,Ancillary#016,(together)
+I fought  <with></en/with/Ancillary--Ancillary> her to cure cancer.  ,Ancillary#017,(together)|(= we fought on the same side)
+We were sitting <together></en/together/Ancillary--Ancillary>. ,Ancillary#028,
+We were eating <together></en/together/Ancillary--Ancillary>. ,Ancillary#028,
+We were working <together></en/together/Ancillary--Ancillary>. ,Ancillary#028,
+The duck and the chick are <together></en/together/Locus--Ancillary>. ,Ancillary#029,
+a shoulder <to></en/to/Characteristic--Purpose> cry on ,Purpose#014,
+something <to></en/to/Characteristic--Purpose> eat ,Purpose#015,
+cleaner <for></en/for/Characteristic--Purpose> hardwood floors ,Purpose#016,
+The ribbon is  <in></en/in/Characteristic--Locus> a bow. ,Characteristic#019,(tied)
+The sand is <in></en/in/Characteristic--Locus> a pyramid shape. ,Characteristic#020,
+I skipped lunch for{Frequency} three days <in></en/in/Characteristic--Locus> a row.  ,Frequency#007|Characteristic#021,[see ]
+I skipped lunch for{Frequency} the third day <in></en/in/Characteristic--Locus> a row.  ,Frequency#007|Characteristic#021,[see ]
+The book is <in></en/in/Characteristic--Locus> French. ,Characteristic#022,
+music <in></en/in/Characteristic--Locus> C major ,Characteristic#023,
+the desk's height  <in></en/in/Characteristic--Locus> inches ,Characteristic#045,(measured)
+She entered the room <in></en/in/Characteristic--Locus> a stupor.  ,Characteristic#024,(= she was in a stupor when she entered)
+She entered the room drunk.  ,Characteristic#024,(= she was in a stupor when she entered)
+The chairs are <in></en/in/Characteristic--Locus> excellent shape. ,Characteristic#025,
+I’m <in></en/in/Characteristic--Locus> no condition to go outside. ,Characteristic#026,
+John is <on></en/on/Characteristic--Locus> his back. ,Characteristic#027,
+John is <on></en/on/Characteristic--Locus> antibiotics. ,Characteristic#027,
+John is <on></en/on/Characteristic--Locus> the ventilator. ,Characteristic#027,
+John is <in></en/in/Characteristic--Locus> pain. ,Characteristic#027,
+John is <in></en/in/Characteristic--Locus> a coma. ,Characteristic#027,
+"<on></en/on/Characteristic--Locus> fire ,    on time ,    in trouble, in love, in tune, in a hurry,    at odds, out_of business, out_of control ",Characteristic#030,(contrast in the fire)|(contrast at the time)
+The lights are <on></en/on/Characteristic--Locus>. ,Characteristic#031,
+The lights are <off></en/off/Characteristic--Locus>. ,Characteristic#031,
+The lights are <out></en/out/Characteristic--Locus>. ,Characteristic#031,
+Political TV shows are <in></en/in/Characteristic--Locus>.  ,Characteristic#032,[in fashion]
+John is <on></en/on/Characteristic--Locus> aspirin. → What medication is John on? ,Characteristic#034,
+John is <in></en/in/Characteristic--Locus> a hurry. ↛ What _ is John in? ,Characteristic#035,
+John is <in></en/in/Characteristic--Locus> a coma. ↛ What _ is John in? ,Characteristic#035,
+John is <on></en/on/Characteristic--Locus> fire. ↛ What _ is John on? ,Characteristic#036,
+John is <in></en/in/Characteristic--Locus> love .  ,Stimulus#012|Characteristic#037,(withStimulus↝Topic Mary)|[cf. ]
+That is <at></en/at/Characteristic--Locus> odds withComparisonRef↝Topic our agreement. ,Characteristic#038,
+I am <off></en/off/Characteristic--Locus> medications. ,Source#014,
+I am <off></en/off/Characteristic--Locus> work. ,Source#014,
+Stay <out_of></en/out_of/Characteristic--Locus> trouble. ,Source#016,
+John is <into></en/into/Characteristic--Goal> sports.  ,Characteristic#029,[hobbiesinterests]
+Your face is <as></en/as/Characteristic--Extent> red as a rose.  ,Extent#005,(Characteristic↝Extent)
+John is <for></en/for/Characteristic--Beneficiary> the war.  ,Characteristic#028,[opinion]
+John is <against></en/against/Characteristic--Beneficiary> the war.  ,Characteristic#028,[opinion]
+the restaurant <with></en/with/Characteristic--Characteristic> a convenient location ,Characteristic#006,
+the restaurant <with></en/with/Characteristic--Characteristic> an extensive menu ,Characteristic#006,
+a party <with></en/with/Characteristic--Characteristic> great music ,Characteristic#007,
+a room <with></en/with/Characteristic--Characteristic> 2 beds  ,Characteristic#008,[beds are among the things in the room]
+He examined the vase <for></en/for/Characteristic--Characteristic> damage. ,Characteristic#012,
+He searched the room <for></en/for/Characteristic--Characteristic> his laser pistol.  ,Theme#010|Characteristic#013,"[contrast intransitive Theme, ]"
+He was tested <for></en/for/Characteristic--Characteristic> low blood sugar. ,Characteristic#014,
+The children are sorted <by></en/by/Characteristic--Characteristic> height ,Characteristic#015,
+The children are screened <by></en/by/Characteristic--Characteristic> height ,Characteristic#015,
+She exceeds him <in></en/in/Characteristic--Characteristic> height ,Characteristic#016,
+There is no difference <in></en/in/Characteristic--Characteristic> height ,Characteristic#017,
+a business <of></en/of/Characteristic--Characteristic> that sort  ,Species#007,(Characteristic)
+a shelf <of></en/of/Characteristic--Stuff> rare books ,Characteristic#009,
+a cardboard box <of></en/of/Characteristic--Stuff> snacks ,Characteristic#010,
+This bottle is <of></en/of/Characteristic--Stuff> beer .   ,Quantity#001|Stuff#006,(and that one is of wine)|(Characteristic↝Stuff)|[but see ]
+a car <of></en/of/Characteristic--Identity> high quality ,Characteristic#001,
+a man <of></en/of/Characteristic--Identity> honor ,Characteristic#002,
+a business <of></en/of/Characteristic--Identity> that sort  ,Characteristic#003,"[contrast with Species, Species]"
+She described him <as></en/as/Characteristic--Identity> sad. ,Characteristic#004,
+He strikes me <as></en/as/Characteristic--Identity> sad. ,Characteristic#005,
+a car <of></en/of/Characteristic--Identity> high quality ,Identity#013,
+a man <of></en/of/Characteristic--Identity> honor ,Identity#014,
+a business <of></en/of/Characteristic--Identity> that sort  ,Identity#015,"[contrast with Species, Species]"
+She described him <as></en/as/Characteristic--Identity> sad. ,Identity#016,
+He strikes me <as></en/as/Characteristic--Identity> sad. ,Identity#017,
+Everyone <from></en/from/PartPortion--Source>PartPortion↝Source the peasants  toPartPortion↝Goal the lord and lady gathered for the feast. ,PartPortion#016,
+My teacher started the lesson <with></en/with/PartPortion--Means> a quiz. ,PartPortion#017,
+The lesson started <with></en/with/PartPortion--Means> a quiz. ,PartPortion#018,
+The meal started <with></en/with/PartPortion--Instrument> an appetizer.  ,PartPortion#019,(PartPortion↝Instrument)
+a car <with></en/with/PartPortion--PartPortion> a new engine ,PartPortion#001,
+a strategy <with></en/with/PartPortion--PartPortion> 3 prongs ,PartPortion#002,
+the girl <with></en/with/PartPortion--PartPortion> flaxen hair ,PartPortion#003,
+a man <with></en/with/PartPortion--PartPortion> a wooden leg named Smith ,PartPortion#004,
+a valley <with></en/with/PartPortion--PartPortion> a castle ,PartPortion#005,
+a quintet <with></en/with/PartPortion--PartPortion> 2 cellos ,PartPortion#006,
+a performance <with></en/with/PartPortion--PartPortion> a guitar solo ,PartPortion#007,
+a cake <with></en/with/PartPortion--PartPortion> 3 layers ,PartPortion#008,
+a sandwich <with></en/with/PartPortion--PartPortion> wheat bread ,PartPortion#009,
+soup <with></en/with/PartPortion--PartPortion> carrots  ,PartPortion#010,(in it)
+a chicken sandwich <with></en/with/PartPortion--PartPortion> ketchup  ,PartPortion#011,(on it)
+Bread <without></en/without/PartPortion--PartPortion> gluten ,PartPortion#012,
+strategies <such_as></en/such_as/PartPortion--PartPortion> divide-and-conquer ,PartPortion#013,
+Everyone <except></en/except/PartPortion--PartPortion>but Bob plays trombone. ,PartPortion#014,
+strategies <like></en/like/PartPortion--ComparisonRef> divide-and-conquer   ,PartPortion#013|PartPortion#015,[same reading as ]|(PartPortion↝ComparisonRef)
+A clump <of></en/of/Stuff--Stuff> sand ,Stuff#001,
+A piece <of></en/of/Stuff--Stuff> wood ,Stuff#002,
+An evening <of></en/of/Stuff--Stuff> Brahms ,Stuff#003,
+A meal <of></en/of/Stuff--Stuff> salmon ,Stuff#004,
+A salad <of></en/of/Stuff--Stuff> mixed greens ,Stuff#005,
+A salad <with></en/with/Stuff--Stuff> mixed greens ,Stuff#005,
+the kid <in></en/in/Possession--Locus> a vest  ,Possession#003,(Possession↝Locus)
+They robbed her <of></en/of/Possession--Theme> her life savings. ,Possession#008,
+They spent $500 <on></en/on/Possession--Theme> the bicycle. ,Possession#009,
+They charged $500 <for></en/for/Possession--Theme> the bicycle. ,Possession#010,
+They asked $500 <for></en/for/Possession--Theme> the bicycle. ,Possession#010,
+They paid $500 <for></en/for/Possession--Theme> the bicycle. ,Possession#010,
+They owed $500 <for></en/for/Possession--Theme> the bicycle. ,Possession#010,
+$500 <for></en/for/Possession--Theme> the bicycle was excessive. ,Possession#011,
+I walked in <with></en/with/Possession--Ancillary> an umbrella. ,Ancillary#026,
+Hagrid exited the shop <with></en/with/Possession--Ancillary>  a snowy owl. ,Possession#004,(= carrying)
+People <with></en/with/Possession--Possession> money ,Possession#001,
+the kid <with></en/with/Possession--Possession> a vest  ,Possession#002,(on)
+the kid <with></en/with/Possession--Possession> makeup  ,Possession#002,(on)
+We are <out_of></en/out_of/Possession--Possession> toilet paper. ,Possession#005,
+Toilet paper? We are <out></en/out/Possession--Possession>. ,Possession#006,
+We are <out_of></en/out_of/Possession--Possession> toilet paper.  ,Source#017,(Possession)
+I bestowed the winner <with></en/with/Possession--Possession> a bicycle. ,Possession#007,
+I bestowed the winner <with></en/with/Possession--Possession> $100. ,Possession#007,
+The deaths numbered <in></en/in/QuantityValue--Locus> the thousands. ,QuantityValue#001,
+We have <about></en/about/Approximator--Approximator> a dozen eggs left. ,Approximator#001,
+We have <in_the_vicinity_of></en/in_the_vicinity_of/Approximator--Approximator> a dozen eggs left. ,Approximator#002,
+We have <over></en/over/Approximator--Approximator> a dozen eggs left. ,Approximator#003,
+We have <between></en/between/Approximator--Approximator> 3 and 6 eggs left. ,Approximator#004,
+The lake is <around></en/around/Approximator--Approximator> a mile wide. ,Approximator#005,
+The lake is <at_least></en/at_least/Approximator--Approximator> a mile wide. ,Approximator#005,
+He is too short  basketball. ,ComparisonRef#018,
+He is not tall enough  basketball. ,ComparisonRef#018,
+He is  <for></en/for/ComparisonRef--Purpose> basketball. ,ComparisonRef#018,
+He is  <to></en/to/ComparisonRef--Purpose> play basketball. ,ComparisonRef#018,
+His height is insufficient <for></en/for/ComparisonRef--Purpose> basketball. ,ComparisonRef#019,
+Your heart rate is <above></en/above/ComparisonRef--Locus> 100 bpm. ,ComparisonRef#036,
+Your heart rate is <above></en/above/ComparisonRef--Locus> normal. ,ComparisonRef#036,
+Your heart rate is <above></en/above/ComparisonRef--Locus> mine. ,ComparisonRef#036,
+The price is <within></en/within/ComparisonRef--Locus> my budget. ,ComparisonRef#037,
+My team is <ahead_of></en/ahead_of/ComparisonRef--Locus> your team in the tournament. ,ComparisonRef#038,
+I prefer this restaurant <over></en/over/ComparisonRef--Locus> that one.   ,ComparisonRef#011,[paraphrase: I like this restaurant better than that one.]
+expenses <under></en/under/Approximator--Approximator> $100 ,Approximator#006,
+Your score is <under></en/under/Approximator--Approximator> 100. ,Approximator#007,
+Your score is <over></en/over/Approximator--Approximator> 100. ,Approximator#007,
+Your score is <at_least></en/at_least/Approximator--Approximator> 100. ,Approximator#007,
+Shall I compare thee <to></en/to/ComparisonRef--Goal> a summer’s day? ,ComparisonRef#012,
+Her height is equal <to></en/to/ComparisonRef--Goal> mine. ,ComparisonRef#013,
+Her height is close <to></en/to/ComparisonRef--Goal> mine. ,ComparisonRef#013,
+We need to distinguish what is achievable <from></en/from/ComparisonRef--Source> what is desirable. ,ComparisonRef#014,
+Her height is different <from></en/from/ComparisonRef--Source> mine. ,ComparisonRef#015,
+"Don’t compare me  <with></en/with/ComparisonRef--Ancillary> my sister! , ",Ancillary#024|ComparisonRef#016,(*together)
+She is taller <than></en/than/ComparisonRef--ComparisonRef> me. ,ComparisonRef#001,
+She is taller <than></en/than/ComparisonRef--ComparisonRef> I am. ,ComparisonRef#002,
+She is taller <than></en/than/ComparisonRef--ComparisonRef> she is wide. ,ComparisonRef#003,
+She is better at math <than></en/than/ComparisonRef--ComparisonRef> at drawing. ,ComparisonRef#004,
+The shirt is more gray <than></en/than/ComparisonRef--ComparisonRef> black. ,ComparisonRef#005,
+She is as tall <as></en/as/ComparisonRef--ComparisonRef> I am. ,ComparisonRef#006,
+Your face is  red <as></en/as/ComparisonRef--ComparisonRef> a rose.  ,ComparisonRef#007,(asCharacteristic↝Extent)|(more on as—as comparatives: Comparatives and Superlatives)
+Your surname is the_same <as></en/as/ComparisonRef--ComparisonRef> mine. ,ComparisonRef#008,
+Harry had never met anyone quite <like></en/like/ComparisonRef--ComparisonRef> Luna. ,ComparisonRef#009,
+It was <as_if></en/as_if/ComparisonRef--ComparisonRef> he had insulted my mother. ,ComparisonRef#010,
+It was <like></en/like/ComparisonRef--ComparisonRef> he had insulted my mother. ,ComparisonRef#010,
+He is short <for></en/for/ComparisonRef--ComparisonRef> a basketball player. ,ComparisonRef#017,
+I don’t know anyone else <like></en/like/ComparisonRef--ComparisonRef> her.  ,ComparisonRef#030,[anyone else similar to her]
+I ordered soup <instead_of></en/instead_of/ComparisonRef--ComparisonRef> salad. ,ComparisonRef#032,
+I ordered soup <rather_than></en/rather_than/ComparisonRef--ComparisonRef> salad. ,ComparisonRef#032,
+"<Instead_of></en/instead_of/ComparisonRef--ComparisonRef> ordering salad, I ordered soup. ",ComparisonRef#033,
+The new shirts were gray <instead_of></en/instead_of/ComparisonRef--ComparisonRef> black. ,ComparisonRef#034,
+rice <with></en/with/Ensemble--Ancillary> beans  ,Ensemble#001,(= served or mixed together)
+rice <without></en/without/Ensemble--Ensemble> beans  ,Ensemble#001,(= served or mixed together)
+A smile <with></en/with/Ensemble--Ancillary> a nod was his answer. ,Ensemble#002,
+the foodservice <at></en/at/Gestalt--Locus> this restaurant  ,Gestalt#010,(Gestalt↝Locus)
+the blueness <of></en/of/Gestalt--Gestalt> the sky ,Gestalt#001,
+the sky<'s></en/'s/Gestalt--Gestalt> blueness ,Gestalt#002,
+the size <of></en/of/Gestalt--Gestalt> the crowd ,Gestalt#003,
+the crowd<'s></en/'s/Gestalt--Gestalt> size ,Gestalt#004,
+the price <of></en/of/Gestalt--Gestalt> the tea ,Gestalt#005,
+the tea<'s></en/'s/Gestalt--Gestalt> price ,Gestalt#006,
+the start time <of></en/of/Gestalt--Gestalt> the party ,Gestalt#007,
+the party<'s></en/'s/Gestalt--Gestalt> start time ,Gestalt#008,
+the power <of></en/of/Gestalt--Gestalt> the president ,Gestalt#013,
+the president<'s></en/'s/Gestalt--Gestalt> power ,Gestalt#014,
+a new way <of></en/of/Gestalt--Gestalt> thinking ,Gestalt#015,
+the amount <of></en/of/Gestalt--Gestalt> time allowed  ,Quantity#013|Gestalt#009,[but see ]
+<my></en/'s/Gestalt--Gestalt> address; my price range; my home team; my career; my record of accomplishments ,Gestalt#016,
+Sam<'s></en/'s/Gestalt--Gestalt> dog  ,Gestalt#012,(= the dog that Sam mentioned seeing earlier in the conversation)
+<my></en/'s/Gestalt--Gestalt> odometer number   ,Possessor#023|Gestalt#017,(= my car's odometer's number)|[contrast ]
+the restaurant<'s></en/'s/Gestalt--Gestalt> extensive menu  ,Characteristic#006|Gestalt#018,[cf. ]
+It was the chairman<'s></en/'s/Gestalt--Gestalt> fault. ,Gestalt#019,
+It was the chairman<'s></en/'s/Gestalt--Gestalt> responsibility. ,Gestalt#019,
+It was the chairman<'s></en/'s/Gestalt--Gestalt> right. ,Gestalt#019,
+<my></en/'s/Gestalt--Gestalt> hometown ,en/genitivespossessives#016,
+<my></en/'s/Gestalt--Gestalt> birthplace ,en/genitivespossessives#016,
+I am <with></en/with/Org--Ancillary> Grunnings. ,Ancillary#010,
+people <with></en/with/Org--Ancillary> Grunnings  ,Ancillary#011,(= Grunnings employees)
+Mr. Dursley is <with></en/with/Org--Ancillary> Grunnings. ,Org#016,
+I always do business <with></en/with/Org--Ancillary> this company. ,Org#018,
+I bank <with></en/with/Org--Ancillary> TSB. ,Org#019,
+my phone service <with></en/with/Org--Ancillary> Verizon ,Org#020,
+the cloak <on></en/on/Possessor--Locus> He-Who-Must-Not-Be-Named  ,Possessor#009,(Possessor↝Locus)
+He was not ready to share a house  <with></en/with/Possessor--Ancillary> her. ,Ancillary#022,(*together)
+the house <of></en/of/Possessor--Possessor> the Smith family ,Possessor#001,
+the Smith family<'s></en/'s/Possessor--Possessor> house ,Possessor#002,
+the corgis <of></en/of/Possessor--Possessor> Queen Elizabeth ,Possessor#003,
+Queen Elizabeth<'s></en/'s/Possessor--Possessor> corgis ,Possessor#004,
+John<'s></en/'s/Possessor--Possessor> hotel room  ,Possessor#005,[the room John is staying in as a guest]
+Mary<'s></en/'s/Possessor--Possessor> delivery truck  ,Possessor#006,[the company truck that Mary drives as an employee]
+the cloak <of></en/of/Possessor--Possessor> He-Who-Must-Not-Be-Named ,Possessor#007,
+He-Who-Must-Not-Be-Named<'s></en/'s/Possessor--Possessor> cloak ,Possessor#008,
+<my></en/'s/Possessor--Possessor> shares of stock ,Possessor#011,
+<my></en/'s/Possessor--Possessor> insurance  ,Possessor#012,(= insurance that I “own”)
+<my></en/'s/Possessor--Possessor> computer file ,Possessor#013,
+<my></en/'s/Possessor--Possessor> website ,Possessor#014,
+the campaign<'s></en/'s/Possessor--Possessor> email list ,Possessor#024,
+<my></en/'s/Possessor--Possessor> contract ,Possessor#015,
+The shopkeeper<'s></en/'s/Possessor--Possessor> merchandise is fantastic.  ,Possessor#202,[item to be sold]
+The store<'s></en/'s/Possessor--Possessor> merchandise is fantastic.  ,Possessor#202,[item to be sold]
+"Waiter, is <my></en/'s/Possessor--Possessor> food ready?  ",Possessor#021,[item identified or ordered for purchase]
+Use <my></en/'s/Possessor--Possessor> money  wisely!  ,Possessor#022,(the money that I gave you)|[item that was transferred]
+<My></en/'s/Possessor--Possessor> windshield  is foggy.  ,Gestalt#017|Possessor#023,(= the windshield of my vehicle)|[contrast ]
+That was <my></en/'s/Possessor--Possessor> gift.  ,Possessor#026|Possessor#027|Possessor#025,"[contrast , ]"
+Can you outrun a herd <of></en/of/QuantityItem--Stuff> wildebeest? ,QuantityItem#015,
+Put 3 bales <of></en/of/QuantityItem--Stuff> hay on the truck. ,QuantityItem#016,
+A group <of></en/of/QuantityItem--Stuff> vacationers just arrived. ,QuantityItem#017,
+2 groups <of></en/of/QuantityItem--Stuff> vacationers just arrived. ,QuantityItem#017,
+A throng <of></en/of/QuantityItem--Stuff> vacationers just arrived. ,QuantityItem#017,
+A groupthrong <of></en/of/QuantityItem--Stuff> vacationers   ,Stuff#007,(QuantityItem↝Stuff)|[governor is collective noun not denoting an organization; more at QuantityItem]
+A generous amount <of></en/of/QuantityItem--Gestalt> time ,QuantityItem#013,
+A large number <of></en/of/QuantityItem--Gestalt> students ,QuantityItem#014,
+Pour me a bottle <of></en/of/QuantityItem--QuantityItem> beer.  ,Stuff#006|QuantityItem#001,(’s worth)|[but see ]
+I have 2 years <of></en/of/QuantityItem--QuantityItem> training. ,QuantityItem#002,
+I ate 6 ounces <of></en/of/QuantityItem--QuantityItem> cake. ,QuantityItem#003,
+I ate a piece <of></en/of/QuantityItem--QuantityItem> cake. ,QuantityItem#003,
+An ounce <of></en/of/QuantityItem--QuantityItem> compassion ,QuantityItem#004,
+There’s a dearth <of></en/of/QuantityItem--QuantityItem> cake in the house. ,QuantityItem#005,
+This cake has thousands <of></en/of/QuantityItem--QuantityItem> sprinkles. ,QuantityItem#006,
+There were thousands <of></en/of/QuantityItem--QuantityItem> deaths. ,QuantityValue#002,
+They number in the tens <of></en/of/QuantityItem--QuantityItem> thousands. ,QuantityItem#007,
+I have a number <of></en/of/QuantityItem--QuantityItem> students. ,QuantityItem#008,
+I have a handful <of></en/of/QuantityItem--QuantityItem> students. ,QuantityItem#008,
+I have a lot <of></en/of/QuantityItem--QuantityItem> students. ,QuantityItem#009,
+We did a lot <of></en/of/QuantityItem--QuantityItem> traveling. ,QuantityItem#010,
+There is a lot <of></en/of/QuantityItem--QuantityItem> wet sand on the beach. ,QuantityItem#011,
+A pair <of></en/of/QuantityItem--QuantityItem> shoes ,QuantityItem#012,
+I ate 6 ounces <of></en/of/QuantityItem--Whole> the cake in the refrigerator. ,QuantityItem#018,
+I ate half <of></en/of/QuantityItem--Whole> the cake. ,QuantityItem#019,
+I ate 50% <of></en/of/QuantityItem--Whole> the cake. ,QuantityItem#019,
+All <of></en/of/QuantityItem--Whole> the town’s residents   are students. ,QuantityItem#020,
+many <of></en/of/QuantityItem--Whole> the town’s residents   are students. ,QuantityItem#020,
+lots <of></en/of/QuantityItem--Whole> the town’s residents   are students. ,QuantityItem#020,
+a lot <of></en/of/QuantityItem--Whole> the town’s residents   are students. ,QuantityItem#020,
+some <of></en/of/QuantityItem--Whole> the town’s residents   are students. ,QuantityItem#020,
+few <of></en/of/QuantityItem--Whole> the town’s residents   are students. ,QuantityItem#020,
+both <of></en/of/QuantityItem--Whole> the town’s residents   are students. ,QuantityItem#020,
+none <of></en/of/QuantityItem--Whole> the town’s residents   are students. ,QuantityItem#020,
+I have seen all <of></en/of/QuantityItem--Whole> the city.  ,QuantityItem#021,(= the whole city)
+A lot <of></en/of/QuantityItem--Whole> the sand on the beach is wet. ,QuantityItem#022,
+2 <of></en/of/QuantityItem--Whole> the children are redheads. ,QuantityItem#023,
+2 <of></en/of/QuantityItem--Whole> the 10 children in the class are redheads. ,QuantityItem#024,
+Many steps are involved <in></en/in/Whole--Circumstance> the process of buying a home. \ ,Circumstance#012,(Whole↝Circumstance)
+the 14 episodes <in></en/in/Whole--Locus> a TV series ,Whole#021,
+the new engine <in></en/in/Whole--Locus> the car ,Whole#022,
+the escape key <on></en/on/Whole--Locus> the keyboard ,Whole#023,
+the flaxen hair <on></en/on/Whole--Locus> the girl ,Whole#024,
+the clothes <in></en/in/Whole--Locus> that pile are dirty ,Whole#025,
+2 <in></en/in/Whole--Locus> 10 American children are redheads.  ,Whole#028,(Whole↝Locus)
+There are several options to choose <from></en/from/Whole--Source>.  ,Whole#026,(Whole↝Source)
+2 <out_of></en/out_of/Whole--Source> 10 American children are redheads.  ,Whole#029,(Whole↝Source)
+"<Out_of></en/out_of/Whole--Source> the 10 children in the class, only Mary is a redhead.  ",Whole#030,(Whole↝Source)
+the car<'s></en/'s/Whole--Gestalt> new engine ,Whole#002,
+the girl<'s></en/'s/Whole--Gestalt> flaxen hair ,Whole#004,
+the cake<'s></en/'s/Whole--Gestalt> 3 layers ,Whole#006,
+the strategy<'s></en/'s/Whole--Gestalt> 3 prongs ,Whole#008,
+the cake<'s></en/'s/Whole--Gestalt> tastiest bit ,Whole#010,
+the island<'s></en/'s/Whole--Gestalt> southern tip ,Whole#012,
+the shopping bag<'s></en/'s/Whole--Gestalt> interior ,Whole#014,
+the journey<'s></en/'s/Whole--Gestalt> end ,Whole#016,
+a TV series<'s></en/'s/Whole--Gestalt> 14 episodes ,Whole#018,
+the Principals Committee <of></en/of/Whole--Whole> the National Security Council ,Org#025,
+Microsoft<'s></en/'s/Whole--Whole> cloud services division ,Org#006,
+the new engine <of></en/of/Whole--Whole> the car ,Whole#001,
+the flaxen hair <of></en/of/Whole--Whole> the girl ,Whole#003,
+the 3 layers <of></en/of/Whole--Whole> the cake ,Whole#005,
+the 3 prongs <of></en/of/Whole--Whole> the strategy ,Whole#007,
+the tastiest bit <of></en/of/Whole--Whole> the cake ,Whole#009,
+the southern tip <of></en/of/Whole--Whole> the island ,Whole#011,
+the interior <of></en/of/Whole--Whole> the shopping bag ,Whole#013,
+the end <of></en/of/Whole--Whole> the journey ,Whole#015,
+the 14 episodes <of></en/of/Whole--Whole> a TV series ,Whole#017,
+the south <of></en/of/Whole--Whole> France ,Whole#019,
+The remainder <of></en/of/Whole--Whole> the cake ,Whole#020,
+The rest <of></en/of/Whole--Whole> the cake ,Whole#020,
+This is one <of></en/of/Whole--Whole> the worst retaurants in town. ,Whole#027,
+This is one <of></en/of/Whole--Whole> the better retaurants in town. ,Whole#027,
+"<Among></en/among/Whole--Whole> the 10 children in the class, only Mary is a redhead. ",Whole#031,
+It must be great to have a wonderful doctor <like></en/like/Identity--ComparisonRef> her.        ,ComparisonRef#031,[It must be great to have her because she is a wonderful doctor]|(Identity↝ComparisonRef)
+It must be great to have a wonderful doctor <like></en/like/Identity--ComparisonRef> she is.        ,ComparisonRef#031,[It must be great to have her because she is a wonderful doctor]|(Identity↝ComparisonRef)
+the state <of></en/of/Identity--Identity> Washington  ,Identity#001,[as opposed to the city]
+The liberal state <of></en/of/Identity--Identity> Washington has not been receptive to Trump’s message. ,Identity#002,
+"<As></en/as/Identity--Identity> a liberal state, Washington has not been receptive to Trump’s message. ",Identity#003,
+I like Bob <as></en/as/Identity--Identity> a colleague.  ,Identity#004,[but not as a friend]
+What a gem <of></en/of/Identity--Identity> a restaurant!  ,Identity#005,[exclamative idiom: both NPs are indefinite]
+the problemtaskhassle <of></en/of/Identity--Identity> raising money ,Identity#006,
+the age <of></en/of/Identity--Identity> eight ,Identity#007,
+They did a great job <of></en/of/Identity--Identity> cleaning my windows. ,Identity#008,
+the topicissuequestion <of></en/of/Identity--Identity> semantics ,Identity#009,
+the idea <of></en/of/Identity--Identity> raising money ,Identity#010,
+She appears <as></en/as/Identity--Identity> Ophelia in Hamlet. ,Identity#011,
+"He is usually a bartender, but today he is working <as></en/as/Identity--Identity> a waiter. ",Identity#012,
+The cost is $10 <per></en/per/RateUnit--RateUnit> item. ,RateUnit#001,
+A fuel efficiency of 40 miles <per></en/per/RateUnit--RateUnit> gallon  ,RateUnit#002,(of gas)
+Pizza is sold <by></en/by/RateUnit--RateUnit> the slice. ,RateUnit#003,
+They charge <by></en/by/RateUnit--RateUnit> the hour. ,RateUnit#004,
+Joan is studying <under></en/under/SocialRel--Locus> Prof. Smith.  ,SocialRel#009,(SocialRel↝Locus)
+Joan is married <to></en/to/SocialRel--Goal> John. ,SocialRel#010,
+Joan is divorced <from></en/from/SocialRel--Source> John. ,SocialRel#011,
+Joan bought her house <through></en/through/SocialRel--Instrument> a real estate agent.  ,Instrument#016,(SocialRel↝Instrument)
+Joan bought her house <through></en/through/SocialRel--Instrument> a real estate agent.   ,SocialRel#012,[intermediary]|(SocialRel↝Instrument)
+I work <with></en/with/SocialRel--Ancillary> Steve. ,Ancillary#009,
+I work <with></en/with/SocialRel--Ancillary> Michael. ,SocialRel#001,
+John and Mary are <together></en/together/SocialRel--Ancillary> . ,Ancillary#030,(= a couple)
+Joan has a class <with></en/with/SocialRel--Ancillary> Miss Zarves. ,SocialRel#002,
+people <with></en/with/SocialRel--Characteristic> children  ,SocialRel#017,(SocialRel↝Characteristic)
+Joan is the sister <of></en/of/SocialRel--Gestalt> John. ,SocialRel#003,
+Joan is the wife <of></en/of/SocialRel--Gestalt> John. ,SocialRel#003,
+Joan is John<'s></en/'s/SocialRel--Gestalt> sister. ,SocialRel#004,
+Joan is John<'s></en/'s/SocialRel--Gestalt> wife. ,SocialRel#004,
+Joan is a student <of></en/of/SocialRel--Gestalt> Miss Zarves. ,SocialRel#005,
+Joan is Miss Zarves<'s></en/'s/SocialRel--Gestalt> student. ,SocialRel#006,
+the rivalry <of></en/of/SocialRel--Gestalt> the teams ,SocialRel#014,
+the team<s'></en/'s/SocialRel--Gestalt> rivalry ,SocialRel#015,
+the rivalry <between></en/between/SocialRel--Whole> the teams  ,Whole#035|SocialRel#016,[see ]
+that sort <of></en/of/Species--Species> business ,Species#001,
+A good type <of></en/of/Species--Species> ant to keep is the red ant . ,Species#002,
+certain strains <of></en/of/Species--Species> Escherichia coli ,Species#003,
+Modern breeds <of></en/of/Species--Species> these homing pigeons return reliably ,Species#004,
+Some poor sap applied the wrong brand <of></en/of/Species--Species> paint ,Species#005,
+This store offers a wide selection <of></en/of/Species--Species> footstools ,Species#006,
+an example <of></en/of/Species--Species> Italian Renaissance architecture ,Species#008,
+the epitome <of></en/of/Species--Species> Italian Renaissance architecture ,Species#008,
