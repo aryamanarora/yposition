@@ -11,8 +11,9 @@ parens = re.compile(r'[\(\[].*?[\)\]]')
 
 fin = open('output.csv', 'w')
 writer = csv.writer(fin)
+writer.writerow(['Sentence', 'Scene Role', 'Function', 'Notes'])
 
-def append_sentence(sentence):
+def append_sentence(sentence, role, fxn):
     [tag.decompose() for tag in sentence.find_all(class_='exref')]
     bold = sentence.find(class_='usage')
     if bold:
@@ -25,7 +26,7 @@ def append_sentence(sentence):
         notes.append(match)
     sentence = parens.sub('', sentence).replace('|', '/')
     print(sentence)
-    writer.writerow([sentence, '|'.join(notes)])
+    writer.writerow([sentence, role, fxn, '|'.join(notes)])
 
 
 for role in supersenses:
@@ -43,8 +44,8 @@ for role in supersenses:
                         sentence = copy.copy(example)
                         for j, remove in enumerate(sentence.find_all('u')):
                             if j != i: remove.decompose()
-                        append_sentence(sentence)
+                        append_sentence(sentence, role, fxn)
                 else:
-                    append_sentence(example)
+                    append_sentence(example, role, fxn)
                     
 fin.close()
